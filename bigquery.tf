@@ -10,6 +10,7 @@ resource "google_bigquery_table" "wheelie_bigquery" {
   dataset_id = google_bigquery_dataset.wheelie_bigquery_dataset.dataset_id
   table_id   = replace(each.key, ".csv", "")
   project    = var.project_id
+  deletion_protection = false
 
   external_data_configuration {
     source_format = "CSV"
