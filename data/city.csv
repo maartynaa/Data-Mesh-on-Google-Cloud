@@ -1,0 +1,5150 @@
+city_id,city,country_id
+33852,A Coruña,7
+45,Aachen,2
+18643,Aalen,2
+44327,Abano Terme,13
+9106,Abarán,7
+36374,Abbeville,8
+9877,Abbiategrasso,13
+49639,Abensberg,2
+37490,Abony,12
+41063,Abrera,7
+26655,Acalá del Río,7
+9651,Acate,13
+44929,Acerra,13
+19272,Acharnés,14
+49154,Achères,8
+40233,Achern,2
+7261,Aci Castello,13
+25985,Aci Catena,13
+14995,Aci Sant’Antonio,13
+21934,Acireale,13
+13023,Acqui Terme,13
+37892,Acri,13
+140,Adam,8
+54096,Adelsdorf,2
+22813,Adendorf,2
+53410,Adrano,13
+51754,Adria,13
+44689,Afragola,13
+25428,Agen,8
+15546,Agía Varvára,14
+6927,Ágios Ioánnis Réntis,14
+52183,Agliana,13
+611,Agrate Brianza,13
+52321,Agrínio,14
+3701,Agropoli,13
+7826,Aguilar,7
+27464,Águilas,7
+44160,Ahaus,2
+3061,Ahlen,2
+27253,Ahrensburg,2
+20671,Ahrensfelde,2
+14338,Åhus,4
+11083,Aich,2
+43372,Aichach,2
+172,Aidan Ville,9
+35139,Aidlingen,2
+3170,Aigues-Mortes,8
+45008,Aire-sur-la-Lys,8
+25043,Aix-en-Provence,8
+1591,Aix-les-Bains,8
+33383,Ajka,12
+529,Åkersberga,4
+12402,Alacuás,7
+57075,Alajärvi,5
+164,Alan Ville,9
+361,Alassio,13
+163,Alastair Ville,9
+38618,Alatri,13
+132,Álava,7
+1996,Alavus,5
+37994,Alayor,7
+134,Albacete,7
+10414,Albal,7
+11010,Albano Laziale,13
+12021,Albatera,7
+11183,Albenga,13
+6141,Alberique,7
+24227,Alberobello,13
+48155,Albert,8
+7616,Albertirsa,12
+14038,Albertville,8
+970,Albi,8
+36478,Albignasego,13
+10611,Albinea,13
+14041,Albino,13
+12128,Albolote,7
+15120,Alboraya,7
+54136,Albox,7
+7034,Alcalá de Guadaira,7
+30007,Alcalá de Henares,7
+3813,Alcalá la Real,7
+14587,Alcamo,13
+33737,Alcarraz,7
+9718,Alcaudete,7
+11641,Alcira,7
+46950,Alcobendas,7
+52360,Alcora,7
+31412,Alcorcón,7
+5748,Alcoy,7
+25150,Alcudia,7
+40085,Aldaya,7
+18641,Aldenhoven,2
+1200,Aleksandrów Kujawski,1
+592,Aleksandrów Łódzki,1
+1839,Alella,7
+44577,Alençon,8
+11616,Alessandria,13
+13235,Ålesund,6
+56115,Alexandroúpoli,14
+15686,Alfafar,7
+16704,Alfaro,7
+23261,Alfonsine,13
+51358,Alfter,2
+21862,Algeciras,7
+33080,Algemesí,7
+3581,Algete,7
+10438,Alguazas,7
+53769,Alhaurín de la Torre,7
+7951,Alhaurín el Grande,7
+2274,Alhendín,7
+5169,Alicante,7
+49072,Álimos,14
+81,Alingsås,4
+3226,Aljaraque,7
+52921,Allonnes,8
+29762,Almagro,7
+16379,Almendralejo,7
+13696,Älmhult,4
+15509,Almonte,7
+27466,Almuñécar,7
+3697,Almusafes,7
+42082,Alovera,7
+18604,Alpedrete,7
+24132,Alpen,2
+53723,Alpignano,13
+25953,Alsbach-Hähnlein,2
+32484,Alsdorf,2
+26438,Alsfeld,2
+4359,Altamura,13
+14507,Altavilla Vicentina,13
+28654,Altdorf,2
+15074,Altea,7
+33654,Altenberge,2
+7692,Altenstadt,2
+41996,Altensteig,2
+194,Altheim,11
+5319,Altlandsberg,2
+17303,Altofonte,13
+39948,Altopascio,13
+24773,Altötting,2
+22507,Altusried,2
+22750,Alzenau in Unterfranken,2
+7655,Alzey,2
+4051,Åmål,4
+15411,Amaliáda,14
+10048,Ambérieu-en-Bugey,8
+6409,Amboise,8
+28153,Amés,7
+57433,Amiens,8
+57523,Amilly,8
+31477,Amnéville,8
+7654,Ampelókipoi,14
+1462,Amstetten,11
+35263,Amurrio,7
+14101,An Cabhán,9
+589,Anatolí,14
+11237,Ancona,13
+5835,Andernach,2
+39412,Andernos-les-Bains,8
+19399,Andoain,7
+21508,Andraitx,7
+174,Andrea Ville,9
+19004,Andrésy,8
+14659,Andria,13
+1100,Andrychów,1
+55687,Andújar,7
+34598,Angers,8
+996,Anglet,8
+40646,Annappes,8
+43764,Annecy,8
+30514,Annecy-le-Vieux,8
+12062,Annemasse,8
+30406,Annoeullin,8
+5095,Annonay,8
+8054,Áno Liósia,14
+34891,Ansfelden,11
+56775,Antequera,7
+21447,Antibes,8
+173,Antoinette Ville,9
+3421,Antony,8
+13992,Anzin,8
+29698,Anzio,13
+30459,Aosta,13
+3013,Apen,2
+10364,Appenweier,2
+28325,Aprilia,13
+5780,Aradeo,13
+38686,Aragona,13
+9131,Aranda de Duero,7
+57259,Aranjuez,7
+23004,Arboga,4
+42950,Arco,13
+37646,Arcos de la Frontera,7
+14384,Arcueil,8
+55686,Ardea,13
+24545,Arendal,6
+13186,Arenys de Mar,7
+28981,Arenys de Munt,7
+43702,Arenzano,13
+37182,Arezzo,13
+4652,Argelato,13
+38164,Argelès-sur-Mer,8
+5098,Argentan,8
+4904,Argenteuil,8
+49387,Argentona,7
+5318,Argostóli,14
+20743,Argyroúpoli,14
+33682,Ariano Irpino,13
+8643,Ariccia,13
+6991,Arico el Nuevo,7
+57105,Arklow,9
+9161,Arlöv,4
+50209,Arluno,13
+22868,Armentières,8
+41378,Armilla,7
+10334,Arnedo,7
+10792,Arnouville-lès-Gonesse,8
+18669,Arnsberg,2
+19535,Arnstadt,2
+15853,Arona,7
+21805,Arpajon,8
+24256,Arques,8
+46320,Arras,8
+45110,Arrigorriaga,7
+20765,Arroyomolinos,7
+17263,Árta,14
+3169,Arteijo,7
+25581,Artémida,14
+45074,Artena,13
+29298,Arucas,7
+42182,Arvika,4
+27441,Arzano,13
+8214,Aš,108
+3894,Aschaffenburg,2
+56684,Ascheberg,2
+5870,Aschersleben,2
+19203,Aschheim,2
+12473,Ascoli Piceno,13
+123,Åsevær,6
+6963,Ashtown,9
+1994,Askøy,6
+14568,Aßlar,2
+36922,Asola,13
+28481,Asperg,2
+2688,Asprópyrgos,14
+2401,Assèmini,13
+37451,Astorga,7
+36983,Åstorp,4
+10636,Atessa,13
+47040,Athens,14
+10236,Athis-Mons,8
+32670,Atri,13
+9292,Attnang-Puchheim,11
+12267,Aubenas,8
+13384,Aubergenville,8
+4458,Aubervilliers,8
+19529,Aubière,8
+42184,Aucamville,8
+3447,Auch,8
+16583,Auchel,8
+49442,Aue,2
+34162,Auerbach,2
+290,Augustów,1
+50169,Aulendorf,2
+5093,Aulla,13
+14994,Aulnay-sous-Bois,8
+13504,Aulnoye-Aymeries,8
+26811,Aurich,2
+8212,Auriol,8
+25303,Aurisina,13
+3516,Autun,8
+57006,Avellino,13
+43004,Aversa,13
+27743,Avesta,4
+45220,Avezzano,13
+41351,Avigliana,13
+45522,Avignon,8
+7874,Ávila,7
+39981,Avilés,7
+1998,Avion,8
+1763,Avola,13
+6894,Avranches,8
+1458,Avrillé,8
+19826,Aytré,8
+11109,Azcoitia,7
+6994,Azpeitia,7
+2269,Azuqueca de Henares,7
+2689,Azzano Decimo,13
+57331,Babenhausen,2
+18099,Backnang,2
+51009,Bacoli,13
+21167,Bad Berleburg,2
+14179,Bad Bevensen,2
+13639,Bad Bramstedt,2
+34445,Bad Camberg,2
+23530,Bad Doberan,2
+36957,Bad Dürkheim,2
+19796,Bad Dürrenberg,2
+4863,Bad Dürrheim,2
+9676,Bad Ems,2
+48118,Bad Essen,2
+16024,Bad Fallingbostel,2
+28196,Bad Freienwalde,2
+2446,Bad Gandersheim,2
+46461,Bad Hersfeld,2
+41154,Bad Homburg,2
+34467,Bad Honnef am Rhein,2
+8558,Bad Kissingen,2
+5716,Bad König,2
+28923,Bad Kreuznach,2
+12890,Bad Krozingen,2
+13695,Bad Laasphe,2
+7656,Bad Laer,2
+32,Bad Langensalza,2
+49008,Bad Lauchstädt,2
+40472,Bad Lauterberg,2
+1071,Bad Liebenwerda,2
+12655,Bad Liebenzell,2
+13735,Bad Lippspringe,2
+16546,Bad Mergentheim,2
+33518,Bad Nenndorf,2
+12621,Bad Neuenahr-Ahrweiler,2
+23875,Bad Oldesloe,2
+54900,Bad Orb,2
+10333,Bad Rappenau,2
+28099,Bad Reichenhall,2
+43309,Bad Säckingen,2
+39980,Bad Salzuflen,2
+11472,Bad Sassendorf,2
+15951,Bad Schussenried,2
+6375,Bad Schwalbach,2
+46028,Bad Segeberg,2
+26865,Bad Soden am Taunus,2
+3204,Bad Sooden-Allendorf,2
+11184,Bad Tölz,2
+33879,Bad Vilbel,2
+15075,Bad Vöslau,11
+12268,Bad Wildungen,2
+22348,Bad Wörishofen,2
+3517,Badajoz,7
+21689,Badalona,7
+20637,Baden,11
+16957,Baden-Baden,2
+49612,Badia Polesine,13
+22752,Baena,7
+6062,Baeza,7
+56118,Bagheria,13
+19493,Bagnacavallo,13
+12728,Bagnara Calabra,13
+28573,Bagneux,8
+57033,Bagno a Ripoli,13
+627,Bagnolet,8
+701,Bagnolo in Piano,13
+17697,Bagnolo Mella,13
+16418,Bagnols-sur-Cèze,8
+13911,Baiersbronn,2
+32528,Baile Átha Luain,9
+24775,Bailleul,8
+150,Bailly,8
+50546,Baja,12
+38687,Balatonalmádi,12
+706,Balatonfüred,12
+18777,Balingen,2
+15685,Ballenstedt,2
+4300,Ballincollig,9
+2052,Balma,8
+4083,Balmazújváros,12
+6377,Bålsta,4
+9875,Balve,2
+11240,Bamble,6
+349,Banino,1
+796,Bannewitz,2
+25458,Bañolas,7
+45153,Bánovce nad Bebravou,10
+14787,Banská Bystrica,10
+10696,Banská Štiavnica,10
+36648,Bar-le-Duc,8
+36288,Barañáin,7
+30560,Baranzate,13
+8423,Barbastro,7
+58771,Barbate de Franco,7
+33686,Barcellona-Pozzo di Gotto,13
+133,Barcelona,7
+32552,Barcs,12
+3227,Bareggio,13
+56001,Barentin,8
+54076,Barga,13
+26219,Bargas,7
+8161,Bargteheide,2
+39949,Barleben,2
+15611,Barletta,13
+295,Barlinek,1
+15474,Barmstedt,2
+5624,Barntrup,2
+11520,Barßel,2
+35472,Barsinghausen,2
+4461,Barth,2
+1221,Bartoszyce,1
+1248,Bassum,2
+3626,Bátonyterenye,12
+12470,Baunatal,2
+30,Bautzen,2
+34473,Bayeux,8
+9136,Bayonne,8
+2056,Bayreuth,2
+42220,Baza,7
+58595,Beasain,7
+43103,Beaucaire,8
+45660,Beaumont,8
+19983,Beaumont-sur-Oise,8
+14993,Beaune,8
+14789,Beausoleil,8
+15076,Beauvais,8
+31714,Bebra,2
+9680,Beckingen,2
+43043,Bedburg,2
+429,Będzin,1
+25883,Beelitz,2
+44833,Bègles,8
+5592,Beilngries,2
+4501,Béjar,7
+45784,Békéscsaba,12
+2201,Bellegarde-sur-Valserine,8
+5262,Bellerive-sur-Allier,8
+25493,Bellevue,8
+31563,Bellheim,2
+45296,Belm,2
+7037,Belmonte Mezzagno,13
+14991,Belvedere Marittimo,13
+25427,Belzig,2
+36210,Benaguacil,7
+3543,Benahavís,7
+8394,Bendorf,2
+47344,Benešov,108
+62,Benešov nad Ploučnicí,3
+39881,Benetúser,7
+28068,Benevento,13
+12848,Benicarló,7
+47135,Benidorm,7
+25687,Beniel,7
+28574,Benifayó,7
+27689,Bensheim,2
+228,Bentivoglio,13
+364,Berching,2
+7187,Berck-sur-Mer,8
+45154,Berettyóújfalu,12
+53051,Berga,7
+15742,Bergamo,13
+21471,Bergen,2
+1805,Bergen,6
+6036,Bergerac,8
+49973,Bergheim,2
+631,Bergneustadt,2
+119,Beritodden,6
+19986,Berja,7
+48,Berlin,2
+18138,Bermeo,7
+12571,Bernalda,13
+2089,Bernay,8
+13942,Bernburg,2
+15344,Berndorf,11
+11674,Bernolákovo,10
+32796,Beroun,108
+3035,Berriozar,7
+14690,Bertinoro,13
+15975,Besana in Brianza,13
+18881,Besançon,8
+41153,Besigheim,2
+5457,Besozzo,13
+43667,Bestwig,2
+3578,Betanzos,7
+42465,Bétera,7
+22818,Béthune,8
+3735,Betton,8
+11796,Beuvry,8
+26439,Beverstedt,2
+17443,Beverungen,2
+8918,Bexbach,2
+1584,Béziers,8
+1342,Bełchatów,1
+30944,Biancavilla,13
+616,Biassono,13
+668,Biała Podlaska,1
+260,Białogard,1
+261,Biały Kamień,1
+747,Białystok,1
+18214,Bibbiena,13
+52144,Biberach,2
+4569,Biblis,2
+50898,Bicske,12
+26943,Bieber,2
+5096,Biedenkopf,2
+665,Bielawa,1
+4433,Bielefeld,2
+408,Biella,13
+1146,Bielsk Podlaski,1
+806,Bielsko-Biała,1
+3115,Bieruń,1
+432,Bieruń Stary,1
+43624,Bietigheim-Bissingen,2
+37993,Bilbao,7
+19431,Bílina,108
+2750,Billerbeck,2
+12688,Billère,8
+7541,Binéfar,7
+4395,Bingen am Rhein,2
+46694,Biot,8
+113,Birkeland,6
+11324,Birkenau,2
+6645,Birkenfeld,2
+17080,Biscarrosse,8
+13239,Bisceglie,13
+3323,Bischheim,8
+29563,Bischofsheim,2
+28786,Bischofshofen,11
+8980,Bischofswerda,2
+23320,Bischwiller,8
+4439,Bisignano,13
+4997,Bisingen,2
+651,Biskupiec,1
+53949,Bissendorf,2
+6695,Bitetto,13
+17141,Bitterfeld,2
+268,Biłgoraj,1
+53894,Bjärred,4
+558,Blachownia,1
+15470,Blackrock,9
+51773,Blain,8
+158,Blanaid Ville,9
+147,Blanchard,8
+32233,Blanes,7
+1385,Blankenburg,2
+41322,Blankenfelde,2
+2083,Blansko,108
+27395,Blaubeuren,2
+1590,Bleicherode,2
+19488,Blieskastel,2
+7985,Blomberg,2
+22006,Bludenz,11
+18097,Blumberg,2
+6855,Boadilla del Monte,7
+37647,Bobenheim-Roxheim,2
+17915,Bobigny,8
+554,Bochnia,1
+17233,Bocholt,2
+14747,Bochum,2
+3327,Boden,4
+1529,Bogatynia,1
+44651,Bogen,2
+550,Boguszów-Gorce,1
+55761,Böhl-Iggelheim,2
+11834,Bohmte,2
+22509,Bohumín,108
+7035,Boiro,7
+5316,Bois-Colombes,8
+35927,Boissy-Saint-Léger,8
+22132,Boizenburg,2
+41025,Bolbec,8
+979,Bolesławiec,1
+27945,Bollate,13
+49638,Bollène,8
+36117,Bollnäs,4
+7188,Bollullos de la Mitación,7
+58293,Bollullos par del Condado,7
+21506,Bologna,13
+15121,Bolzano,13
+27059,Bonate di Sopra,13
+1099,Bondeno,13
+53343,Bondoufle,8
+3223,Bönen,2
+41945,Bonn,2
+33944,Bonneuil-sur-Marne,8
+24444,Bonyhád,12
+4334,Boo,4
+6038,Boppard,2
+13805,Borås,4
+49441,Bordeaux,8
+31480,Bordighera,13
+1726,Borgaro Torinese,13
+24185,Borgentreich,2
+25647,Borgo a Buggiano,13
+3771,Borgo San Dalmazzo,13
+6858,Borgo San Lorenzo,13
+25906,Borgomanero,13
+31262,Borgoricco,13
+25582,Borgosatollo,13
+19398,Borgosesia,13
+3577,Borken,2
+16096,Borlänge,4
+4567,Bormujos,7
+471,Borna,2
+47251,Borre,6
+17487,Boscotrecase,13
+18375,Bösel,2
+20764,Botticino Sera,13
+31356,Bouc-Bel-Air,8
+6503,Boucau,8
+587,Bougival,8
+21314,Bouguenais,8
+17230,Boulogne-Billancourt,8
+43352,Boulogne-sur-Mer,8
+18349,Bourg-de-Péage,8
+33042,Bourges,8
+26396,Bourgoin-Jallieu,8
+1627,Bovalino Marina,13
+29977,Bovenden,2
+3979,Boves,13
+13234,Boville Ernica,13
+8162,Bovisio Masciago,13
+18556,Bracciano,13
+37992,Brand-Erbisdorf,2
+15410,Brandis,2
+12765,Brandizzo,13
+1143,Braniewo,1
+9160,Bratislava,10
+305,Braunau am Inn,11
+15744,Braunsbedra,2
+7263,Braunschweig,2
+4506,Breckerfeld,2
+31413,Břeclav,108
+40766,Breganze,13
+43042,Bregenz,11
+1097,Breisach am Rhein,2
+5317,Brembate,13
+27217,Bremen,2
+52113,Bremerhaven,2
+20457,Bremervörde,2
+20881,Brenes,7
+48963,Brescia,13
+5373,Bressanone,13
+15826,Bresso,13
+55493,Bressuire,8
+58772,Brest,8
+52039,Brétigny-sur-Orge,8
+23604,Bretzfeld,2
+24368,Breuillet,8
+7117,Břevnov,108
+30943,Brezno,10
+31030,Briançon,8
+614,Brie-Comte-Robert,8
+2956,Brieselang,2
+916,Brignais,8
+23564,Brignoles,8
+110,Brittgrunn,6
+30462,Brive-la-Gaillarde,8
+72,Brno,3
+11238,Brno,108
+654,Brodnica,1
+47346,Bron,8
+13414,Broni,13
+13091,Bronte,13
+6670,Bruay-sur-l’Escaut,8
+44899,Bruchhausen-Vilsen,2
+34037,Bruchsal,2
+6989,Bruck an der Mur,11
+25336,Bruckmühl,2
+12265,Bruges,8
+1245,Brüggen,2
+4967,Brugherio,13
+3325,Brugnera,13
+11241,Brühl,2
+35519,Bruino,13
+51901,Brumunddal,6
+11051,Brunete,7
+9158,Brunico,13
+24774,Brunoy,8
+19626,Brunsbüttel,2
+12088,Brusciano,13
+620,Brwinów,1
+14510,Bry-sur-Marne,8
+17260,Bryne,6
+1286,Brzeg,1
+880,Brzeg Dolny,1
+1154,Brzesko,1
+590,Brzeszcze,1
+945,Brzeziny,1
+659,Brzozów,1
+29457,Buchen in Odenwald,2
+11670,Buchholz in der Nordheide,2
+22273,Bucine,13
+46897,Budakeszi,12
+55247,Budaörs,12
+209,Budapest,12
+7900,Büdelsdorf,2
+25148,Budenheim,2
+45429,Bueu,7
+20635,Bühl,2
+877,Bukowno,1
+46129,Bullas,7
+56549,Bully-les-Mines,8
+29727,Bünde,2
+29396,Bunkeflostrand,4
+32715,Buñol,7
+586,Burbach,2
+37706,Burela de Cabo,7
+33334,Büren,2
+13327,Bures-sur-Yvette,8
+3033,Burg,2
+31525,Burghausen,2
+9294,Burglengenfeld,2
+41100,Burgthann,2
+7445,Burjasot,7
+11013,Burriana,7
+7186,Burscheid,2
+25011,Bürstadt,2
+666,Busko-Zdrój,1
+12729,Büttelborn,2
+7586,Butzbach,2
+3944,Buxerolles,8
+40236,Buxtehude,2
+1,Bydgoszcz,1
+24370,Bystrc,108
+802,Bystrzyca Kłodzka,1
+53409,Bytča,10
+300,Bytom,1
+978,Bytów,1
+3943,Bømlo,6
+1142,Błonie,1
+33140,Cabañaquinta,7
+30648,Cabanillas del Campo,7
+7038,Cabestany,8
+31983,Cabra,7
+10330,Càbras,13
+52544,Cabriès,8
+128,Cáceres,7
+24544,Čadca,10
+48243,Cadelbosco di Sopra,13
+127,Cádiz,7
+22610,Cadolzburg,2
+5947,Cadoneghe,13
+45007,Caen,8
+33683,Cagliari,13
+7476,Cahors,8
+38795,Cairo Montenotte,13
+171,Caitlyn Ville,9
+22346,Caivano,13
+6696,Calafell,7
+15912,Calahorra,7
+31415,Calais,8
+8519,Calasparra,7
+6857,Calbe,2
+17234,Calcinaia,13
+8881,Calcinato,13
+7782,Caldas de Montbuy,7
+50477,Caldas de Reyes,7
+5779,Calderara di Reno,13
+12326,Caldogno,13
+44368,Calella,7
+34556,Calenzano,13
+227,Calizzano,13
+10962,Callosa de Segura,7
+52752,Calolziocorte,13
+51806,Calpe,7
+11831,Caltagirone,13
+8682,Calviá,7
+39377,Calvisano,13
+20741,Calvizzano,13
+13912,Calw,2
+58315,Cambrai,8
+20742,Cambre,7
+25805,Cameri,13
+24710,Camisano Vicentino,13
+502,Campagna,13
+11707,Campagnano di Roma,13
+30035,Campi Bisenzio,13
+36243,Campi Salentina,13
+34401,Campiglia Marittima,13
+10053,Campo de Criptana,7
+41512,Campobasso,13
+25340,Campobello di Licata,13
+26557,Campobello di Mazara,13
+10238,Campodarsego,13
+10483,Campogalliano,13
+12944,Camponogara,13
+27129,Campos del Puerto,7
+8916,Camposampiero,13
+22874,Canals,7
+52540,Canegrate,13
+41186,Canelli,13
+7830,Canet de Mar,7
+9917,Canet-en-Roussillon,8
+11447,Canicattì,13
+10151,Cannes,8
+15886,Canosa di Puglia,13
+138,Cantabria,7
+15249,Canteleu,8
+43625,Cantillana,7
+12366,Caorle,13
+29428,Capaci,13
+22815,Capdepera,7
+40286,Capena,13
+58445,Capoterra,13
+5591,Capriolo,13
+13505,Capua,13
+25459,Capurso,13
+6472,Caravaggio,13
+7071,Carballo,7
+6502,Carbonia,13
+738,Carcagente,7
+15793,Carcassonne,8
+235,Cardano,13
+16830,Carini,13
+47406,Carlentini,13
+12221,Carmagnola,13
+33684,Carmaux,8
+7267,Carmiano,13
+23294,Carmignano,13
+40686,Carovigno,13
+28144,Carpentras,8
+46231,Carquefou,8
+19822,Carqueiranne,8
+7926,Carrara,13
+37680,Carrières-sous-Poissy,8
+30212,Carrières-sur-Seine,8
+11521,Carrigaline,9
+16834,Carros,8
+57574,Cártama,7
+1527,Cartaya,7
+1487,Carvin,8
+5985,Casale sul Sile,13
+40083,Casalecchio di Reno,13
+406,Casalmaggiore,13
+34472,Casalpusterlengo,13
+6825,Casamassima,13
+40723,Casciana Terme,13
+10237,Cascina,13
+42879,Caserta,13
+45370,Casièr,13
+24629,Čáslav,108
+2989,Casorate Primo,13
+7262,Casoria,13
+58050,Caspe,7
+29763,Cassá de la Selva,7
+18825,Cassano al Ionio,13
+25688,Cassano delle Murge,13
+31414,Cassano d’Adda,13
+20017,Cassina de’ Pecchi,13
+5201,Cassino,13
+11235,Castano Primo,13
+13580,Castel Bolognese,13
+5167,Castel Gandolfo,13
+12472,Castel Mella,13
+40084,Castel San Giorgio,13
+34763,Castel San Giovanni,13
+48513,Castel Volturno,13
+23874,Castelbuono,13
+14689,Casteldaccia,13
+20882,Castelfidardo,13
+7373,Castelfiorentino,13
+56583,Castelfranco di Sopra,13
+31982,Castelfranco di Sotto,13
+14178,Castelfranco Emilia,13
+27904,Castelfranco Veneto,13
+32486,Castelginest,8
+9132,Castellammare del Golfo,13
+3702,Castellammare di Stabia,13
+17231,Castellamonte,13
+6729,Castellana Grotte,13
+18011,Castellaneta,13
+19088,Castellanza,13
+26261,Castellarano,13
+18058,Castellbisbal,7
+37338,Castelldefels,7
+48059,Castelleone,13
+19699,Castelletto sopra Ticino,13
+224,Castello Cabiaglio,13
+4540,Castellón de la Plana,7
+6176,Castelnaudary,8
+11325,Castelnovo ne’ Monti,13
+29036,Castelnuovo di Porto,13
+468,Castelnuovo di Verona,13
+40905,Castelnuovo Rangone,13
+27100,Castelvetrano,13
+19797,Castelvetro di Modena,13
+8187,Castenaso,13
+12399,Castenedolo,13
+21936,Castiglion Fiorentino,13
+15256,Castiglione delle Stiviere,13
+7184,Castilleja de la Cuesta,7
+11673,Castlebar,9
+30945,Castres,8
+43138,Castro-Urdiales,7
+19001,Castrolibero,13
+4504,Castrop-Rauxel,2
+1903,Castrovillari,13
+35688,Catania,13
+44832,Catanzaro,13
+161,Cathy Ville,9
+4014,Catral,7
+35140,Cattolica,13
+40803,Caudebec-lès-Elbeuf,8
+45218,Caudete,7
+19033,Cava de’ Tirreni,13
+10691,Cavaillon,8
+30907,Cavallino,13
+9720,Cave,13
+47343,Cavriago,13
+52008,Cavriglia,13
+40041,Cazzago San Martino,13
+31102,Cébazat,8
+55762,Ceccano,13
+14383,Cecina,13
+2492,Cegléd,12
+10748,Ceglie Messapico,13
+46298,Cehegín,7
+189,Čeľadince,10
+24672,Čelákovice,108
+41024,Celano,13
+19492,Celldömölk,12
+58356,Celle,2
+52293,Cento,13
+17846,Cepagatti,13
+14588,Ceprano,13
+39109,Cercola,13
+23764,Cerese,13
+37576,Cergy,8
+14423,Cermenate,13
+11555,Cernay,8
+18251,Cernusco sul Naviglio,13
+21446,Cerreto Guidi,13
+18605,Cervelló,7
+11863,Cervia,13
+8452,Cervignano del Friuli,13
+229,Cervo,13
+26394,Cesena,13
+21750,Česká Lípa,108
+54898,Cesson,8
+11615,Ceuti,7
+35891,Chaïdári,14
+9134,Chalándri,14
+12654,Châlette-sur-Loing,8
+25339,Chalkída,14
+34728,Chalon-sur-Saône,8
+11669,Châlons-en-Champagne,8
+12190,Cham,2
+52542,Chamalières,8
+16705,Chambéry,8
+34553,Chambly,8
+25069,Chambray-lès-Tours,8
+8879,Chamonix-Mont-Blanc,8
+24254,Champigny-sur-Marne,8
+41815,Champs-Sur-Marne,8
+5984,Chaniá,14
+34554,Chanteloup-les-Vignes,8
+26654,Chantilly,8
+46557,Chaponost,8
+2234,Charenton-le-Pont,8
+153,Charles,8
+463,Charleville-Mézières,8
+28836,Chartres,8
+34820,Chassieu,8
+14135,Château-d’Olonne,8
+37096,Château-Thierry,8
+27583,Châteaubriant,8
+1307,Châteauneuf-les-Martigues,8
+23080,Châteaurenard,8
+15976,Châteauroux,8
+6238,Châtenay-Malabry,8
+11180,Châtillon,8
+9536,Chatou,8
+50651,Chaumont,8
+28612,Cheb,108
+7509,Chécy,8
+8014,Chelles,8
+42,Chemnitz,2
+49541,Chennevières-sur-Marne,8
+44902,Chenôve,8
+6827,Chevilly-Larue,8
+1226,Chełm,1
+438,Chełmek,1
+973,Chełmno,1
+282,Chełmża,1
+12517,Chiampo,13
+28195,Chiaravalle,13
+579,Chiari,13
+419,Chiclana de la Frontera,7
+749,Chieri,13
+46166,Chieti,13
+16353,Chilly-Mazarin,8
+10884,Chioggia,13
+9390,Chipiona,7
+577,Chivasso,13
+32965,Choceň,108
+44101,Chodov,108
+714,Chodzież,1
+2177,Choisy-le-Roi,8
+353,Chojnice,1
+501,Chojnów,1
+2875,Cholargós,14
+7924,Cholet,8
+1769,Chomutov,108
+553,Chorzów,1
+2448,Choszczno,1
+47968,Chotěboř,108
+42293,Chrysoúpoli,14
+832,Chrzanów,1
+23950,Ciampino,13
+21568,Cicciano,13
+1690,Ciechanów,1
+314,Ciechocinek,1
+1696,Ciempozuelos,7
+975,Cieszyn,1
+18668,Cieza,7
+14846,Cingoli,13
+27218,Cinisello Balsamo,13
+26304,Cinisi,13
+178,Cinobaňa,10
+1493,Cirò Marina,13
+56427,Cisterna di Latina,13
+2604,Cistérniga,7
+7615,Cisternino,13
+49566,Città di Castello,13
+21804,Cittadella,13
+12731,Ciudad de Ceuta,7
+19764,Ciudad Real,7
+55174,Cividale del Friuli,13
+48316,Civita Castellana,13
+3252,Civitavecchia,13
+5596,Civitella in Val di Chiana,13
+1725,Clausthal-Zellerfeld,2
+26026,Clermont,8
+12764,Clermont-Ferrand,8
+11082,Clermont-l’Hérault,8
+18514,Clichy,8
+35406,Clichy-sous-Bois,8
+28480,Clonmel,9
+47730,Cloppenburg,2
+21021,Cluses,8
+25370,Clusone,13
+16584,Cobh,9
+20556,Coburg,2
+6139,Coccaglio,13
+10290,Cocentaina,7
+34124,Codigoro,13
+13026,Codroipo,13
+8949,Coesfeld,2
+2833,Cognac,8
+17444,Cogoleto,13
+37265,Cogolin,8
+21410,Coín,7
+26812,Collado-Villalba,7
+23047,Colle di Val d’Elsa,13
+21623,Colle Salvetti,13
+16415,Collecchio,13
+22817,Colleferro,13
+2360,Colmar,8
+25773,Colmenar Viejo,7
+9719,Cologno al Serio,13
+24022,Cologno Monzese,13
+21348,Colombes,8
+1194,Colomiers,8
+14454,Comacchio,13
+9653,Compiègne,8
+32714,Concarneau,8
+5288,Concordia Sagittaria,13
+3207,Concorezzo,13
+7508,Condé-sur-l’Escaut,8
+3290,Conegliano,13
+23229,Conil de la Frontera,7
+50135,Conselice,13
+28406,Conselve,13
+16488,Consuegra,7
+403,Conversano,13
+37339,Corbas,8
+17139,Corbeil-Essonnes,8
+21541,Cordenons,13
+16170,Cori,13
+32414,Coria del Río,7
+16025,Coriano,13
+36050,Corigliano Calabro,13
+18884,Cork,9
+11009,Cormano,13
+17488,Cormeilles-en-Parisis,8
+29806,Cornaredo,13
+5097,Cornate d’Adda,13
+41293,Cornedo Vicentino,13
+52145,Corridonia,13
+3011,Corsico,13
+22983,Cosenza,13
+17028,Cosne sur Loire,8
+36000,Costa Volpino,13
+8950,Coswig,2
+27742,Cottbus,2
+58655,Coudekerque-Branche,8
+6826,Couëron,8
+145,Coulon,8
+5678,Courbevoic,8
+2878,Courcouronnes,8
+5834,Cournon-d’Auvergne,8
+36418,Coutras,8
+942,Couzeix,8
+21347,Crailsheim,2
+43881,Craponne,8
+10187,Creazzo,13
+8422,Creil,8
+25273,Crema,13
+39713,Cremlingen,2
+1585,Cremona,13
+9787,Crépy-en-Valois,8
+1381,Crest,8
+42376,Crevalcore,13
+20848,Crimmitschau,2
+57432,Croix,8
+14686,Crosia,13
+9650,Crotone,13
+16832,Csömör,12
+28684,Csorna,12
+9107,Cuarte de Huerva,7
+17752,Cubellas,7
+28267,Cuéllar,7
+139,Cuenca,7
+39627,Cuers,8
+10184,Cugnaux,8
+38068,Cullera,7
+20317,Culleredo,7
+24884,Cuneo,13
+30432,Cusano Milanino,13
+56460,Cusset,8
+45917,Cutrofiano,13
+2357,Cuxhaven,2
+71,Cvikov,3
+383,Czarna Białostocka,1
+940,Czarnków,1
+7,Czechowice-Dziedzice,1
+484,Czeladź,1
+415,Czersk Pomorski,1
+8,Czerwionka-Leszczyny,1
+1766,Częstochowa,1
+744,Człuchów,1
+526,Dąbrowa Górnicza,1
+585,Dąbrowa Tarnowska,1
+34299,Dachau,2
+16926,Dáfni,14
+32273,Daganzo de Arriba,7
+28150,Daimiel,7
+6601,Dallgow-Döberitz,2
+33993,Dalmine,13
+48205,Dammarie-lè-Lys,8
+10883,Dardilly,8
+22345,Darmstadt,2
+18100,Darnétal,8
+972,Darłowo,1
+27057,Dassel,2
+8755,Datteln,2
+422,Dębica,1
+707,Dęblin,1
+276,Dębno,1
+41065,Děčín,108
+38762,Décines-Charpieu,8
+42676,Deggendorf,2
+16743,Delbrück,2
+16321,Delitzsch,2
+28719,Delmenhorst,2
+16676,Demmin,2
+55612,Denain,8
+46025,Denkendorf,2
+15710,Desio,13
+36920,Dessau-Roßlau,2
+50803,Detmold,2
+45783,Dettingen an der Erms,2
+36118,Detva,10
+18515,Deutsch-Wagram,11
+27349,Deutschlandsberg,11
+12939,Déville-lès-Rouen,8
+17342,Diavatá,14
+7290,Diedorf,2
+22051,Diepholz,2
+5494,Dießen am Ammersee,2
+15168,Dietzenbach,2
+51284,Diez,2
+33655,Digne-les-Bains,8
+21222,Dillenburg,2
+13669,Dillingen,2
+17888,Dingolfing,2
+12513,Dinkelsbühl,2
+52486,Dinklage,2
+1425,Dinslaken,2
+3544,Dippoldiswalde,2
+15036,Ditzingen,2
+2877,Döbeln,2
+7334,Doberlug-Kirchhain,2
+1223,Dobre Miasto,1
+48931,Dobříš,108
+185,Dolné Vestenice,10
+43809,Dolný Kubín,10
+54491,Domažlice,108
+11182,Domérat,8
+52582,Domodossola,13
+36700,Domont,8
+10796,Don Benito,7
+19730,Donegal,9
+17539,Donzdorf,2
+44650,Dorfen,2
+19490,Dormagen,2
+41947,Dornbirn,11
+28025,Dornstadt,2
+53638,Dorog,12
+1460,Dorsten,2
+2834,Dortmund,2
+22928,Dörverden,2
+1151,Dos Hermanas,7
+29278,Dossenheim,2
+10820,Douai,8
+11901,Douchy-les-Mines,8
+7719,Douglas,9
+12469,Dourdan,8
+40768,Draguignan,8
+875,Dráma,14
+5595,Drammen,6
+1665,Drapetsóna,14
+2496,Draveil,8
+876,Drawsko Pomorskie,1
+42403,Dreieich,2
+47815,Drensteinfurt,2
+1000,Drezdenko,1
+32073,Drochtersen,2
+21722,Drogheda,9
+49613,Drøbak,6
+51007,Dublin,9
+19698,Dubnica nad Váhom,10
+182,Dubnička,10
+16320,Duchcov,108
+5026,Dueville,13
+49948,Dugny,8
+10440,Duisburg,2
+10007,Dülmen,2
+32135,Dún Dealgan,9
+34069,Dunajská Streda,10
+187,Dunajský Klátov,10
+1902,Dunakeszi,12
+219,Dunaújváros,12
+41350,Dunavarsány,12
+43202,Dunleary,9
+38869,Durango,7
+39678,Durmersheim,2
+7581,Dvůr Králové nad Labem,108
+278,Działdowo,1
+825,Dzierżoniów,1
+12435,Eaubonne,8
+33461,Eberbach,2
+6731,Ebersberg,2
+27101,Eberswalde,2
+50168,Eboli,13
+15647,Ebreichsdorf,11
+39561,Eching,2
+16419,Eckernförde,2
+36782,Écully,8
+39414,Edemissen,2
+19036,Édessa,14
+6468,Edewecht,2
+6034,Edingen-Neckarhausen,2
+39239,Efkarpía,14
+16413,Efringen-Kirchen,2
+25374,Egersund,6
+10922,Eggenfelden,2
+35433,Eggenstein-Leopoldshafen,2
+37456,Ehningen,2
+8254,Eichenau,2
+8392,Eichenzell,2
+33580,Eichstätt,2
+2359,Eidsberg,6
+48824,Eidsvoll,6
+35892,Eilendorf,2
+39950,Einbeck,2
+7653,Eisenberg,2
+22129,Eisenhüttenstadt,2
+41222,Eisenstadt,11
+8979,Eislingen,2
+26528,Eitorf,2
+16924,Ejea de los Caballeros,7
+12684,Ekenäs,5
+31033,Ekerö,4
+15071,El Álamo,7
+11744,El Escorial,7
+52818,El Espinar,7
+4966,El Molar,7
+49565,El Prat de Llobregat,7
+47816,Élancourt,8
+269,Elbląg,1
+40325,Elche,7
+1561,Elgóibar,7
+28154,Ellinikó,14
+4297,Elmas,13
+8521,Elmshorn,2
+31604,Elne,8
+9135,Elsdorf,2
+54899,Elsenfeld,2
+30835,Elsfleth,2
+3034,Elverum,6
+49850,Emden,2
+30515,Emmendingen,2
+18483,Empoli,13
+4299,Engen,2
+118,Engen,6
+6691,Engerwitzdorf,11
+20127,Enkesen,2
+4207,Enköping,4
+27857,Enna,13
+54339,Ennepetal,2
+36212,Ennigerloh,2
+47560,Enniscorthy,9
+95,Enontekiö,5
+14209,Entraigues-sur-la-Sorgue,8
+31715,Epanomí,14
+1939,Épernay,8
+10054,Épinal,8
+5374,Épinay-sous-Sénart,8
+17138,Épinay-sur-Seine,8
+43430,Eppingen,2
+40352,Eraclea,13
+2087,Éragny,8
+36084,Erandio,7
+27099,Erbach,2
+11617,Erchie,13
+38129,Ercolano,13
+56899,Érd,12
+51423,Erftstadt,2
+20129,Erfurt,2
+31328,Ergolding,2
+372,Erice,13
+15508,Erkelenz,2
+9334,Erkrath,2
+26262,Erlenbach am Main,2
+21807,Erlensee,2
+13058,Ermont,8
+26737,Ermoúpoli,14
+41221,Ermúa,7
+8051,Erstein,8
+48463,Erwitte,2
+38380,Escaudain,8
+22930,Eschborn,2
+8134,Eschweiler,2
+2691,Eskilstuna,4
+34599,Eslohe,2
+22576,Espelkamp,2
+104,Espoo,5
+4171,Essen,2
+40327,Essey-lès-Nancy,8
+18885,Esslingen,2
+5491,Este,13
+25337,Estepa,7
+22078,Estepona,7
+13289,Étampes,8
+9629,Étaples,8
+15649,Eura,5
+35473,Eurajoki,5
+57164,Eutin,2
+24939,Évian-les-Bains,8
+170,Evie Ville,9
+10518,Évreux,8
+20847,Évry,8
+11955,Eybens,8
+33258,Eysines,8
+831,Ełk,1
+2609,Fâches-Thumesnil,8
+10051,Faenza,13
+5949,Fagnano Olona,13
+37267,Falconara Marittima,13
+25882,Falkenberg,4
+14750,Falkensee,2
+20944,Falköping,4
+2497,Falun,4
+22315,Fameck,8
+489,Fano,13
+15709,Fara in Sabina,13
+42146,Farra di Soligo,13
+21969,Fasano,13
+14452,Fauske,6
+165,Feargal Ville,9
+55442,Fécamp,8
+18346,Fehmarnsund,2
+18174,Fehrbellin,2
+22506,Felanitx,7
+7953,Feldbach,11
+836,Feldkirchen,11
+11136,Feldkirchen-Westerham,2
+22131,Fellbach,2
+26263,Felsberg,2
+211,felsőfürdőváros,12
+3700,Feltre,13
+57434,Fene,7
+22215,Ferentino,13
+12090,Ferney-Voltaire,8
+40039,Ferrandina,13
+9485,Ferrara,13
+7375,Fiano Romano,13
+230,Fiastra,13
+31446,Ficarazzi,13
+45369,Fidenza,13
+35593,Fiesole,13
+12991,Figeac,8
+4706,Figueras,7
+17698,Fiľakovo,10
+27177,Filipstad,4
+18311,Finnsnes,6
+29252,Fiorenzuola d’Arda,13
+11614,Firminy,8
+34727,Fisciano,13
+26499,Fiuggi,13
+13944,Fiume Veneto,13
+10520,Fiumefreddo di Sicilia,13
+37959,Fiumicino,13
+16797,Flekkefjord,6
+12512,Flensburg,2
+41266,Flero,13
+1457,Flers,8
+23150,Fleury-les-Aubrais,8
+40623,Fleury-Mérogis,8
+24317,Flieden,2
+12468,Flöha,2
+47524,Florange,8
+3286,Florence,13
+21972,Floridia,13
+32072,Flórina,14
+24937,Flörsheim,2
+27055,Florø,6
+11446,Foggia,13
+25742,Foiano della Chiana,13
+617,Foix,8
+34555,Foligno,13
+16866,Follonica,13
+27216,Fondettes,8
+4009,Fonsorbes,8
+29337,Fontaine,8
+14748,Fontainebleau,8
+26472,Fontenay-aux-Roses,8
+25012,Fontenay-le-Comte,8
+1562,Fontenay-le-Fleury,8
+31986,Fontenay-sous-Bois,8
+14945,Forbach,8
+56051,Forchheim,2
+3895,Forio,13
+21019,Forlì,13
+34400,Forlimpopoli,13
+5675,Formello,13
+10749,Formia,13
+39751,Formigine,13
+40172,Forst (Lausitz),2
+20285,Fortuna,7
+3251,Fossano,13
+12131,Fossombrone,13
+36921,Fót,12
+20636,Fougères,8
+14661,Fourmies,8
+48006,Fraga,7
+4865,Francavilla al Mare,13
+34468,Francofonte,13
+152,François-sur-Lévy,8
+13775,Frankenberg,2
+12330,Frankenthal,2
+52,Frankfurt,2
+37362,Frankfurt (Oder),2
+20352,Frascati,13
+232,Frassignoni,13
+4541,Frattamaggiore,13
+17109,Frattaminore,13
+7075,Frechen,2
+50133,Fredrikstad,6
+37184,Freiberg,2
+22436,Freiberg am Neckar,2
+13641,Freiburg im Breisgau,2
+48207,Freilassing,2
+16958,Freising,2
+6471,Fréjus,8
+28066,Frenštát pod Radhoštěm,108
+31797,Fresnes,8
+8248,Freudenstadt,2
+1222,Freystadt,2
+27351,Frickenhausen,2
+30461,Friedberg,2
+10639,Friedeburg,2
+5235,Friedland,2
+7222,Friedrichshafen,2
+1310,Friedrichsthal,2
+2603,Friesoythe,2
+6344,Fritzlar,2
+28784,Frogn,6
+198,Frohnleiten,11
+17307,Fröndenberg,2
+14213,Frosinone,13
+31183,Frýdlant nad Ostravicí,108
+21164,Fucecchio,13
+47526,Fuenlabrada,7
+33909,Fuensalida,7
+18441,Fuente Palmera,7
+40517,Fuente-Álamo de Murcia,7
+49042,Fulda,2
+6755,Fuldabrück,2
+8360,Fuldatal,2
+14508,Fürstenau,2
+4298,Fürstenfeldbruck,2
+52817,Fürstenwalde,2
+27022,Fürth,2
+7291,Furth im Wald,2
+31080,Furtwangen im Schwarzwald,2
+17803,Füssen,2
+7587,Fuveau,8
+38537,Førde,6
+21168,Gagnef,4
+56291,Gagny,8
+41267,Gaildorf,2
+25041,Gaillac,8
+26863,Gaillard,8
+10793,Galanta,10
+40687,Galapagar,7
+7540,Galatina,13
+30612,Galatone,13
+13184,Galátsi,14
+27348,Galdácano,7
+20529,Gallarate,13
+47103,Gallipoli,13
+58421,Galway,9
+11827,Gambettola,13
+40904,Gambolò,13
+22508,Gandía,7
+18061,Gangelt,2
+11080,Gänserndorf,11
+49538,Gap,8
+11671,Garbagnate Milanese,13
+37337,Garbsen,2
+11829,Garches,8
+10241,Garching an der Alz,2
+23228,Garching bei München,2
+22271,Gardone Val Trompia,13
+18882,Garges-lès-Gonesse,8
+17375,Garlasco,13
+15950,Garmisch-Partenkirchen,2
+58357,Garrel,2
+56025,Garrucha,7
+3896,Gärtringen,2
+465,Garwolin,1
+24372,Gassino Torinese,13
+53793,Gatteo,13
+20219,Gavardo,13
+10580,Gavirate,13
+37429,Gavorrano,13
+31028,Gázi,14
+25,Gdańsk,1
+354,Gdynia,1
+39813,Geesthacht,2
+8317,Gehrden,2
+29978,Geilenkirchen,2
+37428,Geisenfeld,2
+24804,Geisenheim,2
+34890,Gela,13
+43398,Geldern,2
+1219,Gelnhausen,2
+14539,Gelsenkirchen,2
+11962,Gelves,7
+39205,Gennevilliers,8
+29804,Genoa,13
+8315,Genthin,2
+34761,Genzano di Roma,13
+36289,Gera,2
+28296,Gérakas,14
+141,Gérard,8
+192,Geras,11
+10961,Gerasdorf bei Wien,11
+4601,Geretsried,2
+3288,Gerlingen,2
+24546,Germersheim,2
+17802,Gernsbach,2
+28148,Gernsheim,2
+52920,Gerstetten,2
+26806,Gersthofen,2
+33142,Gerstungen,2
+34300,Gerzat,8
+8015,Gescher,2
+34726,Gessate,13
+26393,Getafe,7
+23601,Gevelsberg,2
+203,Gföhl,11
+5133,Ghedi,13
+30173,Giardini,13
+27313,Giarre,13
+43431,Giaveno,13
+17374,Gibraleón,7
+42952,Gien,8
+57074,Giengen an der Brenz,2
+23297,Giesen,2
+23293,Gif-sur-Yvette,8
+22646,Giffoni Valle Piana,13
+57921,Gignac-la-Nerthe,8
+3062,Gijón,7
+4437,Gilching,2
+28980,Ginosa,13
+39204,Ginsheim-Gustavsburg,2
+46233,Gioia del Colle,13
+40879,Gioia Tauro,13
+53163,Girona,7
+9652,Gislaved,4
+31141,Gisors,8
+824,Giszowiec,1
+53639,Giulianova,13
+5139,Giussano,13
+18439,Givors,8
+871,Giżycko,1
+16703,Gladbeck,2
+458,Gladenbach,2
+49101,Glanmire,9
+31602,Glauchau,2
+45181,Gleisdorf,11
+36083,Glencullen,9
+368,Gliwice,1
+51504,Glückstadt,2
+45949,Glyká Nerá,14
+204,Gmünd in Kärnten,11
+200,Gmunden,11
+10365,Gnarrenburg,2
+310,Gniezno,1
+1147,Goch,2
+26351,Gödöllő,12
+26614,Goldbach,2
+1841,Goldenstedt,2
+828,Goleniów,1
+634,Golub-Dobrzyń,1
+46862,Gomaringen,2
+30255,Gommern,2
+8644,Gondomar,7
+30254,Gonfreville-l’Orcher,8
+25612,Gonzaga,13
+265,Góra,1
+296,Góra Kalwaria,1
+14250,Gorey,9
+18310,Gorgonzola,13
+428,Gorlice,1
+39,Görlitz,2
+739,Gorzów Wielkopolski,1
+48857,Goslar,2
+826,Gostyń,1
+2080,Gostynin,1
+57854,Götzis,11
+48962,Goussainville,8
+7076,Gouvieux,8
+573,Gołdap,1
+6542,Grabels,8
+13876,Gradignan,8
+5717,Grado,7
+17143,Grafing bei München,2
+10384,Gragnano,13
+1003,Grajewo,1
+47776,Grammichele,13
+3324,Gran,6
+57163,Granada,7
+7475,Granadilla de Abona,7
+53795,Granarolo del l’Emilia,13
+20351,Grand-Couronne,8
+15035,Grande-Synthe,8
+23006,Granollers,7
+54932,Granville,8
+2565,Grasse,8
+17753,Gravelines,8
+25302,Greifswald,2
+10382,Greiz,2
+29726,Greven,2
+6692,Grevená,14
+8052,Grevesmühlen,2
+44688,Greystones,9
+35049,Grezzana,13
+27781,Gricignano d’Aversa,13
+21313,Griesheim,2
+201,Grieskirchen,11
+4170,Grigny,8
+6962,Grimmen,2
+13913,Grimstad,6
+28685,Gröbenzell,2
+1305,Gródek Nad Dunajcem,1
+531,Grodzisk Mazowiecki,1
+299,Grodzisk Wielkopolski,1
+379,Grójec,1
+17536,Groß-Enzersdorf,11
+12331,Groß-Gerau,2
+193,Groß-Gerungs,11
+24369,Groß-Zimmern,2
+33043,Großbeeren,2
+10240,Großbottwar,2
+18289,Großburgwedel,2
+12324,Großenhain,2
+48152,Großenkneten,2
+23079,Großenlüder,2
+1767,Großhansdorf,2
+38453,Großostheim,2
+27060,Großräschen,2
+33685,Großröhrsdorf,2
+2085,Grosseto,13
+31103,Grottaferrata,13
+18437,Grottaglie,13
+16,Grudziądz,1
+5869,Grumo Appula,13
+21081,Grumo Nevano,13
+19531,Grünberg,2
+19869,Grünstadt,2
+371,Gryfice,1
+1899,Gryfino,1
+29807,Guadix,7
+27396,Guardamar del Segura,7
+7182,Guardiagrele,13
+19172,Guastalla,13
+18348,Gubbio,13
+33877,Guben,2
+412,Gubin,1
+52441,Gudensberg,2
+5593,Guebwiller,8
+52146,Guérande,8
+53770,Guéret,8
+3487,Guernica y Luno,7
+4210,Guía de Isora,7
+45893,Guillena,7
+10817,Güimar,7
+9750,Guipavas,8
+24282,Gujan-Mestras,8
+42610,Gundelfingen,2
+36373,Gussago,13
+32582,Guyancourt,8
+26559,Gyál,12
+7264,Gyöngyös,12
+45395,Győr,12
+215,györgyfa,12
+6342,Gyula,12
+5,Głogów,1
+740,Głogów Małopolski,1
+520,Głowno,1
+1034,Głubczyce,1
+1149,Głuchołazy,1
+26864,Haan,2
+40685,Haaren,2
+32440,Hadamar,2
+10099,Hagen im Bremischen,2
+14422,Hagenow,2
+1592,Hagondange,8
+34399,Haguenau,8
+39043,Haiger,2
+2054,Haigerloch,2
+8877,Hainichen,2
+10885,Hajdúböszörmény,12
+26736,Hajdúnánás,12
+779,Hajdúsámson,12
+3222,Hajdúszoboszló,12
+748,Hajnówka,1
+19170,Halásztelek,12
+24836,Halberstadt,2
+18060,Haldensleben,2
+40802,Halikko,5
+12540,Halle,2
+2306,Hallein,11
+39883,Hallstadt,2
+12891,Hallstahammar,4
+33735,Halluin,8
+7544,Halstenbek,2
+21803,Halver,2
+34992,Hamar,6
+17696,Hambühren,2
+50,Hamburg,2
+45219,Hämeenkyrö,5
+20456,Hämeenlinna,5
+1463,Hameln,2
+46608,Hamm,2
+38454,Hammelburg,2
+21119,Hammerfest,6
+15255,Hamminkeln,2
+42426,Hanau,2
+6444,Handewitt,2
+31984,Hanko,5
+25341,Hannover,2
+16354,Hannoversch Münden,2
+181,Hanušovce nad Topľou,10
+177,Harakovce,10
+23149,Haram,6
+6106,Haren,2
+52997,Harnes,8
+9392,Härnösand,4
+40282,Harrislee,2
+41690,Harsefeld,2
+2605,Harsewinkel,2
+3893,Harstad,6
+43726,Hasbergen,2
+36698,Haselünne,2
+10790,Haßfurt,2
+4084,Haßloch,2
+20740,Hässleholm,4
+2685,Hatten,2
+4654,Hattersheim,2
+25013,Hattingen,2
+19171,Hattula,5
+6063,Haugesund,6
+33384,Haukipudas,5
+56739,Hausjärvi,5
+41463,Havixbeck,2
+49291,Hayange,8
+11407,Hazebrouck,8
+42533,Heddesheim,2
+10152,Heek,2
+5677,Heidelberg,2
+16491,Heidenheim,2
+21858,Heilbad Heiligenstadt,2
+55077,Heilbronn,2
+882,Heilsbronn,2
+13330,Heinola,5
+29063,Heinsberg,2
+19460,Helleland,6
+58719,Hellemmes-Lille,8
+28922,Helmstedt,2
+5371,Helsingborg,4
+92,Helsinki,5
+7827,Hem,8
+51219,Hemer,2
+12596,Hemmingen,2
+33736,Hemmoor,2
+25406,Hemsbach,2
+50208,Hendaye,8
+40324,Hénin-Beaumont,8
+6990,Hennef,2
+20316,Hennigsdorf,2
+29062,Henstedt-Ulzburg,2
+35405,Heppenheim,2
+18513,Herbolzheim,2
+45427,Herdecke,2
+35890,Herencia,7
+19624,Herford,2
+48315,Héricourt,8
+20126,Hernani,7
+12153,Herne,2
+49744,Hérouville-Saint-Clair,8
+39165,Herrsching am Ammersee,2
+22816,Hersbruck,2
+2178,Herten,2
+35384,Herxheim,2
+10855,Herzberg,2
+44928,Herzogenaurach,2
+11832,Herzogenrath,2
+4651,Hessisch Lichtenau,2
+21248,Hessisch Oldendorf,2
+12573,Hettstedt,2
+216,hetvenkövesd,12
+12464,Heubach,2
+10295,Heum,6
+551,Heves,12
+30613,Hiddenhausen,2
+8681,Hilchenbach,2
+3208,Hilden,2
+55441,Hildesheim,2
+33227,Hille,2
+753,Hilter,2
+26092,Hilzingen,2
+15069,Hirson,8
+22009,Hlinsko,108
+3773,Hlohovec,10
+42951,Hlučín,108
+1344,Höchberg,2
+32105,Hockenheim,2
+4603,Hódmezővásárhely,12
+1941,Hodonín,108
+53599,Hof,2
+58262,Höganäs,4
+56116,Hohen Neuendorf,2
+12726,Hohenbrunn,2
+17445,Hohenems,11
+5203,Hohenhameln,2
+11957,Hohenmölsen,2
+28,Hohenstein-Ernstthal,2
+7377,Höhr-Grenzhausen,2
+40283,Holešov,108
+22875,Holíč,10
+36863,Hollola,5
+14658,Höllviken,4
+35264,Holzgerlingen,2
+19459,Holzminden,2
+45557,Holzwickede,2
+55019,Homburg,2
+30407,Hoppegarten,2
+1768,Horb am Neckar,2
+20255,Horn-Bad Meinberg,2
+22391,Hörstel,2
+9679,Horten,6
+31981,Hösbach,2
+14282,Hövelhof,2
+7583,Höxter,2
+47967,Hoyo de Manzanares,7
+5950,Hradec Králové,108
+52320,Hranice,108
+417,Hrubieszów,1
+42572,Hückeswagen,2
+28681,Hude,2
+45739,Hudiksvall,4
+1282,Huelva,7
+15708,Huércal de Almería,7
+7950,Huércal-Overa,7
+53462,Huesca,7
+28924,Huétor Vega,7
+2053,Huétor-Tájar,7
+12620,Hüllhorst,2
+15034,Humanes de Madrid,7
+19322,Humpolec,108
+30562,Hungen,2
+3012,Hünxe,2
+41323,Hürtgenwald,2
+17941,Hürth,2
+27815,Husum,2
+41064,Hyères,8
+102,Hyvinkää,5
+37550,Hœnheim,8
+966,Ialysós,14
+13943,Ibbenbüren,2
+32752,Ibi,7
+43287,Ibiza,7
+16545,Ichenhausen,2
+24419,Icod de los Vinos,7
+1488,Idar-Oberstein,2
+24630,Ierápetra,14
+4271,Iesi,13
+11644,Iesolo,13
+7721,Igny,8
+4769,Igualada,7
+25151,Ii,5
+27858,Iisalmi,5
+94,Iitti,5
+36701,Ílion,14
+11239,Ilioúpoli,14
+941,Illertissen,2
+17913,Illescas,7
+21914,Illingen,2
+1898,Illzach,8
+27900,Ilmajoki,5
+8978,Ilmenau,2
+5871,Ilsede,2
+16210,Ilsenburg,2
+14453,Ilvesheim,2
+8316,Imatra,5
+938,Imielin,1
+1098,Imola,13
+45432,Impruneta,13
+7077,Inca,7
+21775,Ingenio,7
+11864,Ingolstadt,2
+1762,Ingré,8
+115,Ingridfjord,6
+12321,Innsbruck,11
+10,Inowrocław,1
+47936,Inverigo,13
+5134,Inveruno,13
+37455,Inzago,13
+14879,Ioánnina,14
+24734,Irákleio,14
+11366,Irigny,8
+41377,Irún,7
+7411,Isaszeg,12
+4648,Isbergues,8
+8451,Ischia,13
+12990,Iseo,13
+20287,Iserlohn,2
+6792,Isernhagen-Süd,2
+13237,Isernia,13
+28956,Isla-Cristina,7
+35689,Isny im Allgäu,2
+1587,Isola Capo Rizzuto,13
+51674,Isola della Scala,13
+15578,Isola Vicentina,13
+2606,Ispica,13
+33581,Isselburg,2
+14618,Issoire,8
+34250,Issoudun,8
+32442,Issum,2
+34469,Issy-les-Moulineaux,8
+54280,Istrana,13
+58355,Istres,8
+5029,Itri,13
+11956,Ittiri,13
+17977,Itzehoe,2
+42573,Ivančice,108
+114,Ivarås,6
+122,Ivarstrand,6
+10098,Ivrea,13
+20417,Ivry-sur-Seine,8
+545,Iława,1
+38718,Jablonec nad Nisou,108
+2203,Jakobstad,5
+34188,Janakkala,5
+184,Jánovce,10
+2028,Janów Lubelski,1
+457,Jarocin,1
+18744,Jaroměř,108
+433,Jarosław,1
+36049,Järvenpää,5
+52998,Jarville-la-Malgrange,8
+922,Jasien,1
+711,Jastrzębie-Zdrój,1
+22247,Jászberény,12
+398,Jasło,1
+2397,Jawor,1
+275,Jaworzno,1
+581,Jędrzejów,1
+289,Jelcz-Laskowice,1
+464,Jelenia Góra,1
+3770,Jena,2
+4731,Jerez de la Frontera,7
+17637,Jesenice,108
+6753,Jeseník,108
+16644,Jeumont,8
+32793,Jever,2
+25613,Jihlava,108
+54790,Jindřichŭv Hradec,108
+155,Joanne Ville,9
+8215,Jódar,7
+7444,Joensuu,5
+159,Johanna Ville,9
+34466,Joigny,8
+22648,Joinville-le-Pont,8
+89,Jönköping,4
+44653,Jordbro,4
+51900,Joué-lés-Tours,8
+332,Józefosław,1
+418,Józefów,1
+3382,Jüchen,2
+15650,Judenburg,11
+45556,Jülich,2
+166,Julie-Anne Ville,9
+27314,Jumilla,7
+44746,Jüterbog,2
+6379,Juvignac,8
+7036,Juvisy-sur-Orge,8
+7617,Jyväskylä,5
+30981,Jyväskylän Maalaiskunta,5
+25952,Kaarina,5
+49884,Kaarst,2
+28611,Kadaň,108
+15198,Kaisarianí,14
+93,Kajaani,5
+56807,Kalajoki,5
+4434,Kalamariá,14
+21118,Kalamáta,14
+34248,Kaldsletta,6
+434,Kalisz,1
+914,Kalkar,2
+10052,Kall,2
+24095,Kallithéa,14
+5754,Kalmar,4
+49851,Kalývia Thorikoú,14
+40592,Kamateró,14
+16487,Kamen,2
+804,Kamień Pomorski,1
+352,Kamienna Góra,1
+281,Kandel,2
+309,Kangasala,5
+18774,Kankaanpää,5
+23800,Kaposvár,12
+1254,Kappeln,2
+11668,Kapuvár,12
+2928,Karben,2
+17756,Karcag,12
+609,Karczew,1
+15473,Kardítsa,14
+35407,Karkkila,5
+75,Karlovy Vary,3
+3166,Karlovy Vary,108
+11931,Karlsdorf-Neuthard,2
+121,Karlsen,6
+58486,Karlsfeld,2
+18137,Karlshamn,4
+5264,Karlskoga,4
+8053,Karlsruhe,2
+2495,Karlstad,4
+186,Karná,10
+650,Kartuzy,1
+9425,Karviná,108
+13667,Kastoriá,14
+29035,Kateríni,14
+26,Katowice,1
+39515,Katrineholm,4
+7289,Kaufbeuren,2
+42927,Kaufering,2
+18555,Kauhajoki,5
+9358,Kauniainen,5
+8395,Kavála,14
+14251,Kävlinge,4
+10664,Kazincbarcika,12
+56026,Kecskemét,12
+13,Kędzierzyn-Koźle,1
+6037,Kehl,2
+50774,Kelheim,2
+26558,Kelsterbach,2
+34373,Kemberg,2
+20943,Kemi,5
+11745,Kemijärvi,5
+108,Kempele,5
+36375,Kempen,2
+25580,Kempten,2
+515,Kępno,1
+25010,Keratsíni,14
+45430,Kerava,5
+22575,Kérkyra,14
+19697,Kerpen,2
+22212,Keszthely,12
+1694,Kętrzyn,1
+49152,Ketsch,2
+341,Kęty,1
+34189,Kevelaer,2
+1378,Kiáto,14
+28720,Kiel,2
+613,Kielce,1
+619,Kiełczów,1
+28687,Kifisiá,14
+45483,Kilkenny,9
+24671,Kilkís,14
+49539,Killarney,9
+4360,Kingersheim,8
+18927,Kirchhain,2
+8981,Kirchheim bei München,2
+20672,Kirchheim unter Teck,2
+49790,Kirchhundem,2
+19533,Kirchlengern,2
+21935,Kirchlinteln,2
+7539,Kirchzarten,2
+29397,Kirkel,2
+7074,Kirkkonummi,5
+162,Kirstie Ville,9
+13732,Kiruna,4
+56347,Kiskőrös,12
+27553,Kiskunfélegyháza,12
+4330,Kiskunlacháza,12
+17914,Kiskunmajsa,12
+11618,Kissing,2
+12653,Kisújszállás,12
+3446,Kisvárda,12
+33547,Kitee,5
+20018,Kitzingen,2
+36821,Kivistö,5
+1144,Kladno,108
+25843,Klaukkala,5
+31077,Kleinblittersdorf,2
+18642,Kleppe,6
+15169,Kleve,2
+8250,Klippansbruk,4
+45523,Klosterneuburg,11
+2082,Klötze,2
+21,Kluczbork,1
+626,Knurów,1
+34040,Koblenz,2
+879,Kobyłka,1
+1558,Köflach,11
+52724,Kokkola,5
+488,Kokoszki,1
+25042,Kolárovo,10
+9229,Kolbermoor,2
+576,Kolbuszowa,1
+43880,Kolín,108
+30034,Kolkwitz,2
+469,Kolno,1
+291,Koluszki,1
+13915,Komárno,10
+2881,Komárom,12
+5495,Komló,12
+298,Komorniki,1
+39814,Köngen,2
+12063,Kongsberg,6
+39236,Kongsvinger,6
+1306,Königs Wusterhausen,2
+12572,Königsbach-Stein,2
+10689,Königsbrunn,2
+14749,Königstein im Taunus,2
+10383,Königswinter,2
+12,Konin,1
+357,Końskie,1
+1765,Konstancin-Jeziorna,1
+775,Konstantynów Łódzki,1
+30480,Konstanz,2
+8160,Kontiolahti,5
+52440,Konz,2
+5291,Kopervik,6
+46724,Köping,4
+20744,Korb,2
+16956,Korneuburg,11
+56520,Korntal-Münchingen,2
+1283,Koronowo,1
+47935,Koropí,14
+39602,Korschenbroich,2
+32794,Korsholm,5
+4503,Korydallós,14
+27717,Kos,14
+8522,Kösching,2
+2202,Kościan,1
+470,Kościelisko,1
+401,Kościerzyna,1
+34096,Košice,10
+582,Kostrzyń,1
+736,Kostrzyn nad Odrą,1
+15,Koszalin,1
+35961,Köthen,2
+38100,Kotka,5
+33,Kötzting,2
+98,Kouvola,5
+303,Kowary,1
+48858,Kozáni,14
+829,Kozienice,1
+262,Kożuchów,1
+703,Kozy,1
+1032,Koło,1
+407,Kołobrzeg,1
+518,Kraków,1
+18670,Kralupy nad Vltavou,108
+16457,Králŭv Dvŭr,108
+8018,Kranenburg,2
+578,Krapkowice,1
+54,Krásná Lípa,3
+1068,Kraśnik,1
+427,Krasnystaw,1
+63,Kravaře,3
+22007,Krems an der Donau,11
+31799,Kreuzau,2
+653,Kreuztal,2
+21624,Kriftel,2
+116,Kristensen,6
+35960,Kristiansand,6
+33994,Kristianstad,4
+12471,Kristinehamn,4
+4358,Kroměříž,108
+33807,Krompachy,10
+29,Kronach,2
+7754,Kronberg,2
+22702,Kronshagen,2
+340,Krosno,1
+1556,Krosno Odrzańskie,1
+325,Krotoszyn,1
+39714,Krumbach,2
+14214,Krupka,108
+1557,Kruszwica,1
+881,Krynica,1
+658,Krzeszowice,1
+777,Kudowa-Zdrój,1
+11960,Kufstein,11
+4996,Kuhmo,5
+8453,Kumla,4
+11323,Kümmersbruck,2
+35330,Kungälv,4
+6064,Kungsängen,4
+206,kunmindszentnémeti,12
+217,kuntapolcavég,12
+7829,Künzell,2
+37824,Künzelsau,2
+37616,Kuopio,5
+2081,Kurikka,5
+18254,Kuřim,108
+466,Kurort Steinbach-Hallenberg,2
+46640,Kutná Hora,108
+2310,Kutno,1
+21688,Kuusankoski,5
+998,Kwidzyn,1
+2566,Kyjov,108
+3583,Kyritz,2
+612,Kłobuck,1
+306,Kłodzko,1
+35262,La Algaba,7
+43666,La Carlota,7
+19401,La Carolina,7
+17974,La Celle-Saint-Cloud,8
+4646,La Chapelle d’Armentières,8
+26942,La Chapelle-Saint-Luc,8
+4124,La Chapelle-Saint-Mesmin,8
+28146,La Chapelle-sur-Erdre,8
+29037,La Ciotat,8
+20353,La Corredoría,7
+26766,La Courneuve,8
+20496,La Crau,8
+1148,La Eliana,7
+29665,La Escala,7
+17754,La Farlède,8
+27587,La Ferté-Bernard,8
+27585,La Ferté-sous-Jouarre,8
+1842,La Flèche,8
+27715,La Garde,8
+8135,La Garenne-Colombes,8
+10005,La Garriga,7
+55883,La Grande-Motte,8
+19363,La Llagosta,7
+5416,La Loggia,13
+55763,La Matanza de Acentejo,7
+19204,La Motte-Servolex,8
+3255,La Mujer,7
+28366,La Oliva,7
+44557,La Orotava,7
+4650,La Palma del Condado,7
+35775,La Puebla del Río,7
+30303,La Queue-en-Brie,8
+39750,La Ravoire,8
+980,La Roche-sur-Foron,8
+21288,La Roche-sur-Yon,8
+37491,La Rochelle,8
+971,La Roda,7
+8602,La Seyne-sur-Mer,8
+39413,La Solana,7
+2312,La Teste-de-Buch,8
+22079,La Trinité,8
+46762,La Valette-du-Var,8
+28065,La Victoria de Acentejo,7
+196,Laa an der Thaya,11
+18410,Laakirchen,11
+18775,Laatzen,2
+23260,Lacchiarella,13
+3579,Lágos,14
+23603,Laguna de Duero,7
+36781,Lahnstein,2
+30714,Lahstedt,2
+20980,Lahti,5
+38252,Lainate,13
+30760,Laitila,5
+12433,Laives,13
+17916,Lajosmizse,12
+523,Lamballe,8
+16209,Lambersart,8
+13057,Lambesc,8
+4968,Lamía,14
+3736,Lamorlaye,8
+12466,Lampertheim,2
+23726,Lana,13
+33805,Lanciano,13
+5805,Landau,2
+8390,Landau an der Isar,2
+5290,Landerneau,8
+5370,Landivisiau,8
+19985,Landshut,2
+27814,Lanester,8
+44579,Langenau,2
+28324,Langenfeld,2
+17537,Langenselbold,2
+4013,Langenzenn,2
+50386,Langhirano,13
+28955,Langwedel,2
+4236,Lannion,8
+491,Lanškroun,108
+41352,Lappersdorf,2
+6597,Lapua,5
+3422,Lardero,7
+9359,Laredo,7
+7720,Lárisa,14
+7474,Las Cabezas de San Juan,7
+45820,Las Palmas,7
+18253,Las Rozas de Madrid,7
+8421,Las Torres de Cotillas,7
+30942,Lastra a Signa,13
+12918,Laterza,13
+13582,Latina,13
+12919,Latisana,13
+14039,Laubach,2
+31711,Lauchhammer,2
+18926,Lauda-Königshofen,2
+11672,Lauf,2
+22317,Laufenburg (Baden),2
+22876,Lauingen,2
+34760,Laukaa,5
+31360,Launaguet,8
+9628,Laupheim,2
+25335,Lauria Inferiore,13
+22645,Lauritsala,5
+11830,Lauterach,11
+10794,Laval,8
+4862,Lavaur,8
+3582,Lavello,13
+41420,Laveno-Mombello,13
+12730,Lavis,13
+69,Lázně Bohdaneč,3
+25986,Le Beausset,8
+6407,Le Blanc-Mesnil,8
+42145,Le Bourget,8
+12323,Le Bouscat,8
+5202,Le Cannet,8
+44369,Le Chambon-Feugerolles,8
+50741,Le Chesnay,8
+6599,Le Creusot,8
+13875,Le Haillan,8
+18961,Le Havre,8
+2358,Le Kremlin-Bicêtre,8
+48424,Le Luc,8
+24443,Le Mans,8
+1593,Le Mée-sur-Seine,8
+4303,Le Muy,8
+3946,Le Passage,8
+24096,Le Petit-Couronne,8
+33257,Le Petit-Quevilly,8
+34127,Le Pont-de-Claix,8
+11444,Le Pontet,8
+10439,Le Portel,8
+38954,Le Pradet,8
+30458,Le Puy-en-Velay,8
+2927,Le Relecq-Kerhuon,8
+15311,Le Rheu,8
+25070,Le Thor,8
+5136,Le Vésinet,8
+270,Lębork,1
+48654,Lebrija,7
+36614,Lecco,13
+32322,Lefkáda,14
+1224,Legionowo,1
+12437,Legnago,13
+31057,Legnano,13
+6237,Legnaro,13
+9,Legnica,1
+32231,Léguevin,8
+11363,Lehre,2
+19825,Lehrte,2
+14880,Leichlingen,2
+40907,Leimen,2
+25804,Leinefelde,2
+2309,Leinì,13
+58215,Leipzig,2
+29459,Leixlip,9
+25301,Lemgo,2
+2078,Lempäälä,5
+6540,Lempdes,8
+25371,Lendinara,13
+3545,Lengede,2
+27023,Lenggries,2
+10695,Lennestadt,2
+26221,Lens,8
+4172,Leoben,11
+45329,Léognan,8
+129,León,7
+14992,Leonberg,2
+38191,Leonforte,13
+15439,Lepe,7
+27856,Lequile,13
+2527,Lerum,4
+5417,Les Clayes-sous-Bois,8
+50284,Les Herbiers,8
+27947,Les Lilas,8
+6501,Les Mureaux,8
+44525,Les Pavillons-sous-Bois,8
+32202,Les Pennes-Mirabeau,8
+2396,Les Ponts-de-Cé,8
+40415,Les Sables-d’Olonne,8
+23148,Les Sorinières,8
+18480,Lescar,8
+38617,Lesquin,8
+258,Leszno,1
+16097,Letterkenny,9
+14177,Leuna,2
+51250,Leutkirch im Allgäu,2
+10441,Levallois-Perret,8
+29108,Levanger,6
+48314,Leverano,13
+22785,Levice,10
+31359,Levoča,10
+623,Leżajsk,1
+26808,Lézignan-Corbières,8
+46026,Liberec,108
+326,Libiąż,1
+32751,Libourne,8
+33851,Lich,2
+21625,Lichtenau,2
+30836,Lichtenfels,2
+20942,Lidingö,4
+28095,Lidköping,4
+1729,Lidzbark,1
+423,Lidzbark Warmiński,1
+51068,Lieksa,5
+4832,Lienen,2
+195,Lienz,11
+5806,Lier,6
+7902,Lieto,5
+27350,Lieusaint,8
+44458,Liévin,8
+331,Lifford,9
+6410,Lille,8
+4054,Lillebonne,8
+22077,Lillehammer,6
+800,Limanowa,1
+2879,Limbach-Oberfrohna,2
+14847,Limbiate,13
+55494,Limburg,2
+19151,Limburgerhof,2
+7693,Limeil-Brévannes,8
+22680,Limerick,9
+11959,Liminka,5
+46299,Limoges,8
+19823,Limoux,8
+15037,Linares,7
+47660,Lindås,6
+13386,Lindau,2
+24133,Lindesberg,4
+28610,Lindlar,2
+156,Lindsay Ville,9
+33382,Lingen,2
+9630,Lingolsheim,8
+20286,Linköping,4
+20557,Linnich,2
+54931,Linz,11
+8164,Lipari,13
+103,Liperi,5
+311,Lipno,1
+16138,Lippstadt,2
+8563,Liptovský Mikuláš,10
+15073,Liria,7
+866,Lisieux,8
+31261,Lissone,13
+51421,Litoměřice,108
+4175,Litomyšl,108
+28752,Litovel,108
+12299,Litvínov,108
+8357,Livadeiá,14
+335,Livorno,13
+36208,Livron-sur-Drôme,8
+125,Livø,6
+1341,Lizzanello,13
+36119,Llagostera,7
+41543,Llanera,7
+1693,Llanes,7
+38251,Lleida,7
+58292,Lluchmayor,7
+12438,Loano,13
+3063,Locate di Triulzi,13
+23296,Locri,13
+27582,Lodi,13
+42532,Loeches,7
+2442,Lognes,8
+2644,Logroño,7
+13616,Lohmar,2
+4301,Löhne,2
+96,Loimaa,5
+3113,Loja,7
+179,Lok,10
+21970,Lomazzo,13
+16211,Lomme,8
+57165,Lommedalen,6
+26556,Longford,9
+34253,Longvic,8
+2143,Longwy,8
+47621,Lons-le-Saunier,8
+20053,Loos,8
+4802,Lora del Río,7
+42110,Lorca,7
+13236,Lorch,2
+2182,Loreto,13
+39517,Loria,13
+30151,Lorient,8
+5679,Lorsch,2
+13160,Los Alcázares,7
+35404,Lotte,2
+4015,Loudéac,8
+13185,Louny,108
+39646,Lourdes,8
+27690,Loutráki,14
+27946,Louviers,8
+6669,Louvres,8
+19824,Loviisa,5
+29277,Lovosice,108
+19271,Löwenberg,2
+22347,Loxstedt,2
+18960,Luanco,7
+462,Lubaczów,1
+742,Lubań,1
+410,Lubartów,1
+257,Lubawa,1
+55393,Lübbecke,2
+12594,Lübben (Spreewald),2
+9110,Lübbenau/Spreewald,2
+11958,Lübeck,2
+312,Lubin,1
+424,Lublin,1
+1035,Lubliniec,1
+1002,Luboń,1
+1104,Lubsko,1
+38956,Lucan,9
+35261,Lucca,13
+9203,Lucé,8
+38325,Lučenec,10
+2395,Luckau,2
+3167,Luckenwalde,2
+25538,Luçon,8
+30712,Lüdenscheid,2
+37095,Ludvika,4
+32321,Ludwigslust,2
+3772,Lügde,2
+12191,Lugo,7
+47852,Lugo,13
+25040,Luino,13
+79,Luleå,4
+7116,Lumbreras,7
+80,Lund,4
+120,Lunde,6
+19032,Lüneburg,2
+45034,Lünen,2
+1631,Lunéville,8
+25845,Lunner,6
+16023,Lurate Caccivio,13
+23147,Lustenau,11
+38326,Lützen,2
+105,Luumäki,5
+13941,Luzzara,13
+57882,Luzzi,13
+386,Lwówek Śląski,1
+27528,Lycksele,4
+11516,Lykóvrysi,14
+48929,Lyngdal,6
+55248,Lyon,8
+17110,Lys-lès-Lannoy,8
+6791,Lysá nad Labem,108
+42534,L’Isle-Adam,8
+17341,L’Isle-d’Abeau,8
+6730,L’Isle-Jourdain,8
+10050,L’Isle-sur-la-Sorgue,8
+40353,L’Union,8
+43879,Macerata,13
+34889,Macerata Campania,13
+236,Maciano,13
+38688,Mâcon,8
+6105,Maddaloni,13
+40937,Madrid,7
+34759,Madridejos,7
+2273,Magdeburg,2
+16137,Magenta,13
+8253,Magione,13
+3978,Maglód,12
+38867,Magnago,13
+43811,Magny-le-Hongre,8
+24736,Magny-les-Hameaux,8
+8641,Magstadt,2
+44744,Mahón,7
+556,Maigh Nuad,9
+52780,Mainaschaff,2
+11665,Mainburg,2
+24316,Maintal,2
+31562,Mainvilliers,8
+36209,Mairena del Alcor,7
+169,Mairtin Ville,9
+39415,Maisach,2
+48611,Maisenhausen,2
+8487,Maisons-Alfort,8
+25099,Maisons-Laffitte,8
+301,Maizières-lès-Metz,8
+6854,Makó,12
+382,Maków Mazowiecki,1
+47853,Málaga,7
+11795,Malakoff,8
+16238,Malalbergo,13
+436,Malbork,1
+21569,Malente,2
+111,Malinfjell,6
+84,Malmö,4
+24670,Malnate,13
+41906,Malo,13
+31800,Malvik,6
+9749,Manacor,7
+24135,Mancha Real,7
+1900,Mandal,6
+2405,Mandello del Lario,13
+30713,Mándra,14
+1968,Manduria,13
+21166,Manerbio,13
+2447,Manfredonia,13
+23725,Maniago,13
+54676,Manises,7
+915,Manlleu,7
+51008,Mannheim,2
+31601,Mansfeld,2
+24506,Mantes-la-Jolie,8
+13412,Mantes-la-Ville,8
+11747,Mäntsälä,5
+18553,Maracena,7
+46131,Maranello,13
+11930,Marano di Napoli,13
+6751,Marbella,7
+1528,Marburg,2
+32441,Marcali,12
+4705,Marchena,7
+222,Marchirolo,13
+11517,Marchtrenk,11
+10751,Marcianise,13
+4082,Marcon,13
+6341,Marcq-en-Baroeul,8
+220,Maresca,13
+2444,Marguerittes,8
+52751,Mariano Comense,13
+8518,Mariehamn,5
+24255,Marienberg,2
+10665,Marienheide,2
+2086,Marigliano,13
+34762,Marín,7
+17976,Marino,13
+7877,Markdorf,2
+874,Marki,1
+13910,Markkleeberg,2
+11706,Markranstädt,2
+36528,Markt Indersdorf,2
+751,Marktredwitz,2
+35562,Marl,2
+25648,Marly,8
+54162,Marmande,8
+44868,Maromme,8
+24709,Marostica,13
+29979,Maroúsi,14
+2399,Marpingen,2
+21474,Marquette-lès-Lille,8
+11367,Marratxi,7
+17486,Marsberg,2
+19491,Marsciano,13
+46460,Märsta,4
+40622,Martano,13
+24711,Martellago,13
+40767,Martigues,8
+36001,Martin,10
+37452,Martina Franca,13
+49194,Martos,7
+25147,Mascalucia,13
+4333,Masku,5
+22611,Masquefa,7
+30256,Massa,13
+14281,Massa Lombarda,13
+26810,Massafra,13
+45737,Massarosa,13
+149,Masson-sur-Guérin,8
+3173,Massy,8
+52956,Mataró,7
+32527,Matera,13
+154,Mathieudan,8
+13458,Matino,13
+167,Matthew Ville,9
+42878,Maubeuge,8
+4435,Maurepas,8
+40801,Maxéville,8
+24021,Maxhütte-Haidhof,2
+23204,Mayen,2
+46609,Mayenne,8
+52779,Mazamet,8
+18822,Mazara del Vallo,13
+23602,Mazzarino,13
+6889,Meaux,8
+10484,Mechernich,2
+31868,Meckenbeuren,2
+10480,Meckenheim,2
+6411,Meco,7
+39326,Medicina,13
+12685,Medina Sidonia,7
+10292,Meerane,2
+48061,Meerbusch,2
+19274,Mégara,14
+11015,Meine,2
+38720,Meinerzhagen,2
+20591,Meiningen,2
+2229,Meißen,2
+8163,Mejorada del Campo,7
+6644,Meldola,13
+39982,Melegnano,13
+49710,Melendugno,13
+12152,Meliana,7
+9137,Melíssia,14
+6892,Melito di Napoli,13
+10096,Mělník,108
+19868,Melun,8
+35851,Melzo,13
+23822,Memmingen,2
+7336,Mendicino,13
+4604,Menfi,13
+37266,Mengen,2
+14137,Mengibar,7
+10049,Mennecy,8
+42846,Mentana,13
+17535,Menton,8
+14566,Meppen,2
+8880,Merano,13
+50742,Merate,13
+9534,Mercato San Severino,13
+3206,Merchweiler,2
+58718,Mercogliano,13
+32201,Méricourt,8
+12154,Mérida,7
+23203,Mering,2
+28266,Merseburg,2
+9535,Merville,8
+37207,Méry-sur-Oise,8
+15468,Merzenich,2
+29897,Mesagne,13
+37120,Meßkirch,2
+22679,Mesolóngi,14
+14306,Messina,13
+42294,Meßstetten,2
+16172,Mestre,13
+45599,Mestrino,13
+57522,Mettingen,2
+6890,Mettlach,2
+4804,Mettmann,2
+44064,Metz,8
+1250,Meudon,8
+36154,Meylan,8
+14215,Meyzieu,8
+8680,Mèze,8
+5263,Mezőberény,12
+212,mezőhetvenvár,12
+14451,Mezőkövesd,12
+8013,Mezőtúr,12
+11667,Miajadas,7
+1492,Miastko,1
+12188,Michelstadt,2
+42292,Michendorf,2
+31476,Midleton,9
+1535,Miechów,1
+741,Międzychód,1
+868,Międzyrzec Podlaski,1
+1430,Międzyrzecz,1
+917,Mielec,1
+5025,Miesbach,2
+7221,Miguelturra,7
+5750,Mijas,7
+47407,Mikkeli,5
+8788,Mikkelin Maalaiskunta,5
+384,Mikołów,1
+56,Mikulov,3
+5094,Milan,13
+584,Milanówek,1
+500,Milicz,1
+27058,Millau,8
+45689,Miltenberg,2
+34402,Mindelheim,2
+56164,Minden,2
+47484,Minervino Murge,13
+833,Mińsk Mazowiecki,1
+35962,Minturno,13
+5135,Mions,8
+58815,Mira,13
+31652,Miranda de Ebro,7
+43623,Mirandola,13
+1069,Miribel,8
+35561,Misano Adriatico,13
+9874,Misilmeri,13
+17975,Miskolc,12
+52869,Mislata,7
+348,Missaglia,13
+10609,Mistelbach,11
+2404,Misterbianco,13
+18013,Mitry-Mory,8
+15033,Mittegroßefehn,2
+37548,Mittenwalde,2
+11900,Mittweida,2
+1334,Mjölby,4
+34398,Mladá Boleslav,108
+13581,Mnichovo Hradiště,108
+2356,Moaña,7
+44196,Modena,13
+34038,Modica,13
+19173,Modra,10
+30175,Modugno,13
+54594,Moers,2
+709,Mogilno,1
+5626,Mogliano Veneto,13
+30512,Möglingen,2
+46512,Moguer,7
+10331,Mohács,12
+3253,Mohelnice,108
+29896,Möhnesee,2
+11666,Moissac,8
+57575,Moissy-Cramayel,8
+21054,Mola di Bari,13
+39166,Moldava nad Bodvou,10
+2141,Molde,6
+11797,Molfetta,13
+2607,Molinella,13
+9677,Molíns de Rey,7
+27633,Mollerusa,7
+11011,Mollet,7
+1530,Mölln,2
+1074,Mölndal,4
+40804,Mölnlycke,4
+21863,Molsheim,8
+15471,Mömbris,2
+37263,Moncada,7
+10153,Moncalieri,13
+40205,Mönchengladbach,2
+18479,Mondeville,8
+31079,Mondolfo,13
+45425,Mondovì,13
+16380,Monesiglio,13
+2832,Monfalcone,13
+17140,Monforte de Lemos,7
+17446,Monforte del Cid,7
+36699,Mongat,7
+615,Mońki,1
+19270,Monopoli,13
+51218,Monor,12
+10332,Monóvar,7
+18705,Monreale,13
+3225,Mons-en-Baroeul,8
+12467,Monselice,13
+8683,Monserrat,7
+1761,Monserrato,13
+12400,Monsummano,13
+31712,Mont-de-Marsan,8
+32926,Mont-Saint-Aignan,8
+46130,Mont-Saint-Martin,8
+8561,Montabaur,2
+58720,Montale,13
+37041,Montalto Uffugo,13
+28193,Montataire,8
+46197,Montauban,8
+24883,Montbrison,8
+43201,Montceau-les-Mines,8
+6275,Monte Compatri,13
+4332,Monte di Procida,13
+43102,Monte Porzio Catone,13
+16611,Monte San Giovanni Campano,13
+11012,Monte San Pietro,13
+4053,Monte Sant’Angelo,13
+10485,Montebelluna,13
+19201,Montecatini Terme,13
+223,Montecchio Emilia,13
+31291,Montecchio Maggiore,13
+14307,Montechiarugolo,13
+4998,Monteforte d’Alpone,13
+25537,Montegranaro,13
+15254,Montélimar,8
+19205,Montelupo Fiorentino,13
+56080,Montemurlo,13
+10690,Monteprandone,13
+2749,Montereau-faut-Yonne,8
+7952,Monteriggioni,13
+21169,Monteroni d’Arbia,13
+38763,Monterotondo,13
+49949,Montespertoli,13
+45428,Montesson,8
+34471,Monteux,8
+45431,Montevarchi,13
+359,Montévrain,8
+35190,Montgeron,8
+6303,Monticello Conte Otto,13
+34397,Montichiari,13
+48825,Montignoso,13
+9916,Montigny-en-Gohelle,8
+24134,Montigny-lès-Metz,8
+14906,Montijo,7
+51948,Montivilliers,8
+13187,Montlouis-sur-Loire,8
+5028,Montmagny,8
+13416,Montmeló,7
+18287,Montmorency,8
+6006,Montopoli in Val d’Arno,13
+8882,Montornés del Vallés,7
+20221,Montoro,7
+23565,Montpellier,8
+34249,Montreuil,8
+31935,Montrouge,8
+22075,Monza,13
+39206,Monzón,7
+44900,Moosburg,2
+25579,Mór,12
+549,Morąg,1
+7410,Morangis,8
+4903,Moravská Třebová,108
+22577,Morbach,2
+45482,Morbegno,13
+11865,Mörfelden-Walldorf,2
+13734,Mori,13
+12727,Morières-lès-Avignon,8
+13776,Morlaix,8
+18062,Mörlenbach,2
+16645,Morón de la Frontera,7
+36082,Morsang-sur-Orge,8
+4505,Morsbach,2
+55540,Mortara,13
+42905,Mosbach,2
+26131,Mosciano Sant’Angelo,13
+4508,Mosigkau,2
+1759,Mosina,1
+205,Mosonmagyaróvár,12
+8016,Moss,6
+40906,Mössingen,2
+53,Most,3
+1940,Most,108
+88,Motala,4
+1666,Motril,7
+11364,Motta Sant’Anastasia,13
+233,Motteggiana,13
+28721,Mottola,13
+23258,Mouans-Sartoux,8
+13640,Mougins,8
+2231,Moulins,8
+55541,Mouvaux,8
+37383,Mozzate,13
+496,Mrągowo,1
+11643,Much,2
+2987,Muchamiel,7
+40135,Mücheln,2
+11742,Múggia,13
+3838,Mugnano di Napoli,13
+28269,Mühlacker,2
+47777,Mühldorf,2
+23876,Mühlhausen,2
+48154,Muhos,5
+12941,Mülheim,2
+12329,Mülheim-Kärlich,2
+19729,Mulhouse,8
+23078,Müllheim,2
+14907,Mülsen,2
+20709,Münchberg,2
+49,München,2
+54791,Munguía,7
+43621,Munich,2
+11408,Münsingen,2
+3664,Münster,2
+4647,Murcia,7
+24056,Muret,8
+57289,Murnau am Staffelsee,2
+3450,Muro del Alcoy,7
+636,Murowana Goślina,1
+26945,Murrhardt,2
+38190,Mürzzuschlag,11
+23425,Musile di Piave,13
+22053,Mussomeli,13
+22871,Myjava,10
+1586,Myślenice,1
+977,Myślibórz,1
+486,Myszków,1
+1526,Mysłowice,1
+15253,Mytilíni,14
+461,Mława,1
+2643,Na Sceirí,9
+12156,Naantali,5
+9786,Naas,9
+9389,Nádudvar,12
+25068,Náfpaktos,14
+28572,Náfplio,14
+7069,Nagold,2
+50954,Nagyatád,12
+21020,Nagykálló,12
+869,Nagykanizsa,12
+25067,Nagykáta,12
+17699,Nagykovácsi,12
+334,Nakło nad Notecią,1
+21249,Namsos,6
+374,Namysłów,1
+22927,Nancy,8
+6646,Nangis,8
+44901,Nanterre,8
+3256,Nantes,8
+30460,Náousa,14
+43841,Narbonne,8
+2443,Narón,7
+40620,Närpes,5
+43476,Nauheim,2
+12328,Naumburg,2
+24509,Naunhof,2
+948,Navalcarnero,7
+28097,Navalmoral de la Mata,7
+18098,Navan,9
+4803,Néa Alikarnassós,14
+19003,Néa Artáki,14
+37825,Néa Filadélfeia,14
+52181,Néa Michanióna,14
+8450,Néa Moudaniá,14
+11746,Néa Smýrni,14
+13994,Neckarsulm,2
+7185,Nedre Eiker,6
+226,Negrone,13
+39237,Nenagh,9
+9230,Néo Psychikó,14
+15252,Neratovice,108
+13583,Nerja,7
+918,Nersingen,2
+13457,Nerviano,13
+28953,Nesoddtangen,6
+9109,Netphen,2
+23361,Nettetal,2
+30481,Nettuno,13
+43351,Neu Bleckede,2
+4463,Neu Isenburg,2
+10212,Neu Wulmstorf,2
+16026,Neu-Ulm,2
+30304,Neubiberg,2
+23048,Neubrandenburg,2
+55579,Neuburg,2
+25492,Neuenburg am Rhein,2
+9108,Neuenhaus,2
+10694,Neuenkirchen,2
+22511,Neuenrade,2
+10853,Neufahrn bei Freising,2
+2181,Neuhausen auf den Fildern,2
+6473,Neuilly-Plaisance,8
+18603,Neuilly-sur-Marne,8
+38955,Neuilly-sur-Seine,8
+47345,Neumünster,2
+4462,Neunkirchen,2
+552,Neunkirchen,11
+4459,Neuötting,2
+8389,Neuried,2
+8642,Neusäß,2
+7828,Neustadt,2
+32966,Neustadt am Rübenberge,2
+38,Neustrelitz,2
+5493,Neutraubling,2
+14848,Neuville-en-Ferrain,8
+14385,Neuwied,2
+45481,Nevers,8
+117,Nguyen,6
+22751,Nice,8
+20763,Nichelino,13
+52846,Nidda,2
+46167,Nidderau,2
+16492,Nideggen,2
+259,Nidzica,1
+8017,Niebüll,2
+28365,Nieder-Olm,2
+483,Niederkassel,2
+20845,Niederkrüchten,2
+14037,Niedernhausen,2
+52581,Niederzier,2
+395,Niepołomice,1
+37960,Niesky,2
+6276,Nigrán,7
+47283,Níkaia,14
+5204,Nîmes,8
+21165,Niort,8
+7657,Niscemi,13
+667,Nisko,1
+11078,Nitra,10
+57390,Nittedal,6
+7072,Nittenau,2
+39284,Nittendorf,2
+1309,Nivala,5
+23799,Nizza Monferrato,13
+29460,Noale,13
+30513,Nocera Inferiore,13
+18252,Nocera Superiore,13
+10693,Noceto,13
+18512,Nödinge-Nol,4
+47211,Noeux-les-Mines,8
+15119,Nogent-le-Rotrou,8
+45948,Nogent-sur-Oise,8
+33143,Noicattaro,13
+1379,Noisy-le-Grand,8
+9831,Noisy-le-Sec,8
+17729,Nokia,5
+23765,Nola,13
+6988,Nonantola,13
+431,Norden,2
+8251,Nordenham,2
+3627,Norderstedt,2
+1336,Nordhausen,2
+1698,Nordhorn,2
+11052,Nördlingen,2
+15376,Nordre Fåle,6
+28098,Nordwalde,2
+9585,Norrköping,4
+15949,Nort-sur-Erdre,8
+18478,Northeim,2
+31478,Nörvenich,2
+19034,Nossen,2
+44526,Noto,13
+21017,Notodden,6
+2445,Notre-Dame-de-Gravenchon,8
+16069,Nottuln,2
+67,Nová Bystřice,3
+41156,Nová Dubnica,10
+1531,Nova Milanese,13
+827,Nová Paka,108
+11445,Novara,13
+54627,Novate Milanese,13
+3699,Nové Město na Moravě,108
+48032,Nové Město nad Metují,108
+57076,Nové Mesto nad Váhom,10
+7033,Nové Zámky,10
+54369,Novelda,7
+4509,Novellara,13
+12300,Novi di Modena,13
+28834,Nový Bor,108
+37453,Nový Jičín,108
+328,Nowa Dęba,1
+912,Nowa Ruda,1
+543,Nowa Sól,1
+797,Nowe Miasto Lubawskie,1
+1101,Nowogard,1
+521,Nowy Dwór Gdański,1
+911,Nowy Dwór Mazowiecki,1
+4,Nowy Sącz,1
+409,Nowy Targ,1
+834,Nowy Tomyśl,1
+4012,Noyon,8
+51468,Nules,7
+18286,Nümbrecht,2
+33620,Nuremberg,2
+54254,Nurmijärvi,5
+19397,Nurmo,5
+14616,Nyírbátor,12
+10612,Nyíregyháza,12
+82,Nyköping,4
+19273,Nymburk,108
+2088,Nynäshamn,4
+1102,Nysa,1
+45992,Nøtterøy,6
+17029,Ober-Ramstadt,2
+7834,Oberasbach,2
+26805,Oberhaching,2
+55817,Oberhausen,2
+47102,Oberkirch,2
+1697,Obernai,8
+41777,Obernburg am Main,2
+8159,Obernkirchen,2
+2179,Oberschleißheim,2
+5948,Obertraubling,2
+1727,Oberursel,2
+413,Oborniki,1
+522,Oborniki Śląskie,1
+48964,Ocaña,7
+41734,Occhiobello,13
+864,Ochsenhausen,2
+34961,Ochtrup,2
+15579,Ócsa,12
+53794,Octeville,8
+48208,Odenthal,2
+11961,Oelde,2
+28443,Oer-Erkenschwick,2
+54199,Oerlinghausen,2
+42040,Offenburg,2
+439,Oggiono,13
+37363,Ogíjares,7
+48093,Ohrdruf,2
+31870,Öhringen,2
+13413,Oignies,8
+27021,Oissel,8
+44294,Olbernhau,2
+30647,Olbia,13
+8318,Olching,2
+52182,Oldenburg,2
+24058,Oldenburg in Holstein,2
+405,Olecko,1
+21971,Oleggio,13
+1532,Oleiros,7
+621,Oleśnica,1
+60,Olešnice,3
+557,Olesno,1
+5598,Olfen,2
+27251,Olgiate Olona,13
+28147,Olivares,7
+10185,Olivenza,7
+21346,Olivet,8
+713,Olkusz,1
+5054,Ollioules,8
+13502,Olomouc,108
+15510,Olonne-sur-Mer,8
+21472,Oloron-Sainte-Marie,8
+19489,Olot,7
+35225,Olpe,2
+43505,Olsberg,2
+315,Olsztyn,1
+49333,Omegna,13
+221,Omignano Scalo,13
+14211,Oñate,7
+28027,Onda,7
+13328,Onnaing,8
+42904,Onteniente,7
+944,Opalenica,1
+32791,Opava,108
+36002,Opera,13
+704,Opoczno,1
+1804,Opole,1
+30211,Oppegård,6
+27442,Oraiókastro,14
+29667,Orange,8
+26678,Oranienburg,2
+5236,Orbassano,13
+28835,Orchies,8
+4239,Orestiáda,14
+54678,Oria,13
+6893,Orihuela,7
+1803,Orivesi,5
+1382,Örkelljunga,4
+8188,Orléans,8
+55969,Orly,8
+8823,Ormesson-sur-Marne,8
+2270,Örnsköldsvik,4
+28613,Orosháza,12
+50134,Oroszlány,12
+210,oroszmártonvára,12
+44100,Orsay,8
+34187,Orta Nova,13
+8314,Orthez,8
+11362,Ortona,13
+41265,Orvault,8
+36864,Orvieto,13
+375,Orzesze,1
+12515,Os,6
+19242,Oschersleben,2
+22784,Osimo,13
+51133,Oskarshamn,4
+48117,Oslo,6
+6376,Osny,8
+622,Osowa,1
+24315,Ostbevern,2
+27175,Ostercappeln,2
+6993,Osternienburg,2
+42111,Osterode,2
+1156,Östersund,4
+26944,Osterwieck,2
+26653,Ostfildern,2
+74,Ostrawa,3
+16925,Ostrhauderfehn,2
+974,Ostróda,1
+995,Ostrów Mazowiecka,1
+435,Ostrów Wielkopolski,1
+400,Ostrowiec Świętokrzyski,1
+327,Ostrołęka,1
+421,Ostrzeszów,1
+18290,Oststeinbek,2
+31144,Ostuni,13
+1589,Osuna,7
+752,Oświęcim,1
+715,Otrokovice,108
+22929,Ottaviano,13
+25182,Ottendorf-Okrilla,2
+14509,Ottersberg,2
+58260,Ottobrunn,2
+256,Otwock,1
+1695,Oulu,5
+58487,Oulunsalo,5
+20843,Ourense,7
+17142,Outreau,8
+38099,Overath,2
+35963,Oxelösund,4
+8878,Oyonnax,8
+625,Oyten,2
+870,Ożarów Mazowiecki,1
+34758,Ozieri,13
+377,Ozimek,1
+17577,Ozoir-la-Ferrière,8
+437,Ozorków,1
+1199,Oława,1
+1339,Pabianice,1
+10519,Pacé,8
+39081,Paceco,13
+23049,Pachino,13
+54751,Paderborn,2
+47695,Paderno Dugnano,13
+24880,Padova,13
+13996,Paese,13
+17261,Paianía,14
+20634,Paimio,5
+17262,Paiporta,7
+29297,Pájara,7
+35999,Palafolls,7
+14567,Palafrugell,7
+4173,Palagonia,13
+19243,Palaió Fáliro,14
+11236,Palamós,7
+23877,Palazzolo Acreide,13
+31479,Palencia,7
+3326,Palestrina,13
+50362,Pallazzolo sull’Oglio,13
+39951,Palma,7
+56319,Palma Campania,13
+32274,Palma del Río,7
+32889,Palma di Montechiaro,13
+29034,Palmerston,9
+44198,Palo del Colle,13
+5055,Palomares del Río,7
+29296,Palombara Sabina,13
+20880,Palos de la Frontera,7
+4174,Pamiers,8
+1901,Pamplona,7
+34670,Panazol,8
+31447,Pandino,13
+20799,Paola,13
+10613,Papágos,14
+14687,Papenburg,2
+27859,Parabiago,13
+47483,Parabita,13
+5237,Paracuellos de Jarama,7
+5676,Parchim,2
+921,Parczew,1
+76,Pardubice,3
+40173,Pardubice,108
+19987,Parempuyre,8
+40518,Pargas,5
+143,Paris,8
+5751,Parma,13
+14996,Partanna,13
+51753,Parthenay,8
+4052,Partizánske,10
+12189,Pasewalk,2
+24019,Pasian di Prato,13
+146,Pasquier,8
+27,Passau,2
+190,Paština Závada,10
+8977,Pásztó,12
+969,Pasłęk,1
+44652,Paterna,7
+36613,Pátra,14
+5200,Pattensen,2
+2230,Pau,8
+55106,Pavia,13
+1338,Pavullo nel Frignano,13
+14905,Pécel,12
+58686,Pécs,12
+13456,Pedersöre,5
+16414,Péfka,14
+3205,Péfki,14
+20495,Peine,2
+25338,Peiting,2
+15948,Pelhřimov,108
+53371,Pellezzano,13
+49637,Penne,13
+9830,Penzberg,2
+47525,Pérama,14
+7901,Perchtoldsdorf,11
+35471,Pérenchies,8
+48655,Pergine Valsugana,13
+18136,Périgny,8
+18411,Périgueux,8
+16741,Peristéri,14
+42468,Perl,2
+4209,Perleberg,2
+47778,Pernes-les-Fontaines,8
+50361,Perpignan,8
+42778,Persan,8
+13459,Pertuis,8
+8393,Perugia,13
+1150,Pesaro,13
+13158,Pescantina,13
+1583,Pescara,13
+12223,Pescia,13
+22510,Petersberg,2
+5752,Petershagen,2
+21018,Petilia Policastro,13
+35776,Petite-Synthe,8
+5024,Petrel,7
+4602,Petroúpoli,14
+4732,Petržalka,10
+54255,Pezinok,10
+21774,Pfaffenhofen,2
+43,Pfaffenhofen an der Ilm,2
+30611,Pfarrkirchen,2
+16489,Pfastatt,8
+13668,Pfedelbach,2
+8186,Pforzheim,2
+43002,Pfullendorf,2
+34039,Pfullingen,2
+46385,Pia,8
+3065,Piacenza,13
+8566,Pianella,13
+20196,Pianiga,13
+57524,Piano di Sorrento,13
+873,Pianoro,13
+380,Piaseczno,1
+336,Piastów,1
+31358,Piazza Armerina,13
+32106,Piazzola sul Brenta,13
+10882,Picaña,7
+14099,Picasent,7
+34163,Piedras Blancas,7
+1070,Piekary Śląskie,1
+35518,Piera,7
+34995,Pierre-Bénite,8
+17305,Pierrefitte-sur-Seine,8
+1193,Pierrelaye,8
+13847,Piešťany,10
+26809,Pietrasanta,13
+6926,Pilar de la Horadada,7
+50773,Pilas,7
+2988,Pilis,12
+31653,Piliscsaba,12
+2029,Pińczów,1
+976,Pinerolo,13
+10554,Pinneberg,2
+24732,Pinos Puente,7
+1246,Pinto,7
+142,Pinto,8
+39914,Pioltello,13
+56740,Piombino,13
+1582,Pionki,1
+745,Piotrków Trybunalski,1
+4296,Piove di Sacco,13
+2180,Piraeus,14
+101,Pirkkala,5
+35,Pirmasens,2
+50433,Pisa,13
+1427,Písek,108
+15885,Pisticci,13
+38189,Pistoia,13
+279,Pisz,1
+78,Piteå,4
+39376,Pithiviers,8
+4331,Pizzo,13
+1844,Piła,1
+499,Plaisance-du-Touch,8
+4237,Plaisir,8
+65,Planá,3
+26352,Planegg,2
+24226,Plankstadt,2
+44459,Plasencia,7
+18857,Plattling,2
+46,Plauen,2
+20981,Plérin,8
+872,Pleszew,1
+31218,Plettenberg,2
+628,Plewiska,1
+15251,Pliezhausen,2
+6242,Plochingen,2
+6671,Ploemeur,8
+57817,Ploërmel,8
+6107,Ploufragan,8
+3112,Plougastel-Daoulas,8
+6891,Plüderhausen,2
+4600,Plzeň,108
+385,Pobiedziska,1
+50106,Pocking,2
+21752,Poděbrady,108
+5594,Podenzano,13
+15170,Poggibonsi,13
+12266,Poggio a Caiano,13
+14589,Poggiomarino,13
+1845,Poing,2
+27178,Poissy,8
+1533,Pola de Laviana,7
+18347,Pola de Lena,7
+6408,Pola de Siero,7
+3,Police,1
+10481,Polignano a Mare,13
+18928,Polistena,13
+1629,Polkowice,1
+53525,Pollensa,7
+53526,Pomáz,12
+16171,Pomezia,13
+10688,Ponferrada,7
+1284,Poniatowa,1
+45598,Ponsacco,13
+1486,Pont-du-Château,8
+14176,Pont-Saint-Esprit,8
+6239,Pont-Sainte-Maxence,8
+31934,Pontarlier,8
+3116,Pontassieve,13
+33335,Pontchâteau,8
+28954,Ponte Buggianese,13
+51283,Ponte San Pietro,13
+18552,Pontedera,13
+126,Pontevedra,7
+35852,Pontinia,13
+38165,Pontivy,8
+26677,Pontoise,8
+54562,Porcari,13
+2403,Porcia,13
+10123,Pordenone,13
+22867,Pori,5
+10006,Porsgrunn,6
+22349,Port Laoise,9
+25806,Port-de-Bouc,8
+37894,Portes-lès-Valence,8
+29761,Portet-sur-Garonne,8
+54338,Portici,13
+3666,Porto Empedocle,13
+7374,Pórto Ráfti,14
+37854,Porto Recanati,13
+25342,Porto San Giorgio,13
+14751,Porto Sant’Elpidio,13
+53893,Porto Tolle,13
+44745,Porto-Vecchio,8
+22130,Portoferraio,13
+35998,Portogruaro,13
+44328,Portugalete,7
+24936,Porvoo,5
+19035,Potenza,13
+11409,Potsdam,2
+11518,Považská Bystrica,10
+10750,Poyo,7
+191,Poysdorf,11
+12126,Pöytyä,5
+24,Poznań,1
+2272,Pozoblanco,7
+40354,Pozzallo,13
+39752,Pozzuoli,13
+7753,Prachatice,108
+73,Prague,3
+18745,Prague,108
+16352,Preganziol,13
+13803,Přelouč,108
+50040,Premiá de Mar,7
+53088,Prenzlau,2
+455,Přerov,108
+52819,Prešov,10
+42728,Preußisch Oldendorf,2
+55336,Préveza,14
+20315,Příbram,108
+9388,Priego de Córdoba,7
+50955,Prien am Chiemsee,2
+38717,Prievidza,10
+34252,Priolo Gargallo,13
+8604,Procida,13
+24733,Prostějov,108
+24318,Provins,8
+878,Prudnik,1
+528,Pruszcz Gdański,1
+273,Pruszków,1
+487,Przasnysz,1
+19,Przemyśl,1
+591,Przeworsk,1
+293,Pszczyna,1
+13329,Ptolemaḯda,14
+15687,Puchheim,2
+1429,Púchov,10
+2084,Puck,1
+1581,Puente-Genil,7
+21690,Puerto Real,7
+49290,Puertollano,7
+16381,Pulheim,2
+18883,Pulpí,7
+34819,Pulsano,13
+21055,Punta Umbría,7
+35820,Purkersdorf,11
+1426,Püspökladány,12
+2718,Puszczykowo,1
+18010,Puteaux,8
+54595,Püttlingen,2
+18481,Puzol,7
+14,Puławy,1
+1252,Pułtusk,1
+13874,Pylaía,14
+1027,Pýrgos,14
+1152,Pyrzyce,1
+304,Pyskowice,1
+333,Płock,1
+661,Płońsk,1
+25149,Quakenbrück,2
+26471,Qualiano,13
+6241,Quarrata,13
+32648,Quartu Sant’Elena,13
+3449,Quartucciu,13
+2780,Quattro Castella,13
+56214,Quedlinburg,2
+32485,Querfurt,2
+16612,Quétigny,8
+56081,Quickborn,2
+32173,Quierschied,2
+30946,Quimper,8
+36153,Quincy-sous-Sénart,8
+8559,Raahe,5
+13326,Racale,13
+24418,Racconigi,13
+20,Racibórz,1
+218,ráckövesd,12
+23823,Radeberg,2
+32415,Radebeul,2
+31526,Radevormwald,2
+482,Radom,1
+635,Radomsko,1
+358,Radzionków Nowy,1
+580,Radzymin,1
+546,Radzyń Podlaski,1
+33734,Rafína,14
+6174,Ragusa,13
+44329,Rahden,2
+25987,Rain,2
+3518,Raisio,5
+13059,Raismes,8
+9331,Rakovník,108
+13455,Rambouillet,8
+16833,Ramonville-Saint-Agne,8
+57605,Randaberg,6
+26656,Randazzo,13
+1588,Rangsdorf,2
+3977,Rankweil,11
+31357,Rapallo,13
+8252,Rastatt,2
+35048,Rastede,2
+19532,Rathenow,2
+17442,Ratingen,2
+19090,Ratzeburg,2
+5138,Raubling,2
+2687,Rauma,5
+5911,Raunheim,2
+91,Rautjärvi,5
+7115,Ravanusa,13
+41876,Ravenna,13
+35300,Ravensburg,2
+369,Rawa Mazowiecka,1
+414,Rawicz,1
+1247,Recanati,13
+27286,Recco,13
+5568,Recke,2
+12943,Recklinghausen,2
+1343,Reda,1
+12322,Redon,8
+1196,Redondela,7
+5261,Regensburg,2
+38162,Regenstauf,2
+14044,Reggello,13
+11053,Reggio Emilia,13
+37549,Reggiolo,13
+34,Rehau,2
+2880,Rehburg-Loccum,2
+2924,Rehlingen-Siersburg,2
+52543,Reichelsheim,2
+47309,Reichenbach/Vogtland,2
+7584,Reinbek,2
+776,Reinfeld,2
+34068,Reinheim,2
+7266,Reiskirchen,2
+16027,Rellingen,2
+32856,Remagen,2
+180,Remetské Hámre,10
+16490,Rende,13
+38417,Rendsburg,2
+618,Rennes,8
+21657,Requena,7
+24805,Resana,13
+583,Réthymno,14
+4704,Reus,7
+9293,Reutlingen,2
+8564,Revel,8
+34470,Revúca,10
+22870,Rhaude,2
+54309,Rheda-Wiedenbrück,2
+9533,Rhede,2
+6600,Rheinau,2
+39378,Rheinbach,2
+13773,Rheinberg,2
+13995,Rheine,2
+21082,Rho,13
+5418,Rianxo,7
+660,Ribera,13
+10442,Ribnitz-Damgarten,2
+39882,Riccione Marina,13
+12940,Ried im Innkreis,11
+41026,Riedisheim,8
+22931,Riedlingen,2
+36919,Riegelsberg,2
+48317,Rielasingen-Worblingen,2
+26395,Riesi,13
+40413,Rietberg,2
+18135,Rignano Flaminio,13
+50109,Riihimäki,5
+25407,Rillieux-la-Pape,8
+18602,Rimini,13
+8685,Rincón de la Victoria,7
+25646,Ringsaker,6
+798,Rinteln,2
+22316,Riom,8
+53308,Rionero in Vulture,13
+27716,Ripoll,7
+968,Riposto,13
+51067,Ris-Orangis,8
+2526,Riva del Garda,13
+376,Rivalta di Torino,13
+27252,Rivarolo Canavese,13
+3488,Rivesaltes,8
+54930,Rivoli,13
+25272,Rixheim,8
+1285,Roanne,8
+34821,Rocca di Papa,13
+225,Rocca Grimalda,13
+48209,Rocca Priora,13
+25774,Roccastrada,13
+5372,Rödental,2
+14043,Rodez,8
+23919,Rodgau,2
+20530,Roding,2
+1026,Rödinghausen,2
+12683,Ródos,14
+1225,Rogoźno,1
+366,Rokycany,108
+22984,Romainville,8
+37827,Romano di Lombardia,13
+2140,Romilly-sur-Seine,8
+35517,Rommerskirchen,2
+35104,Roncade,13
+23605,Ronchi dei Legionari,13
+5753,Ronchin,8
+17194,Ronciglione,13
+37208,Roncq,8
+12129,Ronda,7
+4770,Ronneby,4
+42080,Ronnenberg,2
+365,Ropczyce,1
+45072,Roquetas de Mar,7
+17610,Roquevaire,8
+30764,Rosarno,13
+50897,Rosas,7
+55138,Rosbach vor der Höhe,2
+20846,Rosdorf,2
+27285,Rosenheim,2
+7783,Roseto degli Abruzzi,13
+19402,Rosignano Marittimo,13
+865,Rösrath,2
+26906,Rossano,13
+44958,Roßtal,2
+1728,Rotenburg an der Fulda,2
+20087,Roth,2
+16707,Röthenbach an der Pegnitz,2
+21860,Rothenburg ob der Tauber,2
+197,Rottenmann,11
+13135,Rottofreno,13
+2079,Rottweil,2
+56249,Rouvroy,8
+33995,Rovaniemi,5
+3665,Rovato,13
+46761,Rovereto,13
+2268,Royan,8
+4270,Rožňava,10
+19202,Rožnov pod Radhoštěm,108
+35594,Rozzano,13
+11743,Rubano,13
+708,Rubí,7
+399,Rubiera,13
+267,Ruda Śląska,1
+19150,Rudersberg,2
+7378,Rüdesheim am Rhein,2
+18438,Rueil-Malmaison,8
+12514,Rumburk,108
+323,Rumia,1
+58358,Rumilly,8
+188,Rumince,10
+31078,Runkel,2
+27902,Ruppichteroth,2
+1308,Rury,1
+1897,Rush,9
+168,Russell Ville,9
+30376,Rüsselsheim,2
+48903,Russi,13
+37233,Rute,7
+11519,Rüthen,2
+37183,Rutigliano,13
+7510,Ruvo di Puglia,13
+45264,Ružomberok,10
+11,Rybnik,1
+54401,Rygge,6
+370,Ryki,1
+519,Rypin,1
+347,Rzeszów,1
+35051,Røyken,6
+1536,Saalfeld,2
+27061,Sääminki,5
+1764,Saarijärvi,5
+2398,Saarwellingen,2
+22872,Sabadell,7
+56774,Sabaudia,13
+21475,Sabinov,10
+46641,Sablé-sur-Sarthe,8
+5234,Sacile,13
+734,Sada,7
+29927,Säffle,4
+14212,Sagunto,7
+40621,Saint-Amand-les-Eaux,8
+22008,Saint-Amand-Montrond,8
+25841,Saint-André,8
+25776,Saint-André-de-Cubzac,8
+43580,Saint-André-les-Vergers,8
+11326,Saint-Avé,8
+18776,Saint-Avertin,8
+24162,Saint-Brevin-les-Pins,8
+58261,Saint-Brice-sous-Forêt,8
+45738,Saint-Brieuc,8
+26560,Saint-Chamas,8
+13997,Saint-Chamond,8
+3698,Saint-Claude,8
+7477,Saint-Cloud,8
+2232,Saint-Cyprien,8
+6378,Saint-Cyr-l’École,8
+19915,Saint-Cyr-sur-Loire,8
+25426,Saint-Cyr-sur-Mer,8
+12264,Saint-Dizier,8
+22314,Saint-Égrève,8
+25181,Saint-Estève,8
+13638,Saint-Fargeau,8
+42081,Saint-Fons,8
+33945,Saint-Gaudens,8
+23659,Saint-Gély-du-Fesc,8
+13774,Saint-Genis-Laval,8
+22076,Saint-Genis-Pouilly,8
+12327,Saint-Germain-en-Laye,8
+53344,Saint-Germain-lès-Arpajon,8
+32671,Saint-Gilles,8
+22873,Saint-Grégoire,8
+31759,Saint-Herblain,8
+5453,Saint-Jacques-de-la-Lande,8
+24579,Saint-Jean,8
+6790,Saint-Jean-de-Braye,8
+15850,Saint-Jean-de-la-Ruelle,8
+33141,Saint-Jean-de-Luz,8
+13290,Saint-Jean-de-Monts,8
+10852,Saint-Jean-de-Védas,8
+6470,Saint-Jean-d’Illac,8
+24371,Saint-Jean-le-Blanc,8
+20086,Saint-Julien-en-Genevois,8
+4123,Saint-Junien,8
+33806,Saint-Laurent-de-la-Salanque,8
+11365,Saint-Laurent-du-Var,8
+31142,Saint-Lô,8
+49883,Saint-Loubès,8
+49540,Saint-Louis,8
+25101,Saint-Lys,8
+13022,Saint-Malo,8
+36822,Saint-Mandé,8
+20256,Saint-Martin-de-Crau,8
+54679,Saint-Martin-d’Hères,8
+38452,Saint-Maur-des-Fossés,8
+20982,Saint-Max,8
+37234,Saint-Maximin-la-Sainte-Baume,8
+51328,Saint-Médard-en-Jalles,8
+13804,Saint-Nazaire,8
+19827,Saint-Omer,8
+1995,Saint-Orens-de-Gameville,8
+23321,Saint-Ouen,8
+21287,Saint-Ouen-l’Aumône,8
+22172,Saint-Paul-lès-Dax,8
+23660,Saint-Philbert-de-Grand-Lieu,8
+41423,Saint-Pierre-des-Corps,8
+52541,Saint-Pierre-du-Perray,8
+4768,Saint-Quentin,8
+30762,Saint-Rambert,8
+17412,Saint-Raphaël,8
+26161,Saint-Rémy-de-Provence,8
+2025,Saint-Saulve,8
+1904,Saint-Sébastien-sur-Loire,8
+498,Saint-Sulpice-la-Pointe,8
+144,Sainte Margaud-la-Forêt,8
+5456,Sainte-Foy-lès-Lyon,8
+56901,Sainte-Geneviève-des-Bois,8
+18482,Sainte-Luce-sur-Loire,8
+1384,Sainte-Maxime,8
+4302,Sainte-Savine,8
+44033,Saintes,8
+34251,Sajószentpéter,12
+12569,Sala,4
+21473,Šaľa,10
+46234,Sala Consilina,13
+130,Salamanca,7
+6961,Salamína,14
+22214,Salemi,13
+17668,Salerno,13
+213,Salgótarján,12
+45861,Salo,5
+14688,Salò,13
+2200,Salon-de-Provence,8
+41544,Salt,7
+9876,Saltsjöbaden,4
+32795,Saluzzo,13
+30405,Salvatierra de Miño,7
+1157,Salzano,13
+16796,Salzburg,11
+23295,Salzgitter,2
+17534,Salzhemmendorf,2
+54097,Salzkotten,2
+12463,Salzwedel,2
+36820,Sama,7
+21194,Samarate,13
+3948,San Agustín de Guadalix,7
+48278,San Andrés de la Barca,7
+31796,San Bartolomé,7
+46065,San Baudilio de Llobregat,7
+51724,San Benedetto del Tronto,13
+31143,San Biagio di Callalta,13
+28882,San Bonifacio,13
+10791,San Casciano in Val di Pesa,13
+12465,San Cataldo,13
+14788,San Celoni,7
+35385,San Cesareo,13
+16322,San Donà di Piave,13
+19988,San Fausto de Campcentellas,7
+27284,San Felice Circeo,13
+33045,San Felice sul Panaro,13
+54371,San Felíu de Guixols,7
+36244,San Felíu de Llobregat,7
+25777,San Ferdinando di Puglia,13
+15609,San Fernando de Henares,7
+38290,San Gennaro Vesuviano,13
+9950,San Giorgio a Cremano,13
+29008,San Giorgio del Sannio,13
+35724,San Giorgio di Piano,13
+37093,San Giovanni in Marignano,13
+8249,San Giovanni la Punta,13
+12130,San Giovanni Lupatoto,13
+3774,San Giuliano Milanese,13
+28151,San Giuliano Terme,13
+51903,San Giuseppe Iato,13
+18216,San Giuseppe Vesuviano,13
+7224,San Gregorio di Catania,13
+55270,San Juan de Alicante,7
+16740,San Juan de Aznalfarache,7
+25373,San Juan del Puerto,7
+21250,San Juan Despí,7
+16416,San Lazzaro di Savena,13
+35774,San Lorenzo de El Escorial,7
+17264,San Martín de la Vega,7
+9586,San Martino di Lupari,13
+31603,San Mauro Pascoli,13
+7832,San Mauro Torinese,13
+735,San Michele al Tagliamento,13
+24420,San Miniato,13
+43947,San Pancrazio Salentino,13
+8714,San Pedro de Ribas,7
+50330,San Pedro del Pinatar,7
+27586,San Pietro in Casale,13
+16547,San Pietro Vernotico,13
+2568,San Prisco,13
+19432,San Remo,13
+430,San Salvo,13
+34302,San Sebastián de la Gomera,7
+4438,San Sebastiano al Vesuvio,13
+2271,San Severino Marche,13
+11833,San Severo,13
+9387,San Valentino Torio,13
+36207,San Vendemiano,13
+32611,San Vicente de Baracaldo,7
+40281,San Vicente de Castellet,7
+10381,San Vicente del Raspeig,7
+58294,San Vicente dels Horts,7
+31388,San Vito al Tagliamento,13
+3224,San Vito dei Normanni,13
+27813,Sande,6
+3580,Sandefjord,6
+25343,Sandnes,6
+1489,Sandomierz,1
+1281,Sandvika,6
+10692,Sandviken,4
+4436,Sangenjo,7
+43200,Sangerhausen,2
+23259,Sankt Augustin,2
+49388,Sankt Georgen im Schwarzwald,2
+51099,Sankt Johann in Tirol,11
+49192,Sankt Leon-Rot,2
+46232,Sankt Pölten,11
+6175,Sankt Veit an der Glan,11
+37232,Sanlúcar de Barrameda,7
+3976,Sannicandro di Bari,13
+31821,Sannicandro Garganico,13
+2233,Sannois,8
+1346,Sanok,1
+13730,Sansepolcro,13
+36529,Sant Joan de Vilatorrada,7
+34725,Sant Just Desvern,7
+15610,Sant Sadurní d’Anoia,7
+13415,Santa Comba,7
+20633,Santa Croce Camerina,13
+17887,Santa Croce sull’ Arno,13
+9204,Santa Cruz,7
+51220,Santa Cruz de Bezana,7
+131,Santa Cruz de Tenerife,7
+2493,Santa Eugenia,7
+32964,Santa Eulalia del Río,7
+22647,Santa Lucia di Piave,13
+10154,Santa Margarita,7
+32443,Santa Margarita de Mombúy,7
+16382,Santa María de Cayón,7
+7335,Santa María de Palautordera,7
+32037,Santa Maria di Sala,13
+1095,Santa Marinella,13
+2311,Santa Perpetua de Moguda,7
+6598,Santa Úrsula,7
+21445,Santa Venerina,13
+3448,Santander,7
+16831,Santañy,7
+13731,Santeramo in Colle,13
+17306,Santiago de Compostela,7
+27816,Santiago del Teide,7
+44578,Santiponce,7
+2567,Santo Stefano di Magra,13
+4835,Santo Stino di Livenza,13
+2027,Santomera,7
+14660,Santurce-Antiguo,7
+10296,Sant’Agata de’ Goti,13
+40722,Sant’Agata di Militello,13
+40724,Sant’Agnello,13
+36725,Sant’Ambrogio di Valpolicella,13
+39677,Sant’Anastasia,13
+11081,Sant’Angelo Lodigiano,13
+56806,Sant’Antìoco,13
+5454,Sant’Antonio Abate,13
+30036,Sant’Egidio alla Vibrata,13
+8213,Sant’Elpidio a Mare,13
+160,Sara Ville,9
+9832,Saran,8
+9333,Sárbogárd,12
+31145,Sarcelles,8
+21220,Sarezzo,13
+21080,Sarlat-la-Canéda,8
+18288,Sarno,13
+47212,Saronno,13
+54279,Sárospatak,12
+10294,Sarrebourg,8
+2498,Sarreguemines,8
+5597,Sarria,7
+19625,Sarstedt,2
+42466,Sárvár,12
+52265,Sarzana,13
+18600,Sarzeau,8
+3419,Sassari,13
+43243,Sassenage,8
+29458,Sassenburg,2
+4733,Sasso Marconi,13
+3168,Sassuolo,13
+7986,Sastamala,5
+31654,Säter,4
+32038,Sátoraljaújhely,12
+30761,Saumur,8
+4833,Sauzal,7
+56117,Sava,13
+31760,Savenay,8
+55730,Saverne,8
+21802,Saviano,13
+31219,Savigliano,13
+29666,Savignano sul Panaro,13
+51752,Savigny-le-Temple,8
+44615,Sävja,4
+41185,Savona,13
+24934,Savonlinna,5
+21221,Scafati,13
+17578,Scandiano,13
+23322,Scandicci,13
+50387,Schaafheim,2
+56805,Schalksmühle,2
+44197,Scharbeutz,2
+199,Schärding,11
+22050,Scheeßel,2
+7618,Schenefeld,2
+10581,Schermbeck,2
+47937,Schiffdorf,2
+32583,Schifferstadt,2
+41995,Schiltigheim,8
+7292,Schio,13
+9205,Schkeuditz,2
+16989,Schkopau,2
+40235,Schlangen,2
+20842,Schleiden,2
+4010,Schleiz,2
+29857,Schleswig,2
+49502,Schloß Holte-Stukenbrock,2
+19461,Schlüchtern,2
+40234,Schmalkalden,2
+5375,Schmallenberg,2
+5534,Schmelz,2
+47073,Schmitten,2
+712,Schmölln,2
+6217,Schönebeck,2
+34301,Schönefeld,2
+7265,Schongau,2
+26676,Schöningen,2
+20494,Schönwalde-Siedlung,2
+1760,Schopfheim,2
+2307,Schorndorf,2
+48689,Schortens,2
+36155,Schotten,2
+5092,Schramberg,2
+40559,Schriesheim,2
+1386,Schwäbisch Hall,2
+28152,Schwaigern,2
+54677,Schwalbach,2
+12474,Schwalmstadt,2
+39238,Schwarzenberg,2
+43622,Schwarzenbruck,2
+14944,Schwedt (Oder),2
+3064,Schweinfurt,2
+54098,Schwelm,2
+34447,Schwerin,2
+25842,Schwerte,2
+6643,Schwetzingen,2
+22080,Schwieberdingen,2
+28297,Sciacca,13
+25100,Scicli,13
+11899,Scorzè,13
+42467,Seclin,8
+56050,Sedan,8
+57007,Sedaví,7
+5289,Sedico,13
+657,Sędziszów Małopolski,1
+37,Seelow,2
+6754,Seevetal,2
+4864,Segni,13
+31031,Segrate,13
+34446,Sehnde,2
+46861,Seinäjoki,5
+15795,Selargius,13
+10235,Selb,2
+1692,Sélestat,8
+1942,Seligenstadt,2
+8050,Selvazzano Dentro,13
+43725,Sem,6
+43878,Senago,13
+7070,Senden,2
+12570,Sendenhorst,2
+44034,Senec,10
+3947,Senftenberg,2
+37995,Senica,10
+8565,Senigallia,13
+57034,Senlis,8
+1843,Sens,8
+540,Sępólno Krajeńskie,1
+53274,Septèmes-les-Vallons,8
+8012,Seravezza,13
+49129,Sered’,10
+33517,Seriate,13
+15711,Sermoneta,13
+1840,Serramanna,13
+33878,Seseña,7
+42338,Sesto Calende,13
+46420,Sesto Fiorentino,13
+1153,Sesto San Giovanni,13
+26093,Sevilla,7
+30561,Sevran,8
+15070,Sèvres,8
+9391,Seysses,8
+5287,Sezze,13
+51167,Siano,13
+351,Sidlice,1
+1036,Siechnice,1
+356,Siedlce,1
+23825,Siegen,2
+404,Siemianowice Śląskie,1
+1380,Siemiatycze,1
+13697,Siena,13
+943,Sieradz,1
+28096,Sierning,11
+426,Sierpc,1
+41689,Sigmaringen,2
+4507,Signa,13
+99,Siilinjärvi,5
+7876,Siklós,12
+25583,Silea,13
+124,Siljesand,6
+22819,Silla,7
+17343,Silleda,7
+26498,Simmerath,2
+97,Simo,5
+8361,Sin-le-Noble,8
+34557,Sinalunga,13
+9721,Sindelfingen,2
+2608,Siniscola,13
+8106,Sìnnai,13
+18175,Sinzig,2
+4568,Siófok,12
+26941,Sipoo,5
+19089,Siteía,14
+40985,Sitges,7
+176,Šivetice,10
+2719,Sjöbo,4
+27128,Skalica,10
+49711,Skara,4
+302,Skarżysko-Kamienna,1
+350,Skawina,1
+87,Skellefteå,4
+3667,Ski,6
+1943,Skierniewice,1
+36287,Skilloúnta,14
+263,Skoczów,1
+4834,Skoghall,4
+59,Skuteč,3
+284,Skwierzyna,1
+15140,Slaný,108
+183,Slavec,10
+61,Smržovka,3
+57646,Snina,10
+1969,Sochaczew,1
+9332,Socuéllamos,7
+15851,Sodankylä,5
+36211,Söderhamn,4
+530,Södertälje,4
+52232,Sogndal,6
+19870,Soissons,8
+746,Sokółka,1
+805,Sokołów Podlaski,1
+33044,Sola,6
+4394,Solec Kujawski,1
+10795,Soliera,13
+6541,Sollefteå,4
+4502,Solofra,13
+9070,Solsona,7
+43765,Soltau,2
+1345,Somain,8
+58420,Somero,5
+14136,Somma Vesuviana,13
+30837,Sömmerda,2
+45433,Sona,13
+37148,Sondrio,13
+12155,Sonsbeck,2
+20128,Sonseca,7
+25743,Sonthofen,2
+56963,Sopelana,7
+397,Sopot,1
+4238,Sopron,12
+30763,Sorbolo,13
+57740,Soresina,13
+31798,Sorgues,8
+19400,Soria,7
+22512,Sorrento,13
+10854,Sorso,13
+15072,Sortino,13
+2925,Sortland,6
+18,Sosnowiec,1
+6995,Sotkamo,5
+1691,Sotteville-lès-Rouen,8
+2646,Soverato Marina,13
+40590,Sovicille,13
+743,Soyaux,8
+35850,Spaichingen,2
+5415,Spárti,14
+48902,Spelle,2
+43242,Spenge,2
+15947,Speyer,2
+20051,Spiesen-Elversberg,2
+25372,Spilamberto,13
+23005,Spilimbergo,13
+20531,Spinea,13
+21861,Spišská Nová Ves,10
+34996,Spoleto,13
+51422,Spremberg,2
+4730,Spresiano,13
+7582,Springe,2
+7542,Sprockhövel,2
+39283,Squinzano,13
+490,Śrem,1
+664,Środa Śląska,1
+541,Środa Wielkopolska,1
+47,Stade,2
+43432,Stadtallendorf,2
+34095,Stadthagen,2
+8789,Stadtlohn,2
+7833,Stahnsdorf,2
+38163,Stains,8
+47817,Stainz,11
+1103,Stalowa Wola,1
+20195,Stará Ľubovňa,10
+14134,Stará Turá,10
+274,Starachowice,1
+1387,Stargard Szczeciński,1
+57484,Starnberg,2
+2055,Starogard Gdański,1
+702,Stary Sącz,1
+362,Staszów,1
+24057,Statte,13
+46027,Stavroúpoli,14
+381,Stein bei Nürnberg,2
+10637,Steinau an der Straße,2
+36291,Steinbach am Taunus,2
+49231,Steinen,2
+13325,Steinfeld,2
+46896,Steinhagen,2
+15741,Steinheim am Albuch,2
+8917,Steinheim am der Murr,2
+8753,Steinkjer,6
+1001,Stendal,2
+15852,Šternberk,108
+40326,Štětí,108
+313,Steyr,11
+574,Stezzano,13
+37181,Stiring-Wendel,8
+1534,Stjørdal,6
+13134,Stjørdalshalsen,6
+14692,Stockach,2
+3037,Stockelsdorf,2
+26807,Stockerau,11
+85,Stockholm,4
+22272,Stokke,6
+29033,Stolberg,2
+12516,Stollberg,2
+28367,Stord,6
+20418,Straelen,2
+4208,Strakonice,108
+13385,Stralsund,2
+52231,Strand,6
+6469,Strasbourg,8
+5625,Straubing,2
+13877,Strausberg,2
+14943,Striano,13
+34994,Stropkov,10
+1491,Strzegom,1
+548,Strzelce Krajeńskie,1
+277,Strzelce Opolskie,1
+662,Strzelin,1
+547,Strzyżów,1
+29251,Studénka,108
+28609,Stupava,10
+51,Stuttgart,2
+19984,Suances,7
+516,Sucha Beskidzka,1
+655,Suchanino,1
+57,Suchdol nad Lužnicí,3
+3734,Sueca,7
+36,Suhl,2
+1337,Sulechów,1
+2525,Sulęcin,1
+3383,Sulejówek,1
+22814,Sulingen,2
+8486,Sulmona,13
+330,Sulz am Neckar,2
+13914,Sulzbach,2
+16742,Sulzbach-Rosenberg,2
+18554,Sundern,2
+86,Sundsvall,4
+45297,Šurany,10
+7925,Surbo,13
+24882,Suresnes,8
+10818,Susegana,13
+1559,Süßen,2
+15580,Sušice,108
+710,Suwałki,1
+28686,Suzzara,13
+21079,Svedala,4
+109,Sverrefjell,6
+39375,Svolvær,6
+1033,Swarzędz,1
+254,Świdnica,1
+1028,Świdnik,1
+1560,Świdwin,1
+17,Świebodzice,1
+919,Świecie,1
+946,Świedbodzin,1
+360,Świętochłowice,1
+630,Świnoujście,1
+35560,Swords,9
+939,Syców,1
+14878,Syke,2
+49567,Sykiés,14
+1490,Szamotuły,1
+27817,Szarvas,12
+2308,Százhalombatta,12
+967,Szczecin,1
+2716,Szczecinek,1
+396,Szczytno,1
+208,Szeged,12
+55392,Szeghalom,12
+27903,Szekszárd,12
+3172,Szentes,12
+35050,Szigethalom,12
+16544,Szigetszentmiklós,12
+214,Szolnok,12
+41223,Szombathely,12
+373,Szprotawa,1
+588,Sztum,1
+297,Szubin,1
+632,Szydłowiec,1
+112,Sørensen,6
+19002,Sørum,6
+1628,Sławno,1
+492,Słubice,1
+910,Słupca,1
+997,Słupsk,1
+5749,Tabernes Blanques,7
+18824,Tabernes de Valldigna,7
+7376,Tábor,108
+24508,Täby,4
+3038,Tachov,108
+53275,Tafalla,7
+37264,Taggia,13
+54370,Taglio,13
+19731,Talant,8
+3420,Talavera de la Reina,7
+13159,Talence,8
+1699,Tallaght,9
+41946,Tamm,2
+12686,Tangerhütte,2
+51982,Tangermünde,2
+207,tapolcaharaszti,12
+15544,Taranto,13
+8562,Tarare,8
+42039,Tarascon,8
+4771,Tarbes,8
+42144,Tarcento,13
+3628,Tarifa,7
+803,Tarnobrzeg,1
+1495,Tarnów,1
+652,Tarnowskie Góry,1
+24935,Tarquinia,13
+40284,Tarragona,7
+1459,Tarrasa,7
+10789,Tata,12
+1073,Tatabánya,12
+28026,Taucha,2
+22479,Taufkirchen,2
+17755,Taunusstein,2
+10819,Taurianova,13
+37853,Taurisano,13
+51327,Taviano,13
+7073,Távros,14
+459,Tczew,1
+20088,Teano,13
+43504,Tecklenburg,2
+49885,Tegueste,7
+12803,Teguise,7
+45555,Teisendorf,2
+4939,Telde,7
+9228,Telfs,11
+6756,Teltow,2
+51902,Templin,2
+13090,Teningen,2
+13666,Teolo,13
+70,Teplice nad Metují,3
+35889,Teramo,13
+58,Terezín,3
+39002,Tergnier,8
+19320,Terlizzi,13
+16987,Terni,13
+11014,Ternitz,11
+20052,Teror,7
+6992,Terracina,13
+24054,Terralba,13
+27860,Terranuova Bracciolini,13
+42949,Teruel,7
+5567,Tettnang,2
+11181,Teutschenthal,2
+12367,Tezze sul Brenta,13
+1428,Thale,2
+24283,Thebes,14
+31710,Thérmi,14
+6856,Thessaloníki,14
+52009,Thiais,8
+1340,Thiene,13
+54596,Thionville,8
+1461,Tholey,2
+22213,Thonon-les-Bains,8
+45426,Thorigné-Fouillard,8
+12020,Thorigny-sur-Marne,8
+4707,Thouaré-sur-Loire,8
+1806,Thouars,8
+41905,Tibro,4
+37094,Time,6
+157,Timothy Ville,9
+15250,Timrå,4
+23081,Tineo,7
+14824,Tirano,13
+43766,Tirschenreuth,2
+55,Tišnov,3
+4356,Tiszaföldvár,12
+32134,Tiszafüred,12
+37336,Tiszakécske,12
+2026,Tiszaújváros,12
+624,Tiszavasvári,12
+39947,Titisee-Neustadt,2
+41421,Tivoli,13
+44063,Tocina,7
+30174,Tököl,12
+136,Toledo,7
+2717,Tolentino,13
+17667,Tolmezzo,13
+10126,Tolna,12
+14042,Tolosa,7
+12089,Tomares,7
+2355,Tomaszów Lubelski,1
+920,Tomaszów Mazowiecki,1
+13503,Tomblaine,8
+12889,Tomelloso,7
+38953,Tomiño,7
+15440,Tönisvorst,2
+2400,Tonneins,8
+15312,Torcy,8
+8684,Tordera,7
+46951,Tordesillas,7
+37492,Torgelow,2
+10963,Tornio,5
+24186,Törökbálint,12
+30305,Törökszentmiklós,12
+12222,Torre Annunziata,13
+1253,Torre Boldone,13
+29926,Torre del Campo,7
+48030,Torre Maggiore,13
+43810,Torre Santa Susanna,13
+6694,Torre-Pacheco,7
+31416,Torredembarra,7
+6693,Torredonjimeno,7
+40589,Torrejón de Ardoz,7
+46832,Torrelavega,7
+6277,Torrelodones,7
+20220,Torremolinos,7
+43001,Torrente,7
+15825,Torrevieja,7
+4460,Torrijos,7
+24507,Torroella de Montgrí,7
+30349,Torrox,7
+57883,Tortolì,13
+22869,Tortona,13
+9678,Tortosa,7
+481,Toruń,1
+14617,Tostedt,2
+31621,Totana,7
+21859,Toulon,8
+38504,Toulouse,8
+26222,Tourcoing,8
+29858,Tourlaville,8
+22437,Tournon-sur-Rhône,8
+13025,Trabia,13
+3285,Tradate,13
+36615,Tralee,9
+28982,Tranås,4
+1155,Trani,13
+35434,Trapani,13
+10964,Trappes,8
+3576,Traun,11
+10329,Traunreut,2
+45991,Traunstein,2
+51538,Travagliato,13
+53487,Traversetolo,13
+39003,Trebaseleghe,13
+37705,Trebišov,10
+7223,Trebur,2
+2402,Trecate,13
+10124,Treia,13
+25300,Trélazé,8
+1195,Trelleborg,4
+32613,Trento,13
+22478,Trentola,13
+2926,Trets,8
+48738,Treviglio,13
+15545,Trevignano,13
+51615,Treviso,13
+33653,Trezzano sul Naviglio,13
+34126,Tricase,13
+34846,Triel-sur-Seine,8
+34125,Trier,2
+19534,Tríkala,14
+49007,Trim,9
+54077,Třinec,108
+54752,Trinitapoli,13
+27056,Trípoli,14
+440,Trissino,13
+10610,Triuggio,13
+28683,Trnava,10
+4393,Trofaiach,11
+32792,Troina,13
+3815,Trollhättan,4
+11642,Tromsdalen,6
+7954,Tromsø,6
+21801,Trondheim,6
+16355,Trostberg an der Alz,2
+5320,Troyes,8
+12802,Trujillo,7
+10517,Trutnov,108
+999,Trzcianka,1
+1255,Trzebiatów,1
+367,Trzebinia,1
+629,Trzebnica,1
+27780,Tuam,9
+9977,Tübingen,2
+1938,Tuchola,1
+51539,Tudela de Duero,7
+12325,Tullinge,4
+19091,Tumba,4
+266,Turek,1
+3171,Turin,13
+23082,Turku,5
+24837,Turnov,108
+175,Turová,10
+35928,Tuttlingen,2
+36286,Tutzing,2
+53087,Tuusula,5
+43353,Tvrdošín,10
+40040,Twist,2
+8520,Twistringen,2
+456,Tychy,1
+38868,Tysvær,6
+30084,Tønsberg,6
+16677,Übach-Palenberg,2
+27465,Úbeda,7
+42183,Überherrn,2
+28268,Überlingen,2
+280,Ubrique,7
+11079,Ubstadt-Weiher,2
+7904,Uddevalla,4
+26220,Udine,13
+23362,Ueckermünde,2
+28682,Uetersen,2
+45947,Uetze,2
+10297,Ugento,13
+2955,Uherské Hradiště,108
+10239,Uhingen,2
+24735,Újfehértó,12
+14823,Üllő,12
+4269,Ulm,2
+14208,Ulricehamn,4
+1431,Ulstein,6
+3254,Ulvila,5
+20745,Umbertide,13
+90,Umeå,4
+23083,Unna,2
+52999,Unterföhring,2
+669,Unterhaching,2
+40516,Unterschleißheim,2
+15743,Unterwellenborn,2
+9133,Upplands Väsby,4
+3814,Urbach,2
+10004,Urbino,13
+31713,Urgnano,13
+6007,Urrugne,8
+9833,Usingen,2
+17304,Usmate Velate,13
+12022,Ussel,8
+31822,Ústí nad Labem,108
+10293,Ústí nad Orlicí,108
+947,Ustka,1
+493,Ustroń,1
+316,Ustrzyki Dolne,1
+28194,Utebo,7
+106,Uusikaarlepyy,5
+31905,Uusikaupunki,5
+35105,Vaasa,5
+2645,Vác,12
+38719,Vadsø,6
+13324,Vaires-sur-Marne,8
+33420,Valašské Meziříčí,108
+4011,Valdagno,13
+12061,Valdemorillo,7
+56461,Valdemoro,7
+46263,Valdepeñas,7
+45521,Valeggio sul Mincio,13
+36290,Valence,8
+135,Valencia,7
+6539,Valentigney,8
+6140,Valenton,8
+33910,Valenza,13
+56002,Valkeakoski,5
+867,Valkeala,5
+12434,Valladolid,7
+53640,Vallauris,8
+151,Vallée,8
+8523,Vallentuna,4
+4605,Vallet,8
+148,Vallet-sur-Gérard,8
+18059,Vallirana,7
+27584,Valls,7
+47377,Valmadrera,13
+35047,Valréas,8
+8485,Valsequillo de Gran Canaria,7
+53724,Valverde del Camino,7
+23482,Vammala,5
+9069,Vandœuvre-lès-Nancy,8
+13240,Vänersborg,4
+57997,Vannes,8
+47482,Vantaa,5
+15469,Vanves,8
+54518,Vanzago,13
+31029,Vaprio d’Adda,13
+32136,Varberg,4
+7831,Varedo,13
+44367,Varel,2
+18743,Varese,13
+13024,Vári,14
+610,Varkaus,5
+17447,Varnsdorf,108
+16417,Vásárosnamény,12
+77,Västerås,4
+57360,Västerhaninge,4
+863,Västervik,4
+699,Vasto,13
+20800,Vaucresson,8
+32138,Vaulx-en-Velin,8
+1197,Vauréal,8
+83,Växjö,4
+27315,Veauche,8
+6240,Vecchiano,13
+7446,Vechelde,2
+31,Vechta,2
+5137,Vecsés,12
+37791,Vedelago,13
+21622,Veglie,13
+23531,Vehkalahti,5
+1838,Veitshöchheim,2
+27500,Vejer de la Frontera,7
+24631,Velaux,8
+14210,Velden am Wörthersee,11
+47041,Velen,2
+49743,Velilla de San Antonio,7
+11277,Velké Meziříčí,108
+11902,Veľký Krtíš,10
+23262,Veľký Meder,10
+34041,Vellmar,2
+23824,Velten,2
+4830,Venafro,13
+48930,Vendin-le-Vieil,8
+4653,Vendôme,8
+52007,Venice,13
+33804,Vénissieux,8
+36183,Vennesla,6
+40984,Venosa,13
+19244,Vera,7
+7157,Vercelli,13
+53411,Verdal,6
+40414,Verdun,8
+28833,Veresegyház,12
+9532,Vergína,14
+31869,Verín,7
+21078,Verl,2
+50432,Vernon,8
+12365,Véroia,14
+21016,Veroli,13
+47161,Verona,13
+68,Veselí nad Lužnicí,3
+24481,Veselí nad Moravou,108
+50772,Vesoul,8
+9834,Vestby,6
+49130,Vestignè,13
+24974,Veszprém,12
+107,Veteli,5
+32232,Vetlanda,4
+40591,Vétraz-Monthoux,8
+18012,Vettweiß,2
+34993,Viadana,13
+234,Vialba,13
+2494,Viareggio,13
+9202,Vich,7
+17538,Vichy,8
+18925,Vico Equense,13
+40285,Vicopisano,13
+56079,Vidauban,8
+26057,Vieiro,7
+33519,Vienne,8
+55300,Viernheim,2
+28608,Vierzon,8
+41422,Vieste,13
+13993,Vieux-Condé,8
+3114,Vif,8
+57521,Vignate,13
+28751,Vignola,13
+5627,Vigo,7
+14100,Vigodarzere,13
+1030,Vigonza,13
+48031,Vihti,5
+48279,Viladecáns,7
+3289,Vilanova del Camí,7
+54201,Villa Castelli,13
+39518,Villa Literno,13
+12595,Villa San Giovanni,13
+231,"Villa Sant'Antonio",13
+6789,Villacarrillo,7
+17229,Villach,11
+35853,Villacidro,13
+35723,Villafranca de los Barros,7
+10335,Villafranca del Panadés,7
+11322,Villafranca di Verona,13
+43560,Villagarcía de Arosa,7
+39846,Villajoyosa,7
+39516,Villalbilla,7
+17232,Villamarchante,7
+50108,Villamartín,7
+12687,Villamediana de Iregua,7
+44293,Villanueva de Arosa,7
+4335,Villanueva de Córdoba,7
+12364,Villanueva de la Cañada,7
+18640,Villanueva de la Serena,7
+2142,Villanueva del Pardillo,7
+2957,Villanueva y Geltrú,7
+17695,Villaquilambre,7
+53162,Villareal,7
+53569,Villaricca,13
+43003,Villarrubia de los Ojos,7
+24938,Villaviciosa,7
+18959,Villaviciosa de Odón,7
+57361,Ville-d’Avray,8
+7114,Villecresnes,8
+51723,Villefontaine,8
+39712,Villefranche-de-Rouergue,8
+8560,Villefranche-sur-Saône,8
+7585,Villejuif,8
+13733,Villemomble,8
+56163,Villena,7
+10638,Villenave-d’Ornon,8
+26305,Villeneuve-le-Roi,8
+12942,Villeneuve-lès-Avignon,8
+22749,Villeneuve-Saint-Georges,8
+56898,Villeneuve-sur-Lot,8
+15648,Villeneuve-Tolosane,8
+56900,Villeparisis,8
+3287,Villepinte,8
+54200,Villepreux,8
+17111,Villers-Cotterêts,8
+4357,Villers-lès-Nancy,8
+32612,Villerupt,8
+16795,Villeurbanne,8
+31985,Villiers-le-Bel,8
+20913,Villiers-sur-Marne,8
+21751,Villingen-Schwenningen,2
+16239,Villorba,13
+18706,Vimercate,13
+31651,Vimmerby,4
+52077,Vimodrone,13
+19530,Vincennes,8
+21806,Vinci,13
+27527,Vire,8
+2305,Viroflay,8
+100,Virolahti,5
+8319,Viry-Châtillon,8
+15197,Visby,4
+34845,Visselhövede,2
+25844,Vitoria-Gasteiz,7
+572,Vitré,8
+10186,Vitrolles,8
+48116,Vittoria,13
+27779,Vittorio Veneto,13
+10385,Vittuone,13
+35722,Vlašim,108
+3733,Vlotho,2
+23395,Vöcklabruck,11
+58150,Voerde,2
+5910,Vohburg an der Donau,2
+12436,Vöhringen,2
+22052,Voiron,8
+24578,Volda,6
+6752,Volkach,2
+15740,Völkermarkt,11
+29805,Vólos,14
+53164,Volpago del Montello,13
+4542,Volterra,13
+45520,Voreppe,8
+30590,Vossevangen,6
+13460,Voúla,14
+54135,Vráble,10
+10291,Vranov nad Topľou,10
+66,Vrbno pod Pradědem,3
+29009,Vrchlabí,108
+53307,Vreden,2
+37826,Vrilíssia,14
+64,Všeruby,3
+15946,Vsetín,108
+5455,Výronas,14
+47591,Vyškov,108
+4831,Vysoké Mýto,108
+517,Wąbrzeźno,1
+17942,Wachtberg,2
+14040,Wächtersbach,2
+17265,Wadern,2
+30873,Wadersloh,2
+26813,Wadgassen,2
+656,Wadowice,1
+12888,Waghäusel,2
+495,Wągrowiec,1
+18440,Wahlstedt,2
+20455,Waiblingen,2
+12401,Waidhofen an der Ybbs,11
+35474,Waldbröl,2
+10100,Waldenbuch,2
+9291,Waldfeucht,2
+52957,Waldheim,2
+16706,Waldkirch,2
+3945,Waldkraiburg,2
+34962,Walldorf,2
+7183,Walldürn,2
+40473,Wallerfangen,2
+43067,Walsrode,2
+32413,Waltenhofen,2
+13056,Waltershausen,2
+28067,Waltrop,2
+1145,Wambrechies,8
+8754,Wandlitz,2
+2876,Wangen im Allgäu,2
+57956,Warburg,2
+10415,Wardenburg,2
+37893,Warendorf,2
+801,Warka,1
+1096,Warsaw,1
+15472,Warstein,2
+22,Warszawa,1
+1383,Wasilków,1
+12127,Wasquehal,8
+4649,Wassenberg,2
+49828,Wasserburg am Inn,2
+10582,Wattignies,8
+8603,Wattrelos,8
+420,Wałbrzych,1
+338,Wałcz,1
+49153,Wedel,2
+17144,Weener,2
+48060,Weeze,2
+6343,Wegberg,2
+283,Węgorzewo,1
+835,Węgrów,1
+10213,Wehr,2
+2690,Wehrheim,2
+24187,Weil der Stadt,2
+7619,Weilburg,2
+50896,Weilerswist,2
+51829,Weilheim,2
+10125,Weilheim an der Teck,2
+29336,Weilmünster,2
+527,Weimar,2
+33419,Weingarten,2
+11406,Weinheim,2
+24020,Weinsberg,2
+10298,Weißenburg,2
+12220,Weißenhorn,2
+633,Weißenthurm,2
+18176,Weißwasser/Oberlausitz,2
+34925,Weiterstadt,2
+30591,Weiz,11
+1997,Wejherowo,1
+15913,Welver,2
+49193,Welzheim,2
+27176,Wendeburg,2
+339,Wenden,2
+32553,Wentorf bei Hamburg,2
+47896,Werl,2
+18215,Werlte,2
+37454,Wernau,2
+52868,Werne an der Lippe,2
+15794,Werneck,2
+24055,Werneuchen,2
+41,Wernigerode,2
+26025,Wertheim,2
+50385,Werther,2
+1220,Wertingen,2
+48153,Westerkappeln,2
+18557,Westerland,2
+27901,Westerstede,2
+28785,Weyhe,2
+7156,Wicklow,9
+42880,Wiefelstede,2
+18177,Wiehl,2
+799,Wieliczka,1
+1970,Wieluń,1
+7875,Wiener Neudorf,11
+18856,Wiener Neustadt,11
+1072,Wieruszów,1
+45424,Wiesbaden,2
+26814,Wiesmoor,2
+22173,Wildberg,2
+38291,Wildeshausen,2
+16867,Wilhelmshaven,2
+20844,Wilkau-Haßlau,2
+32137,Willich,2
+5027,Wilsdruff,2
+46585,Wingles,8
+4304,Winnenden,2
+33172,Winsen,2
+25775,Winterberg,2
+32967,Wismar,2
+355,Wisła,1
+28145,Witten,2
+50650,Wittenberg,2
+700,Wittenberge,2
+19269,Wittenheim,8
+2686,Wittingen,2
+38794,Wittmund,2
+11828,Wittstock,2
+41155,Witzenhausen,2
+544,Wodzisław Śląski,1
+5168,Wolfenbüttel,2
+17108,Wölfersheim,2
+31027,Wolfratshausen,2
+202,Wolfsberg,11
+6035,Wolfsburg,2
+49791,Wolgast,2
+18601,Wolmirstedt,2
+45073,Wolnzach,2
+575,Wolsztyn,1
+43429,Wörgl,11
+6104,Worms,2
+7903,Wörth am Rhein,2
+542,Wołomin,1
+555,Wołów,1
+23,Wrocław,1
+1251,Wronki,1
+294,Września,1
+494,Wschowa,1
+3036,Wülfrath,2
+51359,Wunsiedel,2
+27250,Wunstorf,2
+29564,Wuppertal,2
+21507,Würselen,2
+2809,Würzburg,2
+44,Wurzen,2
+28881,Wustermark,2
+1494,Wysokie Mazowieckie,1
+1249,Wyszków,1
+497,Władysławowo,1
+663,Włocławek,1
+292,Włodawa,1
+329,Włoszczowa,1
+31987,Xánthi,14
+4969,Yecla,7
+50107,Yerres,8
+8391,Ylivieska,5
+30210,Ylöjärvi,5
+14691,Ymittós,14
+22866,Yuncos,7
+36892,Yutz,8
+15684,Yzeure,8
+425,Ząbki,1
+1198,Ząbkowice Śląskie,1
+778,Zabrze,1
+19321,Zafra,7
+830,Żagań,1
+40134,Zagarolo,13
+402,Zakopane,1
+1029,Zambrów,1
+26980,Zamora,7
+255,Zamość,1
+25102,Zanica,13
+137,Zaragoza,7
+48206,Zarautz,7
+754,Żary,1
+8517,Žatec,108
+2,Zawiercie,1
+44102,Žďár nad Sázavou,108
+411,Zduńska Wola,1
+460,Zdzieszowice,1
+28064,Zefýri,14
+308,Zeitz,2
+8358,Zell am See,11
+14305,Zella-Mehlis,2
+24881,Zero Branco,13
+20558,Zetel,2
+5492,Zeven,2
+16068,Zevio,13
+337,Zgierz,1
+485,Zgorzelec,1
+378,Ziębice,1
+6,Zielona Góra,1
+913,Zielonka,1
+10097,Žilina,10
+18823,Zittau,2
+50504,Zlaté Moravce,10
+750,Żnin,1
+23920,Zogno,13
+10482,Zörbig,2
+15745,Zorneding,2
+524,Żory,1
+43503,Zossen,2
+40,Zschopau,2
+9159,Zumaia,7
+13238,Zumárraga,7
+307,Żuromin,1
+32350,Zvolen,10
+54628,Zweibrücken,2
+16988,Zwenkau,2
+8756,Zwettl,11
+22681,Zwickau,2
+17030,Zwiesel,2
+363,Żychlin,1
+608,Żyrardów,1
+937,Żywiec,1
+467,Złocieniec,1
+1377,Złotoryja,1
+1630,Złotów,1
+7543,Ørsta,6
+737,Łańcut,1
+272,Łapy,1
+1031,Łask,1
+264,Łaziska Górne,1
+525,Łęczna,1
+994,Łęczyca,1
+705,Łobez,1
+416,Łódź,1
+1335,Łomianki,1
+271,Łomża,1
+324,Łowicz,1
+288,Łuków,1
+241,Αγ. Νικόλαος,14
+238,Άμφισσα,14
+247,Άρτα,14
+250,Βέροια,14
+246,Δράμα,14
+251,Ερμούπολη,14
+240,Καρδίτσα,14
+249,Κέρκυρα,14
+237,Μεσολόγγι,14
+239,Μυτιλήνη,14
+248,Ναύπλιο,14
+244,Πρέβεζα,14
+243,Ρέθυμνο,14
+252,Σάμος,14
+253,Σέρρες,14
+245,Σπάρτη,14
+242,Τρίκαλα,14

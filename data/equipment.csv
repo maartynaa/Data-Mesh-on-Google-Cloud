@@ -1,0 +1,26 @@
+equipment_id,name,type,version,create_date,last_update
+1,Cruise control,Normal,,2016-01-01 12:00:00,2022-08-02 12:01:03
+2,Cruise control,Active,,2016-01-01 12:00:00,2022-08-02 12:01:03
+3,Air conditioning,Basic,,2016-01-01 12:00:00,2022-08-02 12:01:03
+4,Air conditioning,Two-zone,,2016-01-01 12:00:00,2022-08-02 12:01:03
+5,Air conditioning,Multi-zone,,2016-01-01 12:00:00,2022-08-02 12:01:03
+6,ABS,Normal,,2016-01-01 12:00:00,2022-08-02 12:01:03
+7,Seat,Basic,,2016-01-01 12:00:00,2022-08-02 12:01:03
+8,Seat,Heated,,2016-01-01 12:00:00,2022-08-02 12:01:03
+9,Seat,Electric Movement,,2016-01-01 12:00:00,2022-08-02 12:01:03
+10,Windows,Manual,,2016-01-01 12:00:00,2022-08-02 12:01:03
+11,Windows,Electric,,2016-01-01 12:00:00,2022-08-02 12:01:03
+12,Entertainment,Radio,,2016-01-01 12:00:00,2022-08-02 12:01:03
+13,Entertainment,CD Player,,2016-01-01 12:00:00,2022-08-02 12:01:03
+14,Entertainment,Navigation,,2016-01-01 12:00:00,2022-08-02 12:01:03
+15,Entertainment,Apple CarPlay,,2016-01-01 12:00:00,2022-08-02 12:01:03
+16,Entertainment,Android Auto,,2016-01-01 12:00:00,2022-08-02 12:01:03
+17,Entertainment,Bluetooth,4.0,2016-01-01 12:00:00,2022-08-02 12:01:03
+18,Entertainment,Bluetooth,5.0,2016-01-01 12:00:00,2022-08-02 12:01:03
+19,Gearbox,Manual,,2016-01-01 12:00:00,2022-08-02 12:01:03
+20,Gearbox,Automatic,,2016-01-01 12:00:00,2022-08-02 12:01:03
+21,Airbag,Normal,,2016-01-01 12:00:00,2022-08-02 12:01:03
+22,Parking sensors,Rear,,2016-01-01 12:00:00,2022-08-02 12:01:03
+23,Parking sensors,Front,,2016-01-01 12:00:00,2022-08-02 12:01:03
+24,Parking sensors,Rear cam,,2016-01-01 12:00:00,2022-08-02 12:01:03
+25,Parking sensors,360 cam,,2016-01-01 12:00:00,2022-08-02 12:01:03
