@@ -26,3 +26,22 @@ variable "storage_class" {
   type        = string
   default     = "STANDARD"
 }
+
+variable "wheelie_csv_files" {
+  type    = list(string)
+  default = [
+    "address.csv",
+    "car.csv",
+    "city.csv",
+    "country.csv",
+    "customer.csv",
+    "equipment.csv",
+    "inventory_equipment.csv",
+    "inventory.csv",
+    "payment.csv",
+    "rental.csv",
+    "service.csv",
+    "staff.csv",
+    "store.csv",
+  ]
+}
