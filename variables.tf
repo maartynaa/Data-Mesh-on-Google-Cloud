@@ -21,8 +21,8 @@ variable "instance_type" {
   default     = "e2-standard-2" # e2-small (2GB RAM) okazał się niewystarczający
 }
 
-variable "instance_type" {
-  description = "Typ maszyny wirtualnej"
+variable "storage_class" {
+  description = "Storage Class"
   type        = string
-  default     = "e2-standard-2" # e2-small (2GB RAM) okazał się niewystarczający
+  default     = "REGIONAL"
 }
