@@ -2,6 +2,7 @@ provider "google" {
   project = var.project_id
   region  = var.region
   zone    = var.zone
+  credentials = null
 }
 
 resource "google_storage_bucket" "wheelie_bucket" {
