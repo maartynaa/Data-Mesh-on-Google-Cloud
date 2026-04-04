@@ -24,5 +24,5 @@ variable "instance_type" {
 variable "storage_class" {
   description = "Storage Class"
   type        = string
-  default     = "REGIONAL"
+  default     = "STANDARD"
 }

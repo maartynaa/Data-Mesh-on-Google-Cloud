@@ -2,7 +2,7 @@ provider "google" {
   project = var.project_id
   region  = var.region
   zone    = var.zone
-  credentials = null
+  credentials = file("/tmp/tmp.0tWdcQniHe/application_default_credentials.json")
 }
 
 resource "google_storage_bucket" "wheelie_bucket" {
