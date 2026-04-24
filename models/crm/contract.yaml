@@ -1,0 +1,29 @@
+id: customer_profile
+domain: crm
+owner: crm_team
+
+description: >
+  Customer profile data product enriched with address and geographic information.
+  Used for customer segmentation and analytics.
+
+inputs:
+  - name: wheelie.customer
+  - name: wheelie.address
+  - name: wheelie.city
+  - name: wheelie.country
+
+outputs:
+  - name: customer_profile
+
+sla:
+  freshness: daily
+  availability: 99%
+
+data_quality:
+  - customer_id must be unique
+  - email must not be null
+
+use_cases:
+  - customer segmentation (RFM)
+  - reporting
+  - analytics

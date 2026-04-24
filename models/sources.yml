@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: wheelie
+    database: mm-bigdata-2026-data-mesh
+    schema: wheelie_ds
+    tables:
+      - name: customer
+      - name: address
+      - name: city
+      - name: country
+      - name: equipment
+      - name: car
+      - name: inventory
+      - name: inventory_equipment
+      - name: payment
+      - name: rental
+      - name: service
+      - name: staff
+      - name: store

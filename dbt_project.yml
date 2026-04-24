@@ -1,0 +1,16 @@
+name: dbt_mesh
+
+version: '1.0'
+
+profile: my_project
+
+model-paths: ["models"]
+
+models:
+  dbt_mesh:
+    crm:
+      +materialized: view
+    sales:
+      +materialized: view
+    fleet:
+      +materialized: view
