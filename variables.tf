@@ -45,3 +45,9 @@ variable "wheelie_csv_files" {
     "store.csv",
   ]
 }
+
+
+variable "crm_editors" {
+  type    = list(string)
+  default = []
+}

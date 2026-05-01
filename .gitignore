@@ -1,0 +1,46 @@
+#################################
+# Terraform
+#################################
+
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+
+# Terraform lock file (MOŻE BYĆ commitowany, ale tylko jeśli chcecie pełną powtarzalność)
+# jeśli macie wspólny repo – zostaw
+.terraform.lock.hcl
+
+
+#################################
+# dbt
+#################################
+
+target/
+dbt_packages/
+logs/
+profiles.yml
+
+# lokalne środowiska
+.env
+
+
+#################################
+# IDE / system
+#################################
+
+.DS_Store
+.vscode/
+.idea/
+
+
+#################################
+# credentials / secrets
+#################################
+
+# nigdy nie wrzucaj kluczy GCP
+*.json
+service-account*.json
+credentials*.json

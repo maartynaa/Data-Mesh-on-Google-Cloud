@@ -20,3 +20,28 @@ resource "google_storage_bucket_object" "wheelie_database" {
   source = "data/${each.value}"
   content_type = "text/csv"
 }
+
+resource "google_storage_bucket" "crm_bucket" {
+  name          = "${var.project_id}-crm"
+  project       = var.project_id
+  location      = var.region
+  storage_class = var.storage_class
+
+  force_destroy = true
+
+  uniform_bucket_level_access = true
+}
+
+resource "google_storage_bucket_iam_member" "crm_owner" {
+  bucket = google_storage_bucket.crm_bucket.name
+  role   = "roles/storage.admin"
+  member = "user:u4074520956@gmail.com"
+}
+
+
+resource "google_storage_bucket_iam_member" "crm_editors" {
+  for_each = toset(var.crm_editors)
+  bucket = google_storage_bucket.crm_bucket.name
+  role   = "roles/storage.objectAdmin"
+  member = each.value
+}

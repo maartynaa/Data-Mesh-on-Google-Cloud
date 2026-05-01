@@ -1,13 +1,12 @@
-resource "google_bigquery_dataset" "wheelie_bigquery_dataset" {
+data "google_bigquery_dataset" "wheelie_bigquery_dataset" {
   dataset_id = "wheelie_data"
   project    = var.project_id
-  location   = var.region
 }
 
 resource "google_bigquery_table" "wheelie_bigquery" {
   for_each = { for f in var.wheelie_csv_files : f => f }
 
-  dataset_id = google_bigquery_dataset.wheelie_bigquery_dataset.dataset_id
+  dataset_id = data.google_bigquery_dataset.wheelie_bigquery_dataset.dataset_id
   table_id   = replace(each.key, ".csv", "")
   project    = var.project_id
   deletion_protection = false
