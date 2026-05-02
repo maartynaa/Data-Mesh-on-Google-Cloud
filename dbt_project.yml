@@ -1,16 +1,25 @@
-name: dbt_mesh
-
+name: dbt_crm
 version: '1.0'
+config-version: 2
 
 profile: my_project
 
 model-paths: ["models"]
 
 models:
-  dbt_mesh:
-    crm:
+  dbt_crm:
+
+    staging:
       +materialized: view
-    sales:
+      +schema: staging
+      +tags: ["staging"]
+
+    intermediate:
       +materialized: view
-    fleet:
-      +materialized: view
+      +schema: intermediate
+      +tags: ["intermediate"]
+
+    data_products:
+      +materialized: table
+      +schema: data_products
+      +tags: ["data_product"]

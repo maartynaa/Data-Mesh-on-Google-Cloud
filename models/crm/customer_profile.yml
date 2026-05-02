@@ -1,50 +1,90 @@
 version: 2
 
 models:
-  - name: customer_profile
-    description: Enriched customer data with address and location details
+  - name: dp_customer_profile
+    description: >
+      CRM Data Product: enriched customer profile combining customer identity,
+      contact information and geographic attributes (address, city, country).
+
+    meta:
+      domain: crm
+      owner: crm_team
+
+      data_product:
+        name: customer_profile
+        version: 1
+        type: analytical_data_product
+
+      access:
+        readers:
+          - sales_domain
+          - fleet_domain
+        admins:
+          - data_mesh_admins
+
+      lifecycle:
+        status: active
+        tier: gold
 
     config:
       contract:
         enforced: true
 
     columns:
+
       - name: customer_id
-        description: Unique identifier of the customer
+        description: Unique identifier of the customer (primary key in CRM domain)
         data_type: int64
         tests:
           - not_null
           - unique
 
       - name: first_name
+        description: Customer first name (cleaned and normalized)
         data_type: string
 
       - name: last_name
+        description: Customer last name (cleaned and normalized)
         data_type: string
 
       - name: email
-        description: Customer email address
+        description: Customer email address (validated format)
         data_type: string
         tests:
           - not_null
 
       - name: birth_date
+        description: Customer birth date (standardized format)
         data_type: date
 
+      - name: age
+        description: Derived age of customer based on birth_date
+        data_type: int64
+
+      - name: age_segment
+        description: Segmentation of customers based on age (young/adult/senior)
+        data_type: string
+
       - name: create_date
+        description: Timestamp when customer was created in CRM system
         data_type: timestamp
 
       - name: customer_last_update
+        description: Last update timestamp from CRM source system
         data_type: timestamp
 
       - name: address
+        description: Full cleaned customer address
         data_type: string
 
       - name: postal_code
+        description: Postal code extracted from address
         data_type: string
 
       - name: city
+        description: City derived from address hierarchy
         data_type: string
 
       - name: country
+        description: Country derived from address hierarchy
         data_type: string
