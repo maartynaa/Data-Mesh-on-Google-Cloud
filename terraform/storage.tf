@@ -17,6 +17,6 @@ resource "google_storage_bucket_object" "wheelie_database" {
 
   name   = basename(each.value)  # tylko nazwa pliku
   bucket = google_storage_bucket.wheelie_bucket.name
-  source = "data/${each.value}"
+  source = "../data/${each.value}"
   content_type = "text/csv"
 }
