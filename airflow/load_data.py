@@ -7,6 +7,7 @@ from datetime import datetime
 import pymysql
 import pandas as pd
 import os
+import csv
 
 GCP_PROJECT = os.getenv("GCP_PROJECT_ID")
 
@@ -38,11 +39,25 @@ def extract():
     )
 
     try:
+        cursor = conn.cursor()
+
         for table in get_tables():
-            query = f"SELECT * FROM {table}"
-            df = pd.read_sql(query, conn)
-            df.to_csv(f"/tmp/{table}.csv", index=False)
-            print(f"Extracted {table}")
+            cursor.execute(f"SELECT * FROM {table}")
+            rows = cursor.fetchall()
+
+            print(f"{table}: {len(rows)} rows")
+
+            if not rows:
+                continue
+
+            # nagłówki z kluczy słownika
+            headers = rows[0].keys()
+
+            with open(f"/tmp/{table}.csv", "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=headers)
+                writer.writeheader()
+                writer.writerows(rows)
+
     finally:
         conn.close()
 
@@ -103,33 +118,4 @@ with DAG(
         python_callable=load_to_bq
     )
 
-    transform_sales = BigQueryInsertJobOperator(
-        task_id="transform_sales",
-        configuration={
-            "query": {
-                "query": """
-                CREATE OR REPLACE VIEW `mm-bigdata-2026-data-mesh.sales_ds.clean_payments` AS
-                SELECT
-                    p.payment_id,
-                    p.customer_id,
-                    p.staff_id,
-                    p.amount,
-                    r.inventory_id,
-                    r.rental_rate,
-                    r.rental_date,
-                    r.return_date,
-                    p.payment_date,
-                    CASE 
-                        WHEN p.payment_date > r.return_date THEN TRUE
-                        ELSE FALSE
-                    END AS is_delayed
-                FROM `mm-bigdata-2026-data-mesh.wheelie_data.payment` p
-                JOIN `mm-bigdata-2026-data-mesh.wheelie_data.rental` r
-                ON p.rental_id = r.rental_id;
-                """,
-                "useLegacySql": False,
-            }
-        },
-    )
-
-    t1 >> t2 >> t3 >> transform_sales
+    t1 >> t2 >> t3

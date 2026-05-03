@@ -45,11 +45,3 @@ variable "wheelie_csv_files" {
     "store.csv",
   ]
 }
-
-variable "sales_resources" {
-  type    = list(string)
-  default = [
-    "payment.csv",
-    "rental.csv"
-  ]
-}

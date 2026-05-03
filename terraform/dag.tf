@@ -1,5 +1,5 @@
 resource "google_storage_bucket_object" "dag" {
-  name = "dags/load_data_6.py"
+  name = "dags/load_data.py"
 
   bucket = replace(
     replace(
@@ -11,7 +11,7 @@ resource "google_storage_bucket_object" "dag" {
     ""
   )
 
-  source = "../airflow/load_data_6.py"
+  source = "../airflow/load_data.py"
 
   depends_on = [
     google_composer_environment.airflow_environment
