@@ -54,3 +54,25 @@ resource "google_bigquery_dataset" "crm_data_products" {
 
   delete_contents_on_destroy = false
 }
+
+
+
+resource "google_bigquery_table" "gsheet_customers" {
+  project    = var.project_id
+  dataset_id = google_bigquery_dataset.crm_staging.dataset_id
+  table_id   = "gsheet_customers"
+
+  external_data_configuration {
+    source_format = "GOOGLE_SHEETS"
+
+    google_sheets_options {
+      skip_leading_rows = 1
+    }
+
+    source_uris = [
+      "https://docs.google.com/spreadsheets/d/1CPKh8tUKnnMU5yHMadSEpmHz9W6LaqHvRFCqIgVm7oo/edit"
+    ]
+
+    autodetect = true
+  }
+}
