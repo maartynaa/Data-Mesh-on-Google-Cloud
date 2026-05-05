@@ -17,16 +17,16 @@ cleaned as (
     select
         address_id,
 
-        -- 🔹 clean address (basic normalization)
-        trim(address) as address,
+        -- clean address (STRUCT → STRING)
+        trim(address.address) as address,
 
-        -- 🔹 postal code cleanup (whitespace only)
+        -- postal code cleanup
         upper(trim(postal_code)) as postal_code,
 
-        -- 🔹 FK
+        -- FK
         city_id,
 
-        -- 🔹 timestamp (for incremental logic downstream)
+        -- timestamp
         cast(last_update as timestamp) as last_update
 
     from source

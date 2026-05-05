@@ -9,17 +9,14 @@ model-paths: ["models"]
 models:
   dbt_crm:
 
-    staging:
-      +materialized: view
+    stg:
       +schema: staging
-      +tags: ["staging"]
-
-    intermediate:
       +materialized: view
-      +schema: intermediate
-      +tags: ["intermediate"]
 
-    data_products:
-      +materialized: table
+    int:
+      +schema: intermediate
+      +materialized: view
+
+    dp:
       +schema: data_products
-      +tags: ["data_product"]
+      +materialized: table

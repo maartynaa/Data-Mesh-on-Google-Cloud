@@ -1,6 +1,4 @@
-{{ config(
-    materialized='table'
-) }}
+{{ config(materialized='view') }}
 
 with base as (
 
@@ -12,7 +10,7 @@ with base as (
 select
     customer_id,
 
-    -- base identity
+    -- identity
     first_name,
     last_name,
     email,

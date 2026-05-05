@@ -15,10 +15,9 @@ cleaned as (
     select
         city_id,
 
-        -- 🔹 normalization only
-        initcap(trim(city)) as city,
+        -- normalization
+        initcap(trim(city.city)) as city,
 
-        -- 🔹 FK
         country_id
 
     from source

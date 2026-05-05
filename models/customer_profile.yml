@@ -1,0 +1,47 @@
+version: 2
+
+models:
+  - name: dp_customer_profile
+    description: >
+      CRM Data Product: enriched customer profile combining identity,
+      contact and geographic attributes.
+
+    meta:
+      domain: crm
+      owner: crm_team
+      data_product:
+        name: customer_profile
+        version: 1
+
+    columns:
+
+      - name: customer_id
+        description: Unique identifier of the customer
+        tests:
+          - not_null
+          - unique
+
+      - name: email
+        description: Customer email address
+        tests:
+          - not_null
+
+      - name: birth_date
+        description: Birth date
+
+      - name: age
+        description: Derived age
+
+      - name: age_segment
+        description: Segmentation
+
+      - name: create_date
+        description: Creation timestamp
+
+      - name: customer_last_update
+        description: Last update timestamp
+
+      - name: address
+      - name: postal_code
+      - name: city
+      - name: country

@@ -1,14 +1,13 @@
-
 ########################################
 # 1. CRM STAGING
 ########################################
 
 resource "google_bigquery_dataset" "crm_staging" {
-  project = var.project_id
+  project    = var.project_id
   dataset_id = "crm_staging"
   location   = var.region
 
-  description = "CRM staging layer (cleaned source data)"
+  description = "CRM staging layer - cleaned source data"
 
   labels = {
     domain = "crm"
@@ -23,11 +22,11 @@ resource "google_bigquery_dataset" "crm_staging" {
 ########################################
 
 resource "google_bigquery_dataset" "crm_intermediate" {
-  project = var.project_id
+  project    = var.project_id
   dataset_id = "crm_intermediate"
   location   = var.region
 
-  description = "CRM intermediate layer (business logic, joins)"
+  description = "CRM intermediate layer - joins and business logic"
 
   labels = {
     domain = "crm"
@@ -42,11 +41,11 @@ resource "google_bigquery_dataset" "crm_intermediate" {
 ########################################
 
 resource "google_bigquery_dataset" "crm_data_products" {
-  project = var.project_id
+  project    = var.project_id
   dataset_id = "crm_data_products"
   location   = var.region
 
-  description = "CRM data products (final consumable datasets)"
+  description = "CRM data products - final analytical datasets"
 
   labels = {
     domain = "crm"

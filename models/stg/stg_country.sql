@@ -1,5 +1,4 @@
 {{ config(materialized='view') }}
-
 with source as (
 
     select
@@ -14,8 +13,8 @@ cleaned as (
     select
         country_id,
 
-        -- 🔹 normalization only
-        initcap(trim(country)) as country
+        -- normalization only
+        initcap(trim(country.country)) as country
 
     from source
 

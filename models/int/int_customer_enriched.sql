@@ -25,7 +25,7 @@ enriched as (
     select
         c.customer_id,
 
-        -- 🔹 customer base
+        -- customer base
         c.first_name,
         c.last_name,
         c.email,
@@ -35,15 +35,15 @@ enriched as (
         c.last_update as customer_last_update,
         c.address_id,
 
-        -- 🔹 address
+        -- address
         a.address,
         a.postal_code,
 
-        -- 🔹 geo
+        -- geo
         ci.city,
         co.country,
 
-        -- 🔥 business-neutral derived field (OK w intermediate)
+        -- derived
         case
             when c.birth_date is null then null
             else date_diff(current_date(), c.birth_date, year)
