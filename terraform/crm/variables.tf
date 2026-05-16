@@ -13,3 +13,14 @@ variable "storage_class" {
   type    = string
   default = "STANDARD"
 }
+
+variable "crm_shared_dataset" {
+  description = "CRM egress dataset"
+  type        = string
+  default     = "wheelie_crm_shared"
+}
+
+variable "project_number" {
+  description = "GCP project number for service accounts"
+  type        = string
+}

@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: wheelie
     database: mm-bigdata-2026-data-mesh
-    schema: wheelie_raw
+    schema: wheelie_crm_shared
     tables:
       - name: customer
       - name: address
