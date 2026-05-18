@@ -14,7 +14,7 @@ resource "google_storage_bucket" "crm_bucket" {
 
 
 resource "google_storage_transfer_job" "wheelie_to_crm" {
-  description = "Cykliczna kopia danych Wheelie → CRM"
+  description = "Transfer danych Wheelie → CRM"
   project     = var.project_id
 
   transfer_spec {
@@ -29,15 +29,5 @@ resource "google_storage_transfer_job" "wheelie_to_crm" {
     transfer_options {
       overwrite_when = "DIFFERENT"
     }
-  }
-
-  schedule {
-    schedule_start_date {
-      year  = 2026
-      month = 5
-      day   = 15
-    }
-
-    repeat_interval = "604800s"  # 86400s daily; teraz raz w tygodniu
   }
 }
