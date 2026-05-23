@@ -45,3 +45,46 @@ variable "wheelie_csv_files" {
     "store.csv",
   ]
 }
+
+variable "crm_tables" {
+  type    = list(string)
+  default = [
+    "customer", 
+    "address", 
+    "city", 
+    "country", 
+    "staff",
+    "store"
+  ]
+}
+
+variable "fleet_tables" {
+  type    = list(string)
+  default = [
+    "car", 
+    "equipment", 
+    "inventory", 
+    "inventory_equipment", 
+    "service", 
+    "store", 
+    "rental",
+    "address", 
+    "city", 
+    "country", 
+  ]
+}
+
+variable "sales_tables" {
+  type    = list(string)
+  default = [
+    "payment", 
+    "rental",
+    "store", 
+    "staff", 
+    "car",
+    "inventory", 
+    "address", 
+    "city", 
+    "country", 
+  ]
+}

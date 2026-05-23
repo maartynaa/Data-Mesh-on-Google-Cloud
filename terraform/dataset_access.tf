@@ -44,14 +44,3 @@ resource "google_bigquery_dataset_access" "auth_sales_customer" {
     table_id   = google_bigquery_table.sales_customer_view.table_id
   }
 }
-
-resource "google_bigquery_dataset_access" "auth_fleet_customer" {
-  dataset_id = google_bigquery_dataset.wheelie_bigquery_dataset.dataset_id
-  project    = var.project_id
-
-  view {
-    project_id = var.project_id
-    dataset_id = google_bigquery_dataset.egress_fleet.dataset_id
-    table_id   = google_bigquery_table.fleet_customer_view.table_id
-  }
-}

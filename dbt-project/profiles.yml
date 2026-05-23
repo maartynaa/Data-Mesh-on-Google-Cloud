@@ -1,0 +1,11 @@
+wheelie_profile:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: mm-bigdata-2026-data-mesh
+      dataset: wheelie_raw                # Dataset startowy
+      threads: 4
+      timeout_seconds: 300
+      location: europe-central2

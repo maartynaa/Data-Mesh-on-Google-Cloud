@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: wheelie_raw
+    project: mm-bigdata-2026-data-mesh
+    dataset: wheelie_raw
+    tables:
+      - name: address
+      - name: car
+      - name: city
+      - name: country
+      - name: customer
+      - name: equipment
+      - name: inventory_equipment
+      - name: inventory
+      - name: payment
+      - name: rental
+      - name: service
+      - name: staff
+      - name: store

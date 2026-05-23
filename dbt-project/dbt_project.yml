@@ -1,0 +1,24 @@
+name: 'wheelie_data_mesh'
+version: '1.0.0'
+config-version: 2
+
+profile: 'wheelie_profile'
+
+model-paths: ["models"]
+
+models:
+  wheelie_data_mesh:
+    # This turns on metadata syncing for all models inside this project
+    +persist_docs:
+      relation: true
+      columns: true
+
+    crm:
+      +schema: wheelie_crm_shared
+      +materialized: table
+    sales:
+      +schema: wheelie_sales_shared
+      +materialized: table
+    fleet:
+      +schema: wheelie_fleet_shared
+      +materialized: table
