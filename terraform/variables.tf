@@ -28,3 +28,9 @@ variable "project_number" {
 variable "crm_dp_readers" {
   type = list(string)
 }
+
+variable "crm_dp_human_readers" {
+  description = "Human users with access to CRM data products"
+  type        = list(string)
+  default     = []
+}

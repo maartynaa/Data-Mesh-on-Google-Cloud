@@ -49,7 +49,20 @@ resource "google_bigquery_dataset_iam_member" "crm_dp_writer" {
   member     = "serviceAccount:${google_service_account.crm_sa.email}"
 }
 
+resource "google_bigquery_dataset_iam_member" "crm_dp_human_readers" {
+  for_each = toset(var.crm_dp_human_readers)
+  project    = var.project_id
+  dataset_id = google_bigquery_dataset.crm_data_products.dataset_id
+  role       = "roles/bigquery.dataViewer"
+  member     = "user:${each.value}"
+}
 
+resource "google_project_iam_member" "crm_dp_human_job_users" {
+  for_each = toset(var.crm_dp_human_readers)
+  project = var.project_id
+  role    = "roles/bigquery.jobUser"
+  member  = "user:${each.value}"
+}
 
 
 
