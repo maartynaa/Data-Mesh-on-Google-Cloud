@@ -1,4 +1,7 @@
-{{ config(materialized='view') }}
+{{ config(
+    materialized='table',
+    schema='crm_data_products'
+) }}
 
 with base as (
 
@@ -9,12 +12,12 @@ with base as (
 
 select
     customer_id,
+    sha256(first_name) as first_name_hash,
+    sha256(last_name) as last_name_hash,
+    sha256(email) as email_hash,
 
-    -- identity
-    first_name,
-    last_name,
-    email,
     is_valid_email,
+
     birth_date,
     age,
 
@@ -28,10 +31,6 @@ select
 
     create_date,
     customer_last_update,
-
-    -- geo
-    address,
-    postal_code,
     city,
     country
 

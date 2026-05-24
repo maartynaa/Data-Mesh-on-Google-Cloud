@@ -18,3 +18,18 @@ sources:
       - name: service
       - name: staff
       - name: store
+      
+  - name: wheelie_sales_products
+    database: data-mesh-pk
+    schema: wheelie_sales_products
+    tables:
+      - name: dp_customer_sales_activity
+
+  - name: crm_data_products
+    database: bw-bigdata-2026-data-mesh
+    #schema: crm_data_products
+    schema: crm
+    tables:
+      - name: dp_customer_profile_secure
+      - name: dp_customer_segmentation
+      - name: dp_customer_profile

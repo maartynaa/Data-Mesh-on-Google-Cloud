@@ -2,19 +2,14 @@ version: 2
 
 models:
   - name: dp_customer_profile
-    description: >
-      CRM Data Product: enriched customer profile combining identity,
-      contact and geographic attributes.
+    description: Enriched customer profile combining identity and geographic attributes
 
-    meta:
-      domain: crm
-      owner: crm_team
-      data_product:
-        name: customer_profile
-        version: 1
+    config:
+      meta:
+        domain: crm
+        data_product: customer_profile
 
     columns:
-
       - name: customer_id
         description: Unique identifier of the customer
         tests:

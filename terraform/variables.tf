@@ -24,3 +24,7 @@ variable "project_number" {
   description = "GCP project number for service accounts"
   type        = string
 }
+
+variable "crm_dp_readers" {
+  type = list(string)
+}

@@ -1,22 +1,76 @@
 name: dbt_crm
 version: '1.0'
 config-version: 2
-
 profile: my_project
-
 model-paths: ["models"]
+
 
 models:
   dbt_crm:
 
+    +materialized: view
+
     stg:
-      +schema: staging
-      +materialized: view
+      +schema: crm
 
     int:
-      +schema: intermediate
-      +materialized: view
+      +schema: crm
 
     dp:
-      +schema: data_products
-      +materialized: table
+      +schema: crm_data_products
+
+    secure:
+      +schema: crm_secure
+
+
+    data_product_catalog:
+      +schema: crm_data_products
+
+
+
+
+
+
+
+
+# name: dbt_crm
+# version: '1.0'
+# config-version: 2
+
+# profile: my_project
+
+# model-paths: ["models"]
+
+# models:
+#   dbt_crm:
+#     #+schema: crm
+#     +materialized: view
+
+
+
+
+
+# name: dbt_crm
+# version: '1.0'
+# config-version: 2
+
+# profile: my_project
+
+# model-paths: ["models"]
+
+# models:
+#   dbt_crm:
+#     +schema: crm
+#     +materialized: view
+
+#     stg:
+#       +materialized: view
+
+#     int:
+#       +materialized: view
+
+#     dp:
+#       +materialized: table
+
+#     external:
+#       +materialized: view

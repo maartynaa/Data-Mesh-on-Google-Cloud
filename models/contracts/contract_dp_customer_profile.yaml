@@ -1,0 +1,34 @@
+id: customer_profile
+domain: crm
+owner: crm_team
+
+description: >
+  Customer profile data product used for segmentation, reporting and analytics.
+  Provides a unified view of customer identity and location.
+
+data_products:
+  - name: dp_customer_profile
+  - name: dp_customer_profile_secure
+  - name: dp_customer_segmentation
+
+inputs:
+  - wheelie.customer
+  - wheelie.address
+  - wheelie.city
+  - wheelie.country
+
+outputs:
+  - name: customer_profile
+
+sla:
+  freshness: daily
+  availability: 99%
+
+data_quality:
+  - customer_id must be unique
+  - email must not be null
+
+use_cases:
+  - customer segmentation (RFM)
+  - reporting
+  - analytics

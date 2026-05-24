@@ -1,0 +1,60 @@
+version: 2
+
+models:
+  - name: dp_customer_profile_secure
+    description: >
+      Secure customer profile data product derived from enriched customer data.
+      Applies pseudonymization (hashing of PII fields) and provides
+      age segmentation for analytics use cases.
+
+    config:
+      meta:
+        domain: crm
+        data_product: customer_profile_secure
+
+    columns:
+      - name: customer_id
+        description: Unique customer identifier
+        tests:
+          - not_null
+          - unique
+
+      - name: first_name_hash
+        description: Hashed first name (SHA-256 pseudonymization)
+
+      - name: last_name_hash
+        description: Hashed last name (SHA-256 pseudonymization)
+
+      - name: email_hash
+        description: Hashed email address (SHA-256 pseudonymization)
+        tests:
+          - not_null
+
+      - name: is_valid_email
+        description: Email validity flag
+
+      - name: birth_date
+        description: Customer birth date
+
+      - name: age
+        description: Derived age
+
+      - name: age_segment
+        description: >
+          Age segmentation derived from age:
+          young (<25), adult (25–50), senior (>50), unknown
+        tests:
+          - accepted_values:
+              values: ['young', 'adult', 'senior', 'unknown']
+
+      - name: create_date
+        description: Customer creation date
+
+      - name: customer_last_update
+        description: Last update timestamp
+
+      - name: city
+        description: Customer city
+
+      - name: country
+        description: Customer country
