@@ -2,8 +2,9 @@ version: 2
 
 models:
   - name: dp_customer_profile
-    description: Enriched customer profile combining identity and geographic attributes
-
+    description: >
+      Enriched customer profile combining identity and geographic attributes.
+      PII fields are hashed with SHA-256 and not exposed in plain text.
     config:
       meta:
         domain: crm
@@ -16,27 +17,41 @@ models:
           - not_null
           - unique
 
-      - name: email
-        description: Customer email address
-        tests:
-          - not_null
+      - name: first_name_hash
+        description: Customer first name hashed with SHA-256
+
+      - name: last_name_hash
+        description: Customer last name hashed with SHA-256
+
+      - name: email_hash
+        description: Customer email address hashed with SHA-256
+
+      - name: is_valid_email
+        description: Boolean flag indicating whether the original email address is valid
 
       - name: birth_date
-        description: Birth date
+        description: Customer date of birth
 
       - name: age
-        description: Derived age
+        description: Customer age in years derived from birth_date
 
       - name: age_segment
-        description: Segmentation
+        description: >
+          Customer age segment derived from age:
+          young (< 25), adult (25-50), senior (> 50), unknown
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['young', 'adult', 'senior', 'unknown']
 
       - name: create_date
-        description: Creation timestamp
+        description: Date when the customer account was created
 
       - name: customer_last_update
-        description: Last update timestamp
+        description: Timestamp of the last update to the customer record
 
-      - name: address
-      - name: postal_code
       - name: city
+        description: City of the customer derived from address data
+
       - name: country
+        description: Country of the customer derived from address data

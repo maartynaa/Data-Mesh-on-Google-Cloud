@@ -9,11 +9,11 @@ description: >
 data_product: dp_customer_segmentation
 
 inputs:
-  - dp_customer_profile_secure
+  - dp_customer_profile
   - stg_sales__customer_activity
 
 depends_on:
-  - dp_customer_profile_secure
+  - dp_customer_profile
 
 sla:
   freshness: daily

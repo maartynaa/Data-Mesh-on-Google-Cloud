@@ -43,3 +43,13 @@ sources:
     schema: fleet_domain_data_products
     tables:
       - name: dp_car_catalog
+
+  - name: crm_survey
+    database: bw-bigdata-2026-data-mesh
+    schema: crm
+    tables:
+      - name: survey_responses
+        description: >
+          Post-rental customer satisfaction surveys sent automatically
+          via email link one day after payment. Each response is tied
+          to a specific rental and customer.    

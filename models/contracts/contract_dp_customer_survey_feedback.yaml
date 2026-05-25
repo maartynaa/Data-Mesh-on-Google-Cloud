@@ -1,0 +1,38 @@
+id: customer_survey_feedback
+domain: crm
+owner: crm_team
+
+description: >
+  Customer satisfaction surveys collected automatically after each rental
+  via email link sent one day after payment. Enriched with NPS category,
+  rating sentiment, and customer segments from CRM domain to enable
+  cross-domain analysis such as sentiment analysis, loyalty tracking,
+  and mobility behavior profiling.
+
+data_product: dp_customer_survey_feedback
+
+inputs:
+  - stg_survey__responses
+  - dp_customer_mobility_profile
+
+depends_on:
+  - dp_customer_mobility_profile
+
+sla:
+  freshness: daily
+  availability: 99%
+
+use_cases:
+  - customer sentiment analysis
+  - NPS tracking and reporting
+  - loyalty and retention analysis
+  - mobility segment satisfaction profiling
+  - cross-domain feedback enrichment
+
+business_rules:
+  - promoter: nps_score >= 9
+  - passive: nps_score >= 7 and nps_score < 9
+  - detractor: nps_score < 7
+  - positive: rating_overall >= 4
+  - neutral: rating_overall = 3
+  - negative: rating_overall < 3

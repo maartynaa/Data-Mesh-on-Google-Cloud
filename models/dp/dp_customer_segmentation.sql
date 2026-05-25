@@ -11,7 +11,7 @@ with sales as (
 
 profile as (
     select * 
-    from {{ ref('dp_customer_profile_secure') }}
+    from {{ ref('dp_customer_profile') }}
 )
 
 select
