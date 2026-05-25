@@ -24,6 +24,9 @@ sources:
     schema: wheelie_sales_products
     tables:
       - name: dp_customer_sales_activity
+      - name: dp_rental_events
+      - name: dp_payment_transactions
+      - name: dp_rental_payment_ledger
 
   - name: crm_data_products
     database: bw-bigdata-2026-data-mesh
@@ -33,3 +36,10 @@ sources:
       - name: dp_customer_profile_secure
       - name: dp_customer_segmentation
       - name: dp_customer_profile
+
+
+  - name: fleet
+    database: pr-bigdata-2026-data-mesh
+    schema: fleet_domain_data_products
+    tables:
+      - name: dp_car_catalog

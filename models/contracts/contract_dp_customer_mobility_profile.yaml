@@ -1,0 +1,40 @@
+id: customer_mobility_profile
+domain: crm
+owner: crm_team
+
+description: >
+  Unified customer mobility profile combining CRM customer data,
+  rental activity from Sales domain, and vehicle catalog information
+  from Fleet domain to support customer segmentation, mobility analytics,
+  and personalized vehicle recommendations.
+
+data_product: dp_customer_mobility_profile
+
+inputs:
+  - dp_customer_profile
+  - stg_sales__customer_activity
+  - stg_fleet__car_catalog
+
+depends_on:
+  - dp_customer_profile
+  - dp_customer_sales_activity
+  - dp_car_catalog
+
+sla:
+  freshness: daily
+  availability: 99%
+
+use_cases:
+  - customer mobility segmentation
+  - vehicle recommendation
+  - customer analytics
+  - loyalty and retention analysis
+  - mobility behavior profiling
+
+business_rules:
+  - power_user: rental_count >= 10
+  - regular_user: total_rentals between 5 and 9
+  - casual_user: total_rentals < 5
+  - premium_vehicle: rental_rate > 200
+  - standard_vehicle: rental_rate between 80 and 200
+  - budget_vehicle: rental_rate < 80
