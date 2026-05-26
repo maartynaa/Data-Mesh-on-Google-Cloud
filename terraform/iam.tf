@@ -64,7 +64,11 @@ resource "google_project_iam_member" "crm_dp_human_job_users" {
   member  = "user:${each.value}"
 }
 
-
+resource "google_service_account_iam_member" "crm_sa_token_creator" {
+  service_account_id = google_service_account.crm_sa.name
+  role               = "roles/iam.serviceAccountTokenCreator"
+  member             = "user:u4074520956@gmail.com"
+}
 
 
 

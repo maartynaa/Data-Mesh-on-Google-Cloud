@@ -5,19 +5,31 @@
 
 with base as (
 
-    select *
+    select
+        customer_id,
+        first_name,
+        last_name,
+        email,
+        is_valid_email,
+        birth_date,
+        age,
+        create_date,
+        customer_last_update,
+        city,
+        country
     from {{ ref('int_customer_enriched') }}
 
 )
 
 select
     customer_id,
-    sha256(first_name) as first_name_hash,
-    sha256(last_name) as last_name_hash,
-    sha256(email) as email_hash,
+
+    -- PII hashed (STRING, not BYTES)
+    to_hex(sha256(first_name)) as first_name_hash,
+    to_hex(sha256(last_name)) as last_name_hash,
+    to_hex(sha256(email)) as email_hash,
 
     is_valid_email,
-
     birth_date,
     age,
 
@@ -29,8 +41,9 @@ select
         else 'unknown'
     end as age_segment,
 
-    create_date,
+    date(create_date) as create_date,
     customer_last_update,
+
     city,
     country
 

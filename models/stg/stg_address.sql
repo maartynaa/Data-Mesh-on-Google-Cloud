@@ -15,7 +15,7 @@ with source as (
 cleaned as (
 
     select
-        address_id,
+        cast(address_id as string) as address_id,
 
         -- clean address (STRUCT → STRING)
         trim(address.address) as address,
@@ -23,8 +23,8 @@ cleaned as (
         -- postal code cleanup
         upper(trim(postal_code)) as postal_code,
 
-        -- FK
-        city_id,
+        -- FK (IMPORTANT: type consistency)
+        cast(city_id as string) as city_id,
 
         -- timestamp
         cast(last_update as timestamp) as last_update

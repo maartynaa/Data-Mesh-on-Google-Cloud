@@ -13,16 +13,14 @@ with source as (
 cleaned as (
 
     select
-        city_id,
+        cast(city_id as string) as city_id,
 
-        -- normalization
         initcap(trim(city.city)) as city,
 
-        country_id
+        cast(country_id as string) as country_id
 
     from source
 
 )
 
-select *
-from cleaned
+select * from cleaned

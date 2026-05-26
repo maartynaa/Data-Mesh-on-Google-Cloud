@@ -14,9 +14,17 @@ customer as (
 
     select
         customer_id,
-        age_segment,
-        mobility_segment
-    from {{ ref('dp_customer_mobility_profile') }}
+        age_segment
+    from {{ ref('dp_customer_profile') }}
+
+),
+
+demographics as (
+
+    select
+        customer_id,
+        age_segment
+    from {{ ref('dp_customer_demographics') }}
 
 )
 
@@ -35,25 +43,26 @@ select
     s.rating_vehicle,
 
     s.nps_score,
+
     case
         when s.nps_score >= 9 then 'promoter'
         when s.nps_score >= 7 then 'passive'
-        else                       'detractor'
+        else 'detractor'
     end as nps_category,
 
     case
         when s.rating_overall >= 4 then 'positive'
-        when s.rating_overall =  3 then 'neutral'
-        else                           'negative'
+        when s.rating_overall = 3 then 'neutral'
+        else 'negative'
     end as rating_category,
 
     s.comment_text,
     s.location,
     s.device_type,
 
-    c.age_segment,
-    c.mobility_segment
+    d.age_segment
 
 from survey s
-left join customer c
-    on s.customer_id = c.customer_id
+
+left join demographics d
+    on s.customer_id = d.customer_id

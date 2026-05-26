@@ -5,7 +5,20 @@
 
 with base as (
 
-    select *
+    select
+        customer_id,
+        first_name,
+        last_name,
+        email,
+        is_valid_email,
+        birth_date,
+        age,
+        create_date,
+        customer_last_update,
+        address,
+        postal_code,
+        city,
+        country
     from {{ ref('int_customer_enriched') }}
 
 )
@@ -13,21 +26,13 @@ with base as (
 select
     customer_id,
 
-    -- identity
+    -- identity (raw PII - restricted access layer)
     first_name,
     last_name,
     email,
     is_valid_email,
     birth_date,
     age,
-
-    case
-        when age is null then 'unknown'
-        when age < 25 then 'young'
-        when age between 25 and 50 then 'adult'
-        when age > 50 then 'senior'
-        else 'unknown'
-    end as age_segment,
 
     create_date,
     customer_last_update,
@@ -38,4 +43,4 @@ select
     city,
     country
 
-from base
+from base b

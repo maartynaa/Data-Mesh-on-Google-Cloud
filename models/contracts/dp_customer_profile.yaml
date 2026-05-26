@@ -1,0 +1,92 @@
+version: 2
+
+models:
+  - name: dp_customer_profile
+
+    description: >
+      Enriched customer identity product with hashed PII fields.
+      Provides a standardized customer base used across CRM domain.
+      All identifiers and hashes are normalized to stable cross-system formats.
+
+    config:
+      materialized: table
+      schema: crm_data_products
+      contract:
+        enforced: true
+
+    meta:
+      contract:
+        id: dp_customer_profile
+        version: 1.3.0
+        domain: crm
+        owner: crm_team
+
+        address: bw-bigdata-2026-data-mesh.crm_data_products.dp_customer_profile
+
+        grain: one row per customer
+
+        primary_key:
+          - customer_id
+
+        refresh: daily
+
+        consumers:
+          - crm_team
+          - analytics_team
+          - dp_customer_mobility_profile
+          - dp_customer_survey_feedback
+          - dp_customer_segmentation
+
+        sources:
+          - int_customer_enriched
+
+        sla:
+          freshness: daily
+          availability: 99%
+
+    columns:
+      - name: customer_id
+        data_type: string
+        tests:
+          - not_null
+          - unique
+
+      - name: first_name_hash
+        data_type: string
+
+      - name: last_name_hash
+        data_type: string
+
+      - name: email_hash
+        data_type: string
+
+      - name: is_valid_email
+        data_type: boolean
+
+      - name: birth_date
+        data_type: date
+
+      - name: age
+        data_type: int64
+
+      - name: age_segment
+        data_type: string
+        description: >
+          Customer age segmentation:
+          young (<25), adult (25–50), senior (>50), unknown
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['young', 'adult', 'senior', 'unknown']
+
+      - name: create_date
+        data_type: date
+
+      - name: customer_last_update
+        data_type: timestamp
+
+      - name: city
+        data_type: string
+
+      - name: country
+        data_type: string

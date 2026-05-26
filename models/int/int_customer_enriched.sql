@@ -23,7 +23,7 @@ country as (
 enriched as (
 
     select
-        c.customer_id,
+        cast(c.customer_id as string) as customer_id,
 
         -- customer base
         c.first_name,
@@ -33,11 +33,14 @@ enriched as (
         c.birth_date,
         c.create_date,
         c.last_update as customer_last_update,
-        c.address_id,
+
+        cast(c.address_id as string) as address_id,
 
         -- address
         a.address,
         a.postal_code,
+
+        cast(a.city_id as string) as city_id,
 
         -- geo
         ci.city,
@@ -50,12 +53,15 @@ enriched as (
         end as age
 
     from customer c
+
     left join address a
-        on c.address_id = a.address_id
+        on cast(c.address_id as string) = cast(a.address_id as string)
+
     left join city ci
-        on a.city_id = ci.city_id
+        on cast(a.city_id as string) = cast(ci.city_id as string)
+
     left join country co
-        on ci.country_id = co.country_id
+        on cast(ci.country_id as string) = cast(co.country_id as string)
 )
 
 select *

@@ -1,0 +1,101 @@
+version: 2
+
+models:
+  - name: dp_customer_mobility_profile
+
+    description: >
+      Customer mobility data product combining customer identity,
+      standardized demographic segmentation from dp_customer_demographics,
+      rental activity, and vehicle catalog data to support segmentation
+      and recommendation use cases.
+
+    config:
+      materialized: table
+      schema: crm_data_products
+      contract:
+        enforced: true
+
+    meta:
+      contract:
+        id: dp_customer_mobility_profile
+        version: 1.1.0
+        domain: crm
+        owner: crm_team
+
+        address: bw-bigdata-2026-data-mesh.crm_data_products.dp_customer_mobility_profile
+
+        grain: one row per customer
+
+        primary_key:
+          - customer_id
+
+        refresh: daily
+
+        consumers:
+          - crm_team
+          - analytics_team
+
+        sources:
+          - dp_customer_profile
+          - dp_customer_demographics
+          - stg_sales__customer_activity
+          - stg_fleet__car_catalog
+
+        sla:
+          freshness: daily
+          availability: 99%
+
+    columns:
+      - name: customer_id
+        data_type: string
+        tests:
+          - not_null
+          - unique
+
+      - name: age_segment
+        data_type: string
+        description: >
+          Standardized age segment sourced from dp_customer_demographics:
+          young, adult, senior, unknown
+        tests:
+          - accepted_values:
+              values: ['young', 'adult', 'senior', 'unknown']
+
+      - name: country
+        data_type: string
+
+      - name: rental_count
+        data_type: integer
+
+      - name: last_rental_date
+        data_type: date
+
+      - name: total_expected_rental_amount
+        data_type: numeric
+
+      - name: total_paid_amount
+        data_type: numeric
+
+      - name: payment_status
+        data_type: string
+        tests:
+          - accepted_values:
+              values: ['has_unpaid', 'has_late', 'good_standing']
+
+      - name: mobility_segment
+        data_type: string
+        tests:
+          - accepted_values:
+              values: ['casual_user', 'regular_user', 'power_user']
+
+      - name: recommended_brand
+        data_type: string
+
+      - name: recommended_model
+        data_type: string
+
+      - name: fuel_type
+        data_type: string
+
+      - name: vehicle_segment
+        data_type: string

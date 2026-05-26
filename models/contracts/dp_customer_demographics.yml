@@ -1,0 +1,64 @@
+version: 2
+
+models:
+  - name: dp_customer_demographics
+
+    description: >
+      Reference data product defining standardized customer age segmentation.
+      This is a single source of truth for demographic classification used
+      across CRM data products (mobility, survey, analytics).
+
+    config:
+      materialized: table
+      schema: crm_data_products
+      contract:
+        enforced: true
+
+    meta:
+      contract:
+        id: dp_customer_demographics
+        version: 1.0.0
+        domain: crm
+        owner: crm_team
+
+        address: bw-bigdata-2026-data-mesh.crm_data_products.dp_customer_demographics
+
+        grain: one row per customer
+
+        primary_key:
+          - customer_id
+
+        refresh: daily
+
+        consumers:
+          - dp_customer_profile
+          - dp_customer_mobility_profile
+          - dp_customer_survey_feedback
+
+        sources:
+          - dp_customer_profile
+
+        sla:
+          freshness: daily
+          availability: 99%
+
+    columns:
+      - name: customer_id
+        description: Unique customer identifier
+        data_type: string
+        tests:
+          - not_null
+          - unique
+
+      - name: age
+        description: Customer age derived from birth_date
+        data_type: integer
+
+      - name: age_segment
+        description: >
+          Standardized age segmentation:
+          young (<25), adult (25–50), senior (>50), unknown (null age)
+        data_type: string
+        tests:
+          - accepted_values:
+              values: ['young', 'adult', 'senior', 'unknown']
