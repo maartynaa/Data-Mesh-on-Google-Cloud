@@ -4,9 +4,9 @@ models:
   - name: dp_customer_segmentation
 
     description: >
-      Customer behavioral segmentation data product combining
-      customer profile and sales activity enriched with simple
-      behavioral segmentation and vehicle preference mapping.
+      Produkt oparty na danych segmentacji behawioralnej klientów, łączący profil klienta
+      i aktywność sprzedażową, wzbogacony o segmentację behawioralną i informacje o preferencjach dotyczących pojazdów.
+      Wykorzystywany do targetowania marketingowego, analityki CRM i strategii grupowania klientów.
 
     config:
       materialized: table
@@ -45,46 +45,59 @@ models:
 
     columns:
       - name: customer_id
+        description: Unikalny identyfikator klienta
         data_type: string
         tests:
           - not_null
           - unique
 
       - name: age_segment
+        description: Grupa wiekowa (young, adult, senior, unknown)
         data_type: string
         tests:
           - accepted_values:
               values: ['young', 'adult', 'senior', 'unknown']
 
       - name: country
+        description: Kraj klienta
         data_type: string
 
       - name: rental_count
+        description: Suma wypożyczeń klienta
         data_type: integer
 
       - name: last_rental_date
+        description: Data ostatniego wypożyczenia klienta
         data_type: date
 
       - name: total_expected_rental_amount
+        description: TO DO
         data_type: numeric
 
       - name: total_paid_amount
+        description: Suma wszystkich kwot zapłaconych przez klienta za wypożyczenia
         data_type: numeric
 
       - name: payment_status
+        description: Status płatności
         data_type: string
 
       - name: mobility_segment
+        description: TO DO
         data_type: string
 
       - name: recommended_brand
+        description: Rekomendowana marka samochodu
         data_type: string
 
       - name: recommended_model
+        description: Rekomendowany model samochodu
         data_type: string
 
       - name: fuel_type
+        description: TO DO
         data_type: string
 
       - name: vehicle_segment
+        description: TO DO
         data_type: string

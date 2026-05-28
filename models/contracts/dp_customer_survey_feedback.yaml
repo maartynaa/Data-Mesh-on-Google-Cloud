@@ -4,10 +4,11 @@ models:
   - name: dp_customer_survey_feedback
 
     description: >
-      Customer survey feedback data product enriched with standardized
-      demographic segmentation from dp_customer_demographics and NPS-based
-      sentiment classification. Used for customer experience analytics
-      and loyalty tracking.
+
+      Produkt danych stworzony z ankiet wypełnionych klientów, wzbogacony o segmentację demograficzną
+      z dp_customer_demographics i klasyfikację NPS (Net Promoter Score), który mierzy prawdopodobieństwo, 
+      że klient poleci wypożyczalnię znajomym.
+      Wykorzystywany do analizy doświadczeń klienta, monitorowania satysfakcji i śledzenia lojalności.
 
     config:
       materialized: table
@@ -45,70 +46,89 @@ models:
 
     columns:
       - name: response_id
+        description: Unikalny identyfikator odpowiedzi pochodzący z tabeli z odpowiedziami na ankietę
         data_type: string
         tests:
           - not_null
           - unique
 
       - name: customer_id
+        description: Unikalny identyfikator klienta odpowiadający identyfikatorom z bazy wheelie
         data_type: string
         tests:
           - not_null
 
       - name: rental_id
+        description: Unikalny identyfikator wypożyczenia odpowiadający identyfikatorom z bazy wheelie
         data_type: string
 
       - name: inventory_id
+        description: Unikalny identyfikator samochodu odpowiadający identyfikatorom z bazy wheelie
         data_type: string
 
       - name: staff_id
+        description: Unikalny identyfikator pracownika obsługującego klienta odpowiadający identyfikatorom z bazy wheelie
         data_type: string
 
       - name: store_id
+        description: Unikalny identyfikator sklepu odpowiadający identyfikatorom z bazy wheelie
         data_type: string
 
       - name: survey_timestamp
+        description: Czas dostarczenia ankiety
         data_type: timestamp
 
       - name: rating_overall
+        description: Ogólna ocena satysfakcji klienta podana w ankiecie
         data_type: integer
 
       - name: rating_service
+        description: Ocena jakości usług przez klienta
         data_type: integer
 
       - name: rating_price
+        description: 
+          Ocena klienta dotycząca uczciwości cen i ich wysokości
         data_type: integer
 
       - name: rating_vehicle
+        description: Ocena klienta dotycząca wypożyczonego samochodu
         data_type: integer
 
       - name: nps_score
+        description: Net Promoter Score dostarczony przez klienta. Jakie jest prawdopodobieństwo, że poleci usługę znajomemu. 
         data_type: integer
 
       - name: nps_category
+        description: Klasyfikacja wyniku NPS na jedną z zdefiniowanych grup –
+            promoter, passive, or detractor.
         data_type: string
         tests:
           - accepted_values:
               values: ['promoter', 'passive', 'detractor']
 
       - name: rating_category
+        description: Kategoria sentymentu wyprowadzona na podstawie ocen z ankiet
         data_type: string
         tests:
           - accepted_values:
               values: ['positive', 'neutral', 'negative']
 
       - name: comment_text
+        description: Dodatkowe komentarze klientów. 
         data_type: string
 
       - name: location
+        description: TO DO
         data_type: string
 
       - name: device_type
+        description: Typ urządzenia, z którego klient wypełnił ankietę
         data_type: string
 
       - name: age_segment
+        description: Segment wiekowy z produktu dp_customer_demographics
         data_type: string
-        description: Standardized segment sourced from dp_customer_demographics
         tests:
           - accepted_values:
               values: ['young', 'adult', 'senior', 'unknown']

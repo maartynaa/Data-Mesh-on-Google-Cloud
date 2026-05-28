@@ -4,10 +4,9 @@ models:
   - name: dp_customer_profile_secure
 
     description: >
-      Restricted customer profile containing raw PII data.
-      Data sourced from wheelie via int_customer_enriched.
-      This layer provides controlled access to sensitive customer attributes
-      for internal CRM use cases.
+      Ograniczony profil klienta zawierający wrażliwe atrybuty PII.
+      Dane pochodzą z int_customer_enriched i zapewniają kontrolowany dostęp
+      do wewnętrznych przypadków użycia CRM wymagających danych na poziomie tożsamości.
 
     config:
       materialized: table
@@ -43,43 +42,56 @@ models:
 
     columns:
       - name: customer_id
+        description: Unikalny identyfikator klienta
         data_type: string
         tests:
           - not_null
           - unique
 
       - name: first_name
+        description: Imię klienta
         data_type: string
 
       - name: last_name
+        description: Nazwisko klienta
         data_type: string
 
       - name: email
+        description: Email
         data_type: string
 
       - name: is_valid_email
+        description: Flaga wskazująca, czy adres e-mail jest poprawny pod względem składniowym
         data_type: boolean
 
       - name: birth_date
+        description: Data urodzenia
         data_type: date
 
       - name: age
+        description: Wiek klienta wyliczony na podstawie daty urodzenia w momencie przetwarzania
         data_type: int64
 
       - name: create_date
+        description: Data utworzenia rekordu 
         data_type: timestamp
 
       - name: customer_last_update
+        description: Data ostatniej aktualizacji rekordu
         data_type: timestamp
 
       - name: address
+        description: Adres klienta (ulica i numer)
         data_type: string
 
       - name: postal_code
+        description: Kod pocztowy
         data_type: string
 
       - name: city
+        description: Miasto zamieszkania
         data_type: string
 
       - name: country
+        description: Kraj zamieszkania
         data_type: string

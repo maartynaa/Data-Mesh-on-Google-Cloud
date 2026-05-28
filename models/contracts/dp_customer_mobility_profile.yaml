@@ -4,11 +4,9 @@ models:
   - name: dp_customer_mobility_profile
 
     description: >
-      Customer mobility data product combining customer identity,
-      standardized demographic segmentation from dp_customer_demographics,
-      rental activity, and vehicle catalog data to support segmentation
-      and recommendation use cases.
-
+      Produkt danych o mobilności klientów, łączący tożsamość klienta, ustandaryzowaną segmentację demograficzną z dp_customer_demographics, 
+      dane o aktywności wynajmu oraz dane z katalogu pojazdów. 
+      Służy do wspierania segmentacji klientów oraz zastosowań rekomendacyjnych.
     config:
       materialized: table
       schema: crm_data_products
@@ -47,6 +45,7 @@ models:
 
     columns:
       - name: customer_id
+        description: Unique customer identifier
         data_type: string
         tests:
           - not_null
@@ -55,47 +54,62 @@ models:
       - name: age_segment
         data_type: string
         description: >
-          Standardized age segment sourced from dp_customer_demographics:
+          Ustandaryzowany segment wieku pochodzący z dp_customer_demographics:
           young, adult, senior, unknown
         tests:
           - accepted_values:
               values: ['young', 'adult', 'senior', 'unknown']
 
       - name: country
+        description: Kraj klienta
         data_type: string
 
       - name: rental_count
+        description: Liczba wypożyczeń
         data_type: integer
 
       - name: last_rental_date
+        description: Ostatnia data wypożyczenia
         data_type: date
 
       - name: total_expected_rental_amount
+        description: Oczekiwana finalna liczba wypożyczeń
         data_type: numeric
 
       - name: total_paid_amount
+        description: TO DO
         data_type: numeric
 
       - name: payment_status
+        description: Status płatności
         data_type: string
         tests:
           - accepted_values:
               values: ['has_unpaid', 'has_late', 'good_standing']
 
       - name: mobility_segment
+        description: Typ/segment klienta według wartości casual user, regular user, power user 
         data_type: string
         tests:
           - accepted_values:
               values: ['casual_user', 'regular_user', 'power_user']
 
       - name: recommended_brand
+        description: Rekomendowana marka samochodu
         data_type: string
 
       - name: recommended_model
+        description: Rekomendowany model samochodu
         data_type: string
 
       - name: fuel_type
+        description: Typ paliwa rekomendowanego samochodu
         data_type: string
 
       - name: vehicle_segment
+        description: Segment/typ rekomendowanego samochodu. 
+          Wartosci budget, standard, premium 
         data_type: string
+        tests:
+          - accepted_values:
+              values: ['budget', 'standard', 'premium']

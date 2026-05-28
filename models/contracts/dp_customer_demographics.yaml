@@ -4,9 +4,10 @@ models:
   - name: dp_customer_demographics
 
     description: >
-      Reference data product defining standardized customer age segmentation.
-      This is a single source of truth for demographic classification used
-      across CRM data products (mobility, survey, analytics).
+      Produkt danych referencyjnych definiujący ustandaryzowaną segmentację wieku klientów. 
+      Jest to pojedyncze, wiarygodne źródło prawdy dla klasyfikacji demograficznej 
+      wykorzystywanej w różnych produktach danych 
+      (dp_customer_profile, dp_customer_mobility_profile, dp_customer_survey_feedback).
 
     config:
       materialized: table
@@ -44,20 +45,23 @@ models:
 
     columns:
       - name: customer_id
-        description: Unique customer identifier
+        description: Unikalny identyfikator klienta.
         data_type: string
         tests:
           - not_null
           - unique
 
       - name: age
-        description: Customer age derived from birth_date
+        description: Wiek klienta wyliczony na podstawie daty urodzenia (birth_date).
         data_type: integer
 
       - name: age_segment
         description: >
-          Standardized age segmentation:
-          young (<25), adult (25–50), senior (>50), unknown (null age)
+          Ustandaryzowana segmentacja wieku: 
+          młody (<25), 
+          dorosły (25–50), 
+          senior (>50), 
+          nieznany (wiek nieokreślony / brak danych).
         data_type: string
         tests:
           - accepted_values:

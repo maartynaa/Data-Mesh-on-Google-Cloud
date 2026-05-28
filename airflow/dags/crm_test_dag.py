@@ -1,23 +1,29 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from datetime import datetime
+from datetime import datetime, timedelta
+
+default_args = {
+    "owner": "airflow",
+    "retries": 1,
+    "retry_delay": timedelta(minutes=5),
+}
 
 with DAG(
-    dag_id="crm_test_dag",
+    dag_id="dbt_daily_refresh",
+    default_args=default_args,
     start_date=datetime(2025, 1, 1),
-    schedule="@daily",
+    schedule="0 2 * * *",
     catchup=False,
-    tags=["crm", "test"],
 ) as dag:
 
-    start = BashOperator(
-        task_id="start",
-        bash_command="echo 'Start CRM pipeline'"
+    dbt_run = BashOperator(
+        task_id="dbt_run_full_refresh",
+        bash_command="cd /opt/dbt && dbt run --full-refresh"
     )
 
-    check_storage = BashOperator(
-        task_id="check_storage",
-        bash_command="echo 'Ready for GCS / Storage Transfer integration'"
+    dbt_test = BashOperator(
+        task_id="dbt_test",
+        bash_command="cd /opt/dbt && dbt test"
     )
 
-    start >> check_storage
+    dbt_run >> dbt_test

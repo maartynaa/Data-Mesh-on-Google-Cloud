@@ -4,9 +4,9 @@ models:
   - name: dp_customer_profile
 
     description: >
-      Enriched customer identity product with hashed PII fields.
-      Provides a standardized customer base used across CRM domain.
-      All identifiers and hashes are normalized to stable cross-system formats.
+      Wzbogacony produkt do identyfikacji klienta, zawierający zahaszowane i znormalizowane pola PII.
+      Służy jako standaryzowana warstwa tożsamości CRM, używana w produktach analitycznych, segmentacyjnych,
+      mobilnych i ankietowych.
 
     config:
       materialized: table
@@ -32,6 +32,8 @@ models:
 
         consumers:
           - crm_team
+          - sales_team
+          - fleet_team
           - analytics_team
           - dp_customer_mobility_profile
           - dp_customer_survey_feedback
@@ -46,47 +48,58 @@ models:
 
     columns:
       - name: customer_id
+        description: Unikalny identyfikator klienta
         data_type: string
         tests:
           - not_null
           - unique
 
       - name: first_name_hash
+        description: Zahaszowane imię klienta
         data_type: string
 
       - name: last_name_hash
+        description: Zahaszowane nazwisko klienta
         data_type: string
 
       - name: email_hash
+        description: Zahaszowany mail klienta
         data_type: string
 
       - name: is_valid_email
+        description: Flaga logiczna wskazująca, czy oryginalny format adresu e-mail był prawidłowy przed haszowaniem
         data_type: boolean
 
       - name: birth_date
+        description: Data urodzenia klienta
         data_type: date
 
       - name: age
+        description: Wiek klienta pozyskany w wyniku analizy daty urodzenia
         data_type: int64
 
       - name: age_segment
-        data_type: string
         description: >
-          Customer age segmentation:
-          young (<25), adult (25–50), senior (>50), unknown
+          Ustandaryzowana segmentacja wieku: 
+          young (<25), adult (25–50), senior (>50), unknown (missing birth_date)
+        data_type: string
         tests:
           - accepted_values:
               arguments:
                 values: ['young', 'adult', 'senior', 'unknown']
 
       - name: create_date
+        description: Data utworzenia rekordu klienta
         data_type: date
 
       - name: customer_last_update
+        description: Data ostatniej aktualizacji rekordu klienta
         data_type: timestamp
 
       - name: city
+        description: Miejsce zamieszkania klienta
         data_type: string
 
       - name: country
+        description: Kraj klienta
         data_type: string
