@@ -52,9 +52,7 @@ variable "crm_tables" {
     "customer", 
     "address", 
     "city", 
-    "country", 
-    "staff",
-    "store"
+    "country"
   ]
 }
 
@@ -66,11 +64,7 @@ variable "fleet_tables" {
     "inventory", 
     "inventory_equipment", 
     "service", 
-    "store", 
-    "rental",
-    "address", 
-    "city", 
-    "country", 
+    "store"
   ]
 }
 
@@ -80,11 +74,8 @@ variable "sales_tables" {
     "payment", 
     "rental",
     "store", 
-    "staff", 
-    "car",
-    "inventory", 
     "address", 
     "city", 
-    "country", 
+    "country"
   ]
 }

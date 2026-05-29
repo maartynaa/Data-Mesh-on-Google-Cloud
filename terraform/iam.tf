@@ -54,3 +54,9 @@ resource "google_project_iam_member" "fleet_owner_catalog_access" {
   role    = "roles/datacatalog.viewer"
   member  = "user:paulina.romanczuk@gmail.com" 
 }
+
+resource "google_project_iam_member" "sales_owner_catalog_access" {
+  project = var.project_id
+  role    = "roles/datacatalog.viewer"
+  member  = "user:kopiamu@gmail.com" 
+}
