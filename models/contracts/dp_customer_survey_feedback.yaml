@@ -37,7 +37,7 @@ models:
           - analytics_team
 
         sources:
-          - stg_survey__responses
+          - survey_responses
           - dp_customer_demographics
 
         sla:

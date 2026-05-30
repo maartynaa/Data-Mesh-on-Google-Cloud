@@ -36,8 +36,8 @@ models:
 
         sources:
           - dp_customer_profile
-          - stg_sales__customer_activity
-          - stg_fleet__car_catalog
+          - dp_customer_sales_activity
+          - dp_car_catalog
 
         sla:
           freshness: daily

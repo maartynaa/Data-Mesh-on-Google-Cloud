@@ -40,7 +40,7 @@ models:
           - dp_customer_segmentation
 
         sources:
-          - int_customer_enriched
+          - wheelie_raw
 
         sla:
           freshness: daily

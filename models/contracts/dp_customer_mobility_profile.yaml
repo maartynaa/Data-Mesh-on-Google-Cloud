@@ -34,10 +34,7 @@ models:
           - analytics_team
 
         sources:
-          - dp_customer_profile
-          - dp_customer_demographics
-          - stg_sales__customer_activity
-          - stg_fleet__car_catalog
+          - wheelie_raw
 
         sla:
           freshness: daily

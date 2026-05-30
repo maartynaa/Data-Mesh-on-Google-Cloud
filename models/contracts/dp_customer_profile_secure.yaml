@@ -34,7 +34,7 @@ models:
           - crm_team
 
         sources:
-          - int_customer_enriched
+          - wheelie_raw
 
         sla:
           freshness: daily
